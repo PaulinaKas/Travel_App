@@ -1,0 +1,181 @@
+departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
+05:50,Wroclaw,WRO,07:35,Brussels CRLBrussels (Charleroi),CRL,78
+10:30,Wroclaw,WRO,11:30,Gdansk,GDN,126
+11:25,Wroclaw,WRO,12:55,Rijeka,RJK,104
+05:50,Wroclaw,WRO,07:25,Venice TSFVenice (Treviso),TSF,114
+12:05,Wroclaw,WRO,19:10,Gdansk,GDN,150
+05:50,Wroclaw,WRO,13:55,Rijeka,RJK,150
+13:15,Wroclaw,WRO,15:00,Dubrovnik,DBV,143
+08:50,Wroclaw,WRO,13:05,Paphos,PFO,137
+11:05,Wroclaw,WRO,12:50,Milan BGYMilan (Bergamo),BGY,121
+11:05,Wroclaw,WRO,14:50,Zadar,ZAD,202
+11:05,Wroclaw,WRO,12:50,Milan BGYMilan (Bergamo),BGY,121
+14:55,Wroclaw,WRO,16:20,London LGWLondon (Gatwick),LGW,159
+12:05,Wroclaw,WRO,13:55,Oslo TRFOslo (Torp),TRF,69
+05:50,Wroclaw,WRO,08:10,Marseille,MRS,145
+05:50,Wroclaw,WRO,08:45,Sofia,SOF,218
+14:25,Wroclaw,WRO,16:10,Bologna,BLQ,213
+07:50,Wroclaw,WRO,09:10,Newcastle,NCL,71
+05:50,Wroclaw,WRO,07:35,Brussels CRLBrussels (Charleroi),CRL,78
+18:45,Wroclaw,WRO,22:20,Athens,ATH,166
+11:05,Wroclaw,WRO,17:20,Dubrovnik,DBV,236
+05:50,Wroclaw,WRO,23:15,Budapest,BUD,245
+09:20,Wroclaw,WRO,12:05,Malta,MLA,145
+13:30,Wroclaw,WRO,15:30,Rome CIARome (Ciampino),CIA,247
+05:50,Wroclaw,WRO,23:40,Palma Mall,PMI,241
+18:45,Wroclaw,WRO,22:20,Athens,ATH,166
+05:50,Wroclaw,WRO,20:10,Verona,VRN,142
+09:05,Wroclaw,WRO,13:25,Larnaca,LCA,218
+12:35,Wroclaw,WRO,14:00,Liverpool,LPL,117
+12:50,Wroclaw,WRO,01:05,Barcelona GROBarcelona (Girona),GRO,234
+05:50,Wroclaw,WRO,13:55,Brussels CRLBrussels (Charleroi),CRL,262
+12:50,Wroclaw,WRO,14:45,Pescara,PSR,171
+09:00,Wroclaw,WRO,10:35,Zadar,ZAD,316
+18:30,Wroclaw,WRO,19:45,London LTNLondon (Luton),LTN,249
+05:50,Wroclaw,WRO,16:10,Poznan,POZ,192
+16:00,Wroclaw,WRO,18:25,Palermo,PMO,267
+05:50,Wroclaw,WRO,17:45,Krakow,KRK,187
+20:10,Wroclaw,WRO,22:10,Paris BVAParis (Beauvais),BVA,97
+05:50,Wroclaw,WRO,12:30,Palermo,PMO,274
+05:50,Wroclaw,WRO,07:25,Edinburgh,EDI,98
+17:40,Wroclaw,WRO,21:30,Chania,CHQ,279
+05:45,Wroclaw,WRO,22:45,Corfu,CFU,302
+05:50,Wroclaw,WRO,08:45,Sofia,SOF,218
+11:05,Wroclaw,WRO,20:55,Valencia,VLC,185
+15:30,Wroclaw,WRO,16:45,East Midla,EMA,169
+05:50,Wroclaw,WRO,20:55,Cluj CLJCluj-Napoca,CLJ,236
+05:50,Wroclaw,WRO,07:25,Venice TSFVenice (Treviso),TSF,114
+13:55,Wroclaw,WRO,15:35,Split,SPU,208
+09:20,Wroclaw,WRO,22:10,Sofia,SOF,336
+05:50,Wroclaw,WRO,22:20,Warsaw WMIWarsaw (Modlin),WMI,214
+12:45,Wroclaw,WRO,14:40,Pisa,PSA,359
+11:05,Wroclaw,WRO,14:50,Zadar,ZAD,202
+05:50,Wroclaw,WRO,19:30,Malta,MLA,225
+07:50,Wroclaw,WRO,22:15,Bristol,BRS,220
+22:45,Wroclaw,WRO,00:40,Tirana,TIA,218
+05:50,Wroclaw,WRO,10:50,London LGWLondon (Gatwick),LGW,323
+21:50,Wroclaw,WRO,23:15,Manchester,MAN,175
+05:50,Wroclaw,WRO,20:05,Manchester,MAN,183
+13:00,Wroclaw,WRO,15:30,Barcelona GROBarcelona (Girona),GRO,316
+13:30,Wroclaw,WRO,15:30,Rome CIARome (Ciampino),CIA,247
+05:50,Wroclaw,WRO,14:45,Birmingham,BHX,233
+05:50,Wroclaw,WRO,14:50,Manchester,MAN,183
+09:20,Wroclaw,WRO,12:05,Malta,MLA,145
+09:20,Wroclaw,WRO,10:40,Bristol,BRS,239
+15:25,Wroclaw,WRO,17:50,Lamezia Te,SUF,372
+10:45,Wroclaw,WRO,22:30,Turin,TRN,195
+12:50,Wroclaw,WRO,01:05,Barcelona GROBarcelona (Girona),GRO,234
+14:25,Wroclaw,WRO,16:10,Bologna,BLQ,213
+07:50,Wroclaw,WRO,09:10,Newcastle,NCL,71
+18:30,Wroclaw,WRO,19:45,London LTNLondon (Luton),LTN,249
+11:05,Wroclaw,WRO,18:50,Luxembourg,LUX,195
+05:50,Wroclaw,WRO,00:10,Alicante,ALC,218
+05:45,Wroclaw,WRO,07:50,Brindisi,BDS,312
+20:10,Wroclaw,WRO,22:10,Paris BVAParis (Beauvais),BVA,97
+12:35,Wroclaw,WRO,14:00,Liverpool,LPL,117
+11:05,Wroclaw,WRO,01:00,Katowice,KTW,253
+15:30,Wroclaw,WRO,16:45,East Midla,EMA,169
+05:50,Wroclaw,WRO,14:50,Bari,BRI,367
+10:45,Wroclaw,WRO,16:15,Zagreb,ZAG,258
+12:05,Wroclaw,WRO,19:10,Gdansk,GDN,150
+17:40,Wroclaw,WRO,21:30,Chania,CHQ,279
+15:55,Wroclaw,WRO,00:50,Frankfurt HHNFrankfurt (Hahn),HHN,270
+11:05,Wroclaw,WRO,16:55,Madrid,MAD,227
+12:50,Wroclaw,WRO,14:45,Pescara,PSR,171
+11:30,Wroclaw,WRO,17:35,Riga,RIX,347
+09:50,Wroclaw,WRO,15:50,Marseille,MRS,375
+05:50,Wroclaw,WRO,13:50,Bari,BRI,328
+09:00,Wroclaw,WRO,16:25,Milan BGYMilan (Bergamo),BGY,390
+19:30,Wroclaw,WRO,21:15,Dublin,DUB,351
+09:20,Wroclaw,WRO,22:10,Sofia,SOF,336
+05:50,Wroclaw,WRO,23:40,Palma Mall,PMI,241
+09:00,Wroclaw,WRO,10:35,Zadar,ZAD,316
+09:50,Wroclaw,WRO,22:10,Brindisi,BDS,367
+09:00,Wroclaw,WRO,16:25,Milan BGYMilan (Bergamo),BGY,390
+05:50,Wroclaw,WRO,19:30,Malta,MLA,225
+12:05,Wroclaw,WRO,15:20,Corfu,CFU,435
+06:15,Wroclaw,WRO,08:40,Lamezia Te,SUF,337
+09:20,Wroclaw,WRO,16:25,Brussels CRLBrussels (Charleroi),CRL,293
+05:45,Wroclaw,WRO,19:15,Paphos,PFO,430
+13:00,Wroclaw,WRO,15:30,Barcelona GROBarcelona (Girona),GRO,316
+11:05,Wroclaw,WRO,17:30,Dusseldorf NRNDusseldorf (Weeze),NRN,235
+10:45,Wroclaw,WRO,16:35,Oslo TRFOslo (Torp),TRF,334
+09:00,Wroclaw,WRO,16:40,Milan MXPMilan (Malpensa),MXP,380
+13:15,Wroclaw,WRO,15:00,Dubrovnik,DBV,143
+09:50,Wroclaw,WRO,18:25,Naples,NAP,333
+07:50,Wroclaw,WRO,22:15,Bristol,BRS,220
+05:55,Wroclaw,WRO,12:55,Lamezia Te,SUF,362
+05:50,Wroclaw,WRO,20:10,Nantes,NTE,240
+05:50,Wroclaw,WRO,15:00,Toulouse,TLS,296
+12:05,Wroclaw,WRO,13:55,Oslo TRFOslo (Torp),TRF,69
+19:20,Wroclaw,WRO,21:10,Shannon,SNN,153
+10:30,Wroclaw,WRO,15:40,Rome CIARome (Ciampino),CIA,435
+09:20,Wroclaw,WRO,10:40,Bristol,BRS,239
+12:05,Wroclaw,WRO,18:05,London STNLondon (Stansted),STN,454
+05:50,Wroclaw,WRO,20:10,Bucharest OTPBucharest (Otopeni),OTP,316
+11:05,Wroclaw,WRO,17:00,Cologne CGNCologne-Bonn,CGN,234
+11:30,Wroclaw,WRO,13:15,Stockholm ARNStockholm (Arlanda),ARN,118
+11:10,Wroclaw,WRO,23:15,Pisa,PSA,521
+21:50,Wroclaw,WRO,23:15,Manchester,MAN,175
+14:50,Wroclaw,WRO,16:55,Naples,NAP,363
+05:50,Wroclaw,WRO,01:05,Shannon,SNN,173
+05:50,Wroclaw,WRO,23:15,Budapest,BUD,245
+10:30,Wroclaw,WRO,21:30,Paris BVAParis (Beauvais),BVA,262
+05:45,Wroclaw,WRO,07:50,Brindisi,BDS,312
+05:50,Wroclaw,WRO,15:00,Malaga,AGP,325
+11:05,Wroclaw,WRO,17:05,Berlin BERBerlin (Brandenburg),BER,303
+10:45,Wroclaw,WRO,11:45,Gdansk,GDN,263
+05:50,Wroclaw,WRO,18:00,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,425
+09:20,Wroclaw,WRO,21:55,Bologna,BLQ,502
+09:50,Wroclaw,WRO,18:25,Naples,NAP,333
+09:35,Wroclaw,WRO,10:50,Leeds,LBA,410
+05:45,Wroclaw,WRO,07:40,Pisa,PSA,405
+12:35,Wroclaw,WRO,18:45,Jersey,JER,377
+05:50,Wroclaw,WRO,19:00,Pescara,PSR,461
+06:00,Wroclaw,WRO,11:30,Kutaisi,KUT,359
+05:50,Wroclaw,WRO,15:00,Malaga,AGP,325
+13:55,Wroclaw,WRO,23:10,London LTNLondon (Luton),LTN,506
+11:05,Wroclaw,WRO,20:55,Valencia,VLC,185
+10:30,Wroclaw,WRO,15:40,Rome CIARome (Ciampino),CIA,435
+13:20,Wroclaw,WRO,15:20,Bari,BRI,448
+14:55,Wroclaw,WRO,16:20,London LGWLondon (Gatwick),LGW,159
+05:50,Wroclaw,WRO,00:45,Athens,ATH,479
+11:05,Wroclaw,WRO,19:25,Vilnius,VNO,408
+05:50,Wroclaw,WRO,08:10,Marseille,MRS,145
+11:05,Wroclaw,WRO,17:20,Dubrovnik,DBV,236
+09:50,Wroclaw,WRO,22:10,Brindisi,BDS,367
+22:45,Wroclaw,WRO,00:40,Tirana,TIA,218
+06:00,Wroclaw,WRO,09:45,Malaga,AGP,448
+05:50,Wroclaw,WRO,12:40,Split,SPU,451
+08:50,Wroclaw,WRO,13:05,Paphos,PFO,137
+16:15,Wroclaw,WRO,01:00,Chania,CHQ,537
+05:50,Wroclaw,WRO,23:50,Faro,FAO,236
+05:45,Wroclaw,WRO,08:35,Palma Mall,PMI,441
+11:50,Wroclaw,WRO,18:55,Edinburgh,EDI,374
+05:50,Wroclaw,WRO,00:45,Athens,ATH,479
+05:50,Wroclaw,WRO,07:25,Edinburgh,EDI,98
+05:50,Wroclaw,WRO,20:05,Belfast,BFS,283
+10:45,Wroclaw,WRO,20:40,Prague,PRG,382
+05:50,Wroclaw,WRO,23:10,Tirana,TIA,461
+05:45,Wroclaw,WRO,19:30,Catania,CTA,334
+11:50,Wroclaw,WRO,18:00,Barcelona,BCN,361
+05:50,Wroclaw,WRO,10:45,Beziers,BZR,245
+16:00,Wroclaw,WRO,18:25,Palermo,PMO,267
+14:25,Wroclaw,WRO,21:20,Sevilla,SVQ,341
+13:00,Wroclaw,WRO,17:50,East Midla,EMA,450
+10:30,Wroclaw,WRO,21:35,Leeds,LBA,494
+05:50,Wroclaw,WRO,12:30,Palermo,PMO,274
+17:25,Wroclaw,WRO,22:50,Reggio Cal,REG,456
+05:50,Wroclaw,WRO,14:25,Vienna,VIE,381
+13:20,Wroclaw,WRO,15:20,Bari,BRI,448
+05:45,Wroclaw,WRO,22:45,Corfu,CFU,302
+05:50,Wroclaw,WRO,20:30,Iasi,IAS,319
+05:45,Wroclaw,WRO,18:00,Kutaisi,KUT,434
+05:50,Wroclaw,WRO,10:35,Tangier,TNG,466
+10:30,Wroclaw,WRO,17:20,Goteborg GOTGoteborg (Landvetter),GOT,285
+05:45,Wroclaw,WRO,07:35,Podgorica,TGD,404
+08:50,Wroclaw,WRO,21:40,Thessaloni,SKG,385
+10:55,Wroclaw,WRO,13:00,Naples,NAP,448
+06:00,Wroclaw,WRO,09:45,Malaga,AGP,448
+13:15,Wroclaw,WRO,22:50,Paris ORYParis (Orly),ORY,262
+19:20,Wroclaw,WRO,21:10,Shannon,SNN,153

@@ -1,0 +1,50 @@
+departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
+22:20,Bydgoszcz,BZG,23:45,Bristol,BRS,137
+21:10,Bydgoszcz,BZG,00:30,Alicante,ALC,288
+21:10,Bydgoszcz,BZG,00:30,Alicante,ALC,288
+22:40,Bydgoszcz,BZG,23:50,London STNLondon (Stansted),STN,333
+18:15,Bydgoszcz,BZG,23:45,Edinburgh,EDI,470
+18:15,Bydgoszcz,BZG,22:55,Glasgow,GLA,470
+22:00,Bydgoszcz,BZG,23:25,Birmingham,BHX,187
+10:10,Bydgoszcz,BZG,11:25,London LTNLondon (Luton),LTN,585
+22:00,Bydgoszcz,BZG,23:25,Birmingham,BHX,187
+18:15,Bydgoszcz,BZG,23:05,Belfast,BFS,470
+22:55,Bydgoszcz,BZG,00:45,Dublin,DUB,139
+18:15,Bydgoszcz,BZG,00:15,Palma Mall,PMI,465
+10:00,Bydgoszcz,BZG,22:40,Bristol,BRS,790
+10:10,Bydgoszcz,BZG,18:30,Alicante,ALC,795
+10:10,Bydgoszcz,BZG,18:30,Alicante,ALC,795
+10:00,Bydgoszcz,BZG,21:55,London LTNLondon (Luton),LTN,806
+10:10,Bydgoszcz,BZG,15:10,Faro,FAO,984
+10:00,Bydgoszcz,BZG,22:30,Ibiza,IBZ,584
+10:00,Bydgoszcz,BZG,21:20,Geneva,GVA,801
+10:10,Bydgoszcz,BZG,18:55,Barcelona,BCN,928
+10:10,Bydgoszcz,BZG,20:05,Inverness,INV,894
+10:10,Bydgoszcz,BZG,16:50,Malaga,AGP,1049
+10:10,Bydgoszcz,BZG,20:45,Split,SPU,989
+10:10,Bydgoszcz,BZG,22:50,Menorca,MAH,1104
+18:05,Bydgoszcz,BZG,23:45,Zagreb,ZAG,1024
+10:10,Bydgoszcz,BZG,21:40,Nice,NCE,1052
+10:10,Bydgoszcz,BZG,16:00,Pisa,PSA,1052
+10:05,Bydgoszcz,BZG,16:30,Beziers,BZR,1067
+10:10,Bydgoszcz,BZG,21:20,Paris CDGParis (Charles de Gaulle),CDG,1052
+10:10,Bydgoszcz,BZG,16:40,Lyon,LYS,1052
+10:05,Bydgoszcz,BZG,15:25,Farranfore,KIR,826
+10:10,Bydgoszcz,BZG,00:25,Bacau,BCM,1169
+10:10,Bydgoszcz,BZG,23:00,Belgrade,BEG,899
+10:10,Bydgoszcz,BZG,21:05,Lisbon,LIS,1052
+10:00,Bydgoszcz,BZG,17:50,Amsterdam,AMS,1263
+10:05,Bydgoszcz,BZG,15:45,Lublin,LUZ,1331
+10:10,Bydgoszcz,BZG,16:20,Prague,PRG,1052
+10:05,Bydgoszcz,BZG,21:45,Rzeszow RZERzeszow-Jasionka,RZE,1371
+09:55,Bydgoszcz,BZG,15:15,Nantes,NTE,1702
+10:10,Bydgoszcz,BZG,19:05,Rhodes,RHO,1052
+09:55,Bydgoszcz,BZG,20:55,Murcia,RMU,1609
+09:55,Bydgoszcz,BZG,20:30,Bratislava,BTS,1708
+09:55,Bydgoszcz,BZG,18:45,Oslo OSLOslo (Gardermoen),OSL,1666
+10:10,Bydgoszcz,BZG,22:15,Vilnius,VNO,1351
+09:55,Bydgoszcz,BZG,18:50,Catania,CTA,1798
+09:55,Bydgoszcz,BZG,15:55,Newquay,NQY,1637
+09:55,Bydgoszcz,BZG,21:40,Gdansk,GDN,1706
+10:05,Bydgoszcz,BZG,17:50,Naples,NAP,1691
+09:55,Bydgoszcz,BZG,16:25,Cologne CGNCologne-Bonn,CGN,1867

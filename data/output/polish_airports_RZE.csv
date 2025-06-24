@@ -1,0 +1,94 @@
+departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,11:10,Milan MXPMilan (Malpensa),MXP,138
+21:15,Rzeszow RZERzeszow-Jasionka,RZE,23:59,Malta,MLA,118
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,23:05,Malta,MLA,272
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,16:00,London STNLondon (Stansted),STN,213
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,19:30,Milan MXPMilan (Malpensa),MXP,662
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,22:20,Alicante,ALC,552
+20:35,Rzeszow RZERzeszow-Jasionka,RZE,22:15,Zadar,ZAD,138
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,19:25,Frankfurt HHNFrankfurt (Hahn),HHN,288
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,22:50,Catania,CTA,367
+19:35,Rzeszow RZERzeszow-Jasionka,RZE,23:30,Belfast,BFS,358
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,15:20,Manchester,MAN,278
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,14:35,Palermo,PMO,420
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:10,Manchester,MAN,310
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:20,Bari,BRI,420
+19:35,Rzeszow RZERzeszow-Jasionka,RZE,21:30,Manchester,MAN,233
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,15:10,Porto,OPO,323
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,22:15,Palma Mall,PMI,301
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,20:35,Valencia,VLC,505
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,14:55,Malaga,AGP,338
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,00:20,Gdansk,GDN,291
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,00:10,Olbia,OLB,559
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:10,Manchester,MAN,310
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,15:15,Prishtina,PRN,520
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,14:40,Paris ORYParis (Orly),ORY,244
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,13:50,Menorca,MAH,559
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,00:20,Cagliari,CAG,559
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,22:50,Trieste,TRS,504
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,22:45,Barcelona,BCN,501
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:40,Athens,ATH,559
+21:15,Rzeszow RZERzeszow-Jasionka,RZE,23:59,Malta,MLA,118
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,15:45,Ibiza,IBZ,491
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,00:15,Bristol,BRS,871
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:15,Corfu,CFU,442
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,18:45,Edinburgh,EDI,403
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,16:40,Oslo TRFOslo (Torp),TRF,427
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,21:00,Katowice,KTW,526
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,20:00,Santiago D,SCQ,361
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,22:20,Alicante,ALC,552
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,19:30,Glasgow,GLA,408
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,20:30,Amsterdam,AMS,401
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,13:00,Alicante,ALC,675
+08:05,Rzeszow RZERzeszow-Jasionka,RZE,15:20,Mikonos,JMK,538
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,16:30,Budapest,BUD,334
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,11:10,Milan MXPMilan (Malpensa),MXP,138
+08:05,Rzeszow RZERzeszow-Jasionka,RZE,16:00,London LTNLondon (Luton),LTN,587
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:40,Lamezia Te,SUF,559
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,23:05,Malta,MLA,272
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,21:40,Brindisi,BDS,559
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,22:15,Paris BVAParis (Beauvais),BVA,353
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,20:20,Split,SPU,632
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,13:00,Alicante,ALC,675
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,22:20,Dubrovnik,DBV,491
+08:05,Rzeszow RZERzeszow-Jasionka,RZE,22:30,Paris CDGParis (Charles de Gaulle),CDG,379
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,16:55,Lourdes LDELourdes-Tarbes,LDE,476
+08:05,Rzeszow RZERzeszow-Jasionka,RZE,16:00,London LTNLondon (Luton),LTN,587
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,16:15,Rome FCORome (Fiumicino),FCO,1121
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,19:40,Sevilla,SVQ,800
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,16:05,Limoges,LIG,556
+09:00,Rzeszow RZERzeszow-Jasionka,RZE,22:45,Warsaw,WAW,876
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,22:40,Vienna,VIE,201
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,18:15,Reykjavik KEFReykjavik (Keflavik),KEF,754
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,16:40,Oslo OSLOslo (Gardermoen),OSL,581
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,15:15,Lampedusa,LMP,559
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,20:35,Barcelona REUBarcelona (Reus),REU,377
+08:05,Rzeszow RZERzeszow-Jasionka,RZE,18:05,Naples,NAP,368
+09:00,Rzeszow RZERzeszow-Jasionka,RZE,17:25,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,851
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,20:55,Murcia,RMU,597
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,17:45,Memmingen,FMM,496
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,23:00,Lisbon,LIS,897
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,20:05,Prague,PRG,435
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,22:20,Rotterdam,RTM,465
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,22:00,Berlin BERBerlin (Brandenburg),BER,727
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,00:15,Bristol,BRS,871
+09:15,Rzeszow RZERzeszow-Jasionka,RZE,17:50,Tenerife S,TFS,559
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,19:10,Newquay,NQY,940
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,22:35,Vilnius,VNO,782
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,20:55,Vigo,VGO,595
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,23:55,London LGWLondon (Gatwick),LGW,907
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,23:40,Nice,NCE,617
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,22:05,Bratislava,BTS,835
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,21:40,Bordeaux,BOD,617
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,19:30,Milan MXPMilan (Malpensa),MXP,662
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,21:10,Enfidha,NBE,795
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,21:45,Copenhagen,CPH,901
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,17:20,Dusseldorf NRNDusseldorf (Weeze),NRN,987
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,19:15,Lodz,LCJ,1009
+09:00,Rzeszow RZERzeszow-Jasionka,RZE,15:45,Geneva,GVA,881
+10:55,Rzeszow RZERzeszow-Jasionka,RZE,20:40,Kosice,KSC,902
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,19:40,Poznan,POZ,1168
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,21:25,Bournemout,BOH,1217
+09:30,Rzeszow RZERzeszow-Jasionka,RZE,00:50,Lyon,LYS,893
+13:25,Rzeszow RZERzeszow-Jasionka,RZE,21:55,Barcelona GROBarcelona (Girona),GRO,1051
+14:20,Rzeszow RZERzeszow-Jasionka,RZE,01:05,Kaunas,KUN,1113

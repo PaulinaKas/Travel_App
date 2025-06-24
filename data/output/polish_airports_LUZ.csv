@@ -1,0 +1,64 @@
+departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
+07:20,Lublin,LUZ,08:30,Gdansk,GDN,345
+10:35,Lublin,LUZ,12:20,London LTNLondon (Luton),LTN,187
+20:20,Lublin,LUZ,22:10,Split,SPU,298
+13:00,Lublin,LUZ,15:05,Milan BGYMilan (Bergamo),BGY,341
+08:25,Lublin,LUZ,21:25,Gdansk,GDN,515
+12:10,Lublin,LUZ,15:10,Bourgas,BOJ,298
+10:35,Lublin,LUZ,17:45,Palma Mall,PMI,312
+07:20,Lublin,LUZ,20:40,Milan BGYMilan (Bergamo),BGY,600
+10:35,Lublin,LUZ,20:45,Split,SPU,591
+10:35,Lublin,LUZ,21:20,Corfu,CFU,562
+20:20,Lublin,LUZ,00:25,Rome FCORome (Fiumicino),FCO,448
+10:35,Lublin,LUZ,12:20,London LTNLondon (Luton),LTN,187
+07:20,Lublin,LUZ,01:10,Bratislava,BTS,497
+08:25,Lublin,LUZ,14:50,Alicante,ALC,483
+07:20,Lublin,LUZ,22:50,Bourgas,BOJ,704
+09:25,Lublin,LUZ,12:15,Barcelona GROBarcelona (Girona),GRO,746
+10:35,Lublin,LUZ,20:40,Edinburgh,EDI,402
+10:35,Lublin,LUZ,15:55,Lyon,LYS,611
+08:25,Lublin,LUZ,01:30,Timisoara,TSR,468
+10:35,Lublin,LUZ,21:35,Barcelona,BCN,371
+07:20,Lublin,LUZ,22:50,Manchester,MAN,578
+10:35,Lublin,LUZ,18:55,Jersey,JER,527
+10:35,Lublin,LUZ,19:00,Faro,FAO,363
+10:35,Lublin,LUZ,16:40,Belfast,BFS,372
+13:00,Lublin,LUZ,20:50,Malaga,AGP,460
+10:35,Lublin,LUZ,17:30,Paris CDGParis (Charles de Gaulle),CDG,527
+08:25,Lublin,LUZ,16:20,Vilnius,VNO,677
+10:35,Lublin,LUZ,21:05,Glasgow,GLA,507
+08:25,Lublin,LUZ,22:15,Rotterdam,RTM,536
+12:10,Lublin,LUZ,15:10,Bourgas,BOJ,298
+16:10,Lublin,LUZ,22:40,Paris ORYParis (Orly),ORY,656
+10:10,Lublin,LUZ,23:50,Ibiza,IBZ,623
+07:20,Lublin,LUZ,22:40,Krakow,KRK,444
+20:20,Lublin,LUZ,22:10,Split,SPU,448
+10:35,Lublin,LUZ,22:50,Menorca,MAH,527
+10:35,Lublin,LUZ,20:15,Inverness,INV,542
+10:35,Lublin,LUZ,20:15,Prague,PRG,557
+10:35,Lublin,LUZ,21:20,Nice,NCE,572
+16:20,Lublin,LUZ,00:25,Bacau,BCM,942
+09:00,Lublin,LUZ,01:50,Amsterdam,AMS,703
+16:20,Lublin,LUZ,21:45,Berlin BERBerlin (Brandenburg),BER,985
+08:25,Lublin,LUZ,01:35,Craiova,CRA,639
+13:10,Lublin,LUZ,22:25,Vienna,VIE,786
+07:20,Lublin,LUZ,16:45,Pisa,PSA,627
+10:35,Lublin,LUZ,20:45,Split,SPU,591
+10:35,Lublin,LUZ,21:00,Lisbon,LIS,654
+13:00,Lublin,LUZ,00:05,Helsinki,HEL,749
+13:10,Lublin,LUZ,00:10,London LGWLondon (Gatwick),LGW,912
+16:20,Lublin,LUZ,20:25,Aberdeen,ABZ,955
+10:35,Lublin,LUZ,23:00,Belgrade,BEG,502
+09:25,Lublin,LUZ,15:20,Bristol,BRS,929
+16:20,Lublin,LUZ,02:30,Varna,VAR,1007
+08:25,Lublin,LUZ,19:10,Marrakech,RAK,721
+07:20,Lublin,LUZ,22:50,Bourgas,BOJ,704
+10:10,Lublin,LUZ,19:00,Catania,CTA,815
+18:50,Lublin,LUZ,21:05,Dublin,DUB,697
+10:10,Lublin,LUZ,19:55,Larnaca,LCA,825
+08:25,Lublin,LUZ,23:45,Copenhagen,CPH,492
+07:20,Lublin,LUZ,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,654
+20:20,Lublin,LUZ,00:40,Milan MXPMilan (Malpensa),MXP,582
+07:20,Lublin,LUZ,16:50,Oslo OSLOslo (Gardermoen),OSL,504
+13:00,Lublin,LUZ,20:20,Stockholm ARNStockholm (Arlanda),ARN,869
+10:10,Lublin,LUZ,17:30,Kaunas,KUN,1039
