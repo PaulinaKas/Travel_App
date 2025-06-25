@@ -50,16 +50,16 @@ def get_route_data(src_city_code: str,  # City [IATA]
                 from_raw = row.select_one(".from").text.strip()  # np. '08:10 Warsaw WAW'
                 from_parts = from_raw.split(" ")
                 departure_time = from_parts[0]
+                departure_weekday, departure_date = get_weekday(row, departure_time)
                 departure_city = " ".join(from_parts[1:-1])
                 departure_airport = from_parts[-1]
-                departure_weekday,departure_date = get_weekday(row, departure_time)
 
                 to_raw = row.select_one(".to").text.strip()  # np. '08:10 Warsaw WAW'
                 to_parts = to_raw.split(" ")
                 arrival_time = to_parts[0]
+                arrival_weekday, arrival_date = get_weekday(row, arrival_time)
                 arrival_city = " ".join(to_parts[1:-1])
                 arrival_airport = to_parts[-1]
-                arrival_weekday, arrival_date = get_weekday(row, arrival_time)
 
                 price = row.select_one(".subPrice") or row.select_one(".price") or row.select_one(".priceTotal")
                 if price:
@@ -146,7 +146,7 @@ for airport in polish_airports:
     input = [airport]
     input.extend(get_days())
     data = get_route_data(*input)
-    if pd.isna(data.unique()).all():
+    if pd.isna(data.nunique()).all():
         continue
     all_data = pd.concat([all_data, data], ignore_index=True)
     iata = data.departure_airport.unique()[0]

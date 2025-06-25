@@ -1,57 +1,64 @@
-departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
-17:25,Szczecin,SZZ,18:35,Krakow,KRK,133
-16:25,Szczecin,SZZ,17:35,Liverpool,LPL,126
-23:00,Szczecin,SZZ,23:55,London STNLondon (Stansted),STN,78
-23:10,Szczecin,SZZ,00:35,Dublin,DUB,139
-09:10,Szczecin,SZZ,13:40,Belfast,BFS,288
-15:25,Szczecin,SZZ,20:25,Luxembourg,LUX,259
-17:25,Szczecin,SZZ,18:35,Krakow,KRK,133
-10:05,Szczecin,SZZ,18:30,Riga,RIX,324
-16:25,Szczecin,SZZ,22:00,Palma Mall,PMI,255
-16:45,Szczecin,SZZ,22:05,Barcelona,BCN,253
-10:05,Szczecin,SZZ,11:30,Oslo TRFOslo (Torp),TRF,157
-14:55,Szczecin,SZZ,19:25,Frankfurt HHNFrankfurt (Hahn),HHN,273
-09:10,Szczecin,SZZ,14:50,Isle Of Ma,IOM,348
-14:55,Szczecin,SZZ,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,273
-16:25,Szczecin,SZZ,22:45,Malaga,AGP,345
-10:05,Szczecin,SZZ,11:30,Oslo TRFOslo (Torp),TRF,157
-09:10,Szczecin,SZZ,21:10,Berlin BERBerlin (Brandenburg),BER,378
-15:25,Szczecin,SZZ,22:30,Toulouse,TLS,319
-17:25,Szczecin,SZZ,21:25,Turin,TRN,343
-09:10,Szczecin,SZZ,01:20,Katowice,KTW,273
-14:55,Szczecin,SZZ,20:35,Barcelona REUBarcelona (Reus),REU,362
-17:25,Szczecin,SZZ,23:05,Paris CDGParis (Charles de Gaulle),CDG,300
-10:05,Szczecin,SZZ,16:35,London STNLondon (Stansted),STN,567
-15:25,Szczecin,SZZ,21:55,Osijek,OSI,430
-17:25,Szczecin,SZZ,23:25,Pisa,PSA,292
-09:10,Szczecin,SZZ,16:10,Zadar,ZAD,376
-09:10,Szczecin,SZZ,17:40,Belfast BHDBelfast (city),BHD,565
-15:25,Szczecin,SZZ,01:10,Paphos,PFO,567
-16:25,Szczecin,SZZ,23:55,Alicante,ALC,410
-15:25,Szczecin,SZZ,21:25,Rzeszow RZERzeszow-Jasionka,RZE,474
-17:25,Szczecin,SZZ,00:05,Oslo OSLOslo (Gardermoen),OSL,281
-14:55,Szczecin,SZZ,20:00,Santiago D,SCQ,345
-09:10,Szczecin,SZZ,01:05,Gdansk,GDN,423
-15:25,Szczecin,SZZ,20:40,Stockholm ARNStockholm (Arlanda),ARN,291
-15:25,Szczecin,SZZ,22:45,Edinburgh,EDI,380
-23:10,Szczecin,SZZ,00:35,Dublin,DUB,139
-14:55,Szczecin,SZZ,19:30,Glasgow,GLA,392
-17:25,Szczecin,SZZ,23:05,Corfu,CFU,505
-14:55,Szczecin,SZZ,20:55,Murcia,RMU,581
-09:10,Szczecin,SZZ,20:25,Prague,PRG,403
-09:10,Szczecin,SZZ,21:10,Nice,NCE,595
-09:10,Szczecin,SZZ,16:00,Amsterdam,AMS,595
-21:55,Szczecin,SZZ,23:05,Liverpool,LPL,214
-10:05,Szczecin,SZZ,17:35,Warsaw,WAW,822
-14:55,Szczecin,SZZ,22:35,Vilnius,VNO,766
-16:55,Szczecin,SZZ,23:25,London LGWLondon (Gatwick),LGW,842
-09:10,Szczecin,SZZ,21:35,Poznan,POZ,873
-15:25,Szczecin,SZZ,21:30,Ostrava,OSR,621
-09:10,Szczecin,SZZ,20:50,Cork,ORK,847
-14:55,Szczecin,SZZ,19:10,Newquay,NQY,924
-17:25,Szczecin,SZZ,23:45,Trondheim,TRD,443
-15:25,Szczecin,SZZ,21:00,Santander,SDR,754
-15:25,Szczecin,SZZ,21:05,Palermo,PMO,472
-15:25,Szczecin,SZZ,20:50,Kosice,KSC,956
-15:25,Szczecin,SZZ,23:05,Madeira FNCMadeira (Funchal),FNC,580
-09:10,Szczecin,SZZ,23:15,Bodrum,BJV,952
+departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,17:55,Liverpool,LPL,153
+26/06/25,Thu,23:00,Szczecin,SZZ,26/06/25,Thu,23:55,London STNLondon (Stansted),STN,79
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,18:35,Krakow,KRK,219
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,01:20,Katowice,KTW,297
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,22:05,Barcelona,BCN,277
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,13:40,Belfast,BFS,313
+26/06/25,Thu,23:10,Szczecin,SZZ,26/06/25,Thu,00:35,Dublin,DUB,141
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,19:25,Frankfurt HHNFrankfurt (Hahn),HHN,310
+27/06/25,Fri,10:05,Szczecin,SZZ,27/06/25,Fri,11:30,Oslo TRFOslo (Torp),TRF,158
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,01:05,Gdansk,GDN,332
+27/06/25,Fri,10:05,Szczecin,SZZ,27/06/25,Fri,18:30,Riga,RIX,324
+27/06/25,Fri,10:05,Szczecin,SZZ,27/06/25,Fri,11:30,Oslo TRFOslo (Torp),TRF,158
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,310
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,23:15,Palma Mall,PMI,438
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,14:50,Isle Of Ma,IOM,373
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,21:10,Faro,FAO,403
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,21:10,Berlin BERBerlin (Brandenburg),BER,403
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,20:35,Barcelona REUBarcelona (Reus),REU,400
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,21:25,Turin,TRN,429
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,18:35,Krakow,KRK,219
+28/06/25,Sat,16:25,Szczecin,SZZ,28/06/25,Sat,22:45,Malaga,AGP,467
+30/06/25,Mon,10:05,Szczecin,SZZ,30/06/25,Mon,16:35,London STNLondon (Stansted),STN,566
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:05,Paris CDGParis (Charles de Gaulle),CDG,386
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,17:40,Belfast BHDBelfast (city),BHD,590
+28/06/25,Sat,16:25,Szczecin,SZZ,28/06/25,Sat,23:55,Alicante,ALC,502
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,22:35,Lanzarote,ACE,680
+30/06/25,Mon,10:05,Szczecin,SZZ,30/06/25,Mon,17:35,Warsaw,WAW,724
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,20:25,Prague,PRG,428
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,01:25,Iasi,IAS,756
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,20:25,Luxembourg,LUX,598
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,22:30,Toulouse,TLS,659
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,00:05,Oslo OSLOslo (Gardermoen),OSL,367
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,20:00,Santiago D,SCQ,383
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:25,Pisa,PSA,378
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,20:50,Cork,ORK,373
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,16:10,Zadar,ZAD,478
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,18:45,Edinburgh,EDI,425
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,19:30,Glasgow,GLA,430
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,20:55,Murcia,RMU,619
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:55,Osijek,OSI,849
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,16:00,Amsterdam,AMS,620
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,13:35,Knock,NOC,1042
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:10,Madrid,MAD,805
+29/06/25,Sun,16:55,Szczecin,SZZ,29/06/25,Sun,21:20,Bologna,BLQ,613
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,22:35,Vilnius,VNO,804
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,21:10,Nice,NCE,620
+26/06/25,Thu,23:10,Szczecin,SZZ,26/06/25,Thu,00:35,Dublin,DUB,141
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,22:50,Stockholm ARNStockholm (Arlanda),ARN,404
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:05,Corfu,CFU,651
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,00:40,Athens,ATH,1054
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,23:55,Paphos,PFO,864
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,19:10,Newquay,NQY,962
+29/06/25,Sun,16:55,Szczecin,SZZ,29/06/25,Sun,23:25,London LGWLondon (Gatwick),LGW,836
+30/06/25,Mon,10:05,Szczecin,SZZ,30/06/25,Mon,00:10,Zagreb,ZAG,1089
+25/06/25,Wed,21:55,Szczecin,SZZ,25/06/25,Wed,23:05,Liverpool,LPL,286
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,813
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:45,Trondheim,TRD,529
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:00,Santander,SDR,1088
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,21:40,Naples,NAP,1128
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:30,Ostrava,OSR,961
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:05,Palermo,PMO,812
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,23:05,Madeira FNCMadeira (Funchal),FNC,1024
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,23:15,Bodrum,BJV,977

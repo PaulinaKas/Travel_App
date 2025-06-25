@@ -1,181 +1,181 @@
-departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
-05:50,Wroclaw,WRO,07:35,Brussels CRLBrussels (Charleroi),CRL,78
-10:30,Wroclaw,WRO,11:30,Gdansk,GDN,126
-11:25,Wroclaw,WRO,12:55,Rijeka,RJK,104
-05:50,Wroclaw,WRO,07:25,Venice TSFVenice (Treviso),TSF,114
-12:05,Wroclaw,WRO,19:10,Gdansk,GDN,150
-05:50,Wroclaw,WRO,13:55,Rijeka,RJK,150
-13:15,Wroclaw,WRO,15:00,Dubrovnik,DBV,143
-08:50,Wroclaw,WRO,13:05,Paphos,PFO,137
-11:05,Wroclaw,WRO,12:50,Milan BGYMilan (Bergamo),BGY,121
-11:05,Wroclaw,WRO,14:50,Zadar,ZAD,202
-11:05,Wroclaw,WRO,12:50,Milan BGYMilan (Bergamo),BGY,121
-14:55,Wroclaw,WRO,16:20,London LGWLondon (Gatwick),LGW,159
-12:05,Wroclaw,WRO,13:55,Oslo TRFOslo (Torp),TRF,69
-05:50,Wroclaw,WRO,08:10,Marseille,MRS,145
-05:50,Wroclaw,WRO,08:45,Sofia,SOF,218
-14:25,Wroclaw,WRO,16:10,Bologna,BLQ,213
-07:50,Wroclaw,WRO,09:10,Newcastle,NCL,71
-05:50,Wroclaw,WRO,07:35,Brussels CRLBrussels (Charleroi),CRL,78
-18:45,Wroclaw,WRO,22:20,Athens,ATH,166
-11:05,Wroclaw,WRO,17:20,Dubrovnik,DBV,236
-05:50,Wroclaw,WRO,23:15,Budapest,BUD,245
-09:20,Wroclaw,WRO,12:05,Malta,MLA,145
-13:30,Wroclaw,WRO,15:30,Rome CIARome (Ciampino),CIA,247
-05:50,Wroclaw,WRO,23:40,Palma Mall,PMI,241
-18:45,Wroclaw,WRO,22:20,Athens,ATH,166
-05:50,Wroclaw,WRO,20:10,Verona,VRN,142
-09:05,Wroclaw,WRO,13:25,Larnaca,LCA,218
-12:35,Wroclaw,WRO,14:00,Liverpool,LPL,117
-12:50,Wroclaw,WRO,01:05,Barcelona GROBarcelona (Girona),GRO,234
-05:50,Wroclaw,WRO,13:55,Brussels CRLBrussels (Charleroi),CRL,262
-12:50,Wroclaw,WRO,14:45,Pescara,PSR,171
-09:00,Wroclaw,WRO,10:35,Zadar,ZAD,316
-18:30,Wroclaw,WRO,19:45,London LTNLondon (Luton),LTN,249
-05:50,Wroclaw,WRO,16:10,Poznan,POZ,192
-16:00,Wroclaw,WRO,18:25,Palermo,PMO,267
-05:50,Wroclaw,WRO,17:45,Krakow,KRK,187
-20:10,Wroclaw,WRO,22:10,Paris BVAParis (Beauvais),BVA,97
-05:50,Wroclaw,WRO,12:30,Palermo,PMO,274
-05:50,Wroclaw,WRO,07:25,Edinburgh,EDI,98
-17:40,Wroclaw,WRO,21:30,Chania,CHQ,279
-05:45,Wroclaw,WRO,22:45,Corfu,CFU,302
-05:50,Wroclaw,WRO,08:45,Sofia,SOF,218
-11:05,Wroclaw,WRO,20:55,Valencia,VLC,185
-15:30,Wroclaw,WRO,16:45,East Midla,EMA,169
-05:50,Wroclaw,WRO,20:55,Cluj CLJCluj-Napoca,CLJ,236
-05:50,Wroclaw,WRO,07:25,Venice TSFVenice (Treviso),TSF,114
-13:55,Wroclaw,WRO,15:35,Split,SPU,208
-09:20,Wroclaw,WRO,22:10,Sofia,SOF,336
-05:50,Wroclaw,WRO,22:20,Warsaw WMIWarsaw (Modlin),WMI,214
-12:45,Wroclaw,WRO,14:40,Pisa,PSA,359
-11:05,Wroclaw,WRO,14:50,Zadar,ZAD,202
-05:50,Wroclaw,WRO,19:30,Malta,MLA,225
-07:50,Wroclaw,WRO,22:15,Bristol,BRS,220
-22:45,Wroclaw,WRO,00:40,Tirana,TIA,218
-05:50,Wroclaw,WRO,10:50,London LGWLondon (Gatwick),LGW,323
-21:50,Wroclaw,WRO,23:15,Manchester,MAN,175
-05:50,Wroclaw,WRO,20:05,Manchester,MAN,183
-13:00,Wroclaw,WRO,15:30,Barcelona GROBarcelona (Girona),GRO,316
-13:30,Wroclaw,WRO,15:30,Rome CIARome (Ciampino),CIA,247
-05:50,Wroclaw,WRO,14:45,Birmingham,BHX,233
-05:50,Wroclaw,WRO,14:50,Manchester,MAN,183
-09:20,Wroclaw,WRO,12:05,Malta,MLA,145
-09:20,Wroclaw,WRO,10:40,Bristol,BRS,239
-15:25,Wroclaw,WRO,17:50,Lamezia Te,SUF,372
-10:45,Wroclaw,WRO,22:30,Turin,TRN,195
-12:50,Wroclaw,WRO,01:05,Barcelona GROBarcelona (Girona),GRO,234
-14:25,Wroclaw,WRO,16:10,Bologna,BLQ,213
-07:50,Wroclaw,WRO,09:10,Newcastle,NCL,71
-18:30,Wroclaw,WRO,19:45,London LTNLondon (Luton),LTN,249
-11:05,Wroclaw,WRO,18:50,Luxembourg,LUX,195
-05:50,Wroclaw,WRO,00:10,Alicante,ALC,218
-05:45,Wroclaw,WRO,07:50,Brindisi,BDS,312
-20:10,Wroclaw,WRO,22:10,Paris BVAParis (Beauvais),BVA,97
-12:35,Wroclaw,WRO,14:00,Liverpool,LPL,117
-11:05,Wroclaw,WRO,01:00,Katowice,KTW,253
-15:30,Wroclaw,WRO,16:45,East Midla,EMA,169
-05:50,Wroclaw,WRO,14:50,Bari,BRI,367
-10:45,Wroclaw,WRO,16:15,Zagreb,ZAG,258
-12:05,Wroclaw,WRO,19:10,Gdansk,GDN,150
-17:40,Wroclaw,WRO,21:30,Chania,CHQ,279
-15:55,Wroclaw,WRO,00:50,Frankfurt HHNFrankfurt (Hahn),HHN,270
-11:05,Wroclaw,WRO,16:55,Madrid,MAD,227
-12:50,Wroclaw,WRO,14:45,Pescara,PSR,171
-11:30,Wroclaw,WRO,17:35,Riga,RIX,347
-09:50,Wroclaw,WRO,15:50,Marseille,MRS,375
-05:50,Wroclaw,WRO,13:50,Bari,BRI,328
-09:00,Wroclaw,WRO,16:25,Milan BGYMilan (Bergamo),BGY,390
-19:30,Wroclaw,WRO,21:15,Dublin,DUB,351
-09:20,Wroclaw,WRO,22:10,Sofia,SOF,336
-05:50,Wroclaw,WRO,23:40,Palma Mall,PMI,241
-09:00,Wroclaw,WRO,10:35,Zadar,ZAD,316
-09:50,Wroclaw,WRO,22:10,Brindisi,BDS,367
-09:00,Wroclaw,WRO,16:25,Milan BGYMilan (Bergamo),BGY,390
-05:50,Wroclaw,WRO,19:30,Malta,MLA,225
-12:05,Wroclaw,WRO,15:20,Corfu,CFU,435
-06:15,Wroclaw,WRO,08:40,Lamezia Te,SUF,337
-09:20,Wroclaw,WRO,16:25,Brussels CRLBrussels (Charleroi),CRL,293
-05:45,Wroclaw,WRO,19:15,Paphos,PFO,430
-13:00,Wroclaw,WRO,15:30,Barcelona GROBarcelona (Girona),GRO,316
-11:05,Wroclaw,WRO,17:30,Dusseldorf NRNDusseldorf (Weeze),NRN,235
-10:45,Wroclaw,WRO,16:35,Oslo TRFOslo (Torp),TRF,334
-09:00,Wroclaw,WRO,16:40,Milan MXPMilan (Malpensa),MXP,380
-13:15,Wroclaw,WRO,15:00,Dubrovnik,DBV,143
-09:50,Wroclaw,WRO,18:25,Naples,NAP,333
-07:50,Wroclaw,WRO,22:15,Bristol,BRS,220
-05:55,Wroclaw,WRO,12:55,Lamezia Te,SUF,362
-05:50,Wroclaw,WRO,20:10,Nantes,NTE,240
-05:50,Wroclaw,WRO,15:00,Toulouse,TLS,296
-12:05,Wroclaw,WRO,13:55,Oslo TRFOslo (Torp),TRF,69
-19:20,Wroclaw,WRO,21:10,Shannon,SNN,153
-10:30,Wroclaw,WRO,15:40,Rome CIARome (Ciampino),CIA,435
-09:20,Wroclaw,WRO,10:40,Bristol,BRS,239
-12:05,Wroclaw,WRO,18:05,London STNLondon (Stansted),STN,454
-05:50,Wroclaw,WRO,20:10,Bucharest OTPBucharest (Otopeni),OTP,316
-11:05,Wroclaw,WRO,17:00,Cologne CGNCologne-Bonn,CGN,234
-11:30,Wroclaw,WRO,13:15,Stockholm ARNStockholm (Arlanda),ARN,118
-11:10,Wroclaw,WRO,23:15,Pisa,PSA,521
-21:50,Wroclaw,WRO,23:15,Manchester,MAN,175
-14:50,Wroclaw,WRO,16:55,Naples,NAP,363
-05:50,Wroclaw,WRO,01:05,Shannon,SNN,173
-05:50,Wroclaw,WRO,23:15,Budapest,BUD,245
-10:30,Wroclaw,WRO,21:30,Paris BVAParis (Beauvais),BVA,262
-05:45,Wroclaw,WRO,07:50,Brindisi,BDS,312
-05:50,Wroclaw,WRO,15:00,Malaga,AGP,325
-11:05,Wroclaw,WRO,17:05,Berlin BERBerlin (Brandenburg),BER,303
-10:45,Wroclaw,WRO,11:45,Gdansk,GDN,263
-05:50,Wroclaw,WRO,18:00,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,425
-09:20,Wroclaw,WRO,21:55,Bologna,BLQ,502
-09:50,Wroclaw,WRO,18:25,Naples,NAP,333
-09:35,Wroclaw,WRO,10:50,Leeds,LBA,410
-05:45,Wroclaw,WRO,07:40,Pisa,PSA,405
-12:35,Wroclaw,WRO,18:45,Jersey,JER,377
-05:50,Wroclaw,WRO,19:00,Pescara,PSR,461
-06:00,Wroclaw,WRO,11:30,Kutaisi,KUT,359
-05:50,Wroclaw,WRO,15:00,Malaga,AGP,325
-13:55,Wroclaw,WRO,23:10,London LTNLondon (Luton),LTN,506
-11:05,Wroclaw,WRO,20:55,Valencia,VLC,185
-10:30,Wroclaw,WRO,15:40,Rome CIARome (Ciampino),CIA,435
-13:20,Wroclaw,WRO,15:20,Bari,BRI,448
-14:55,Wroclaw,WRO,16:20,London LGWLondon (Gatwick),LGW,159
-05:50,Wroclaw,WRO,00:45,Athens,ATH,479
-11:05,Wroclaw,WRO,19:25,Vilnius,VNO,408
-05:50,Wroclaw,WRO,08:10,Marseille,MRS,145
-11:05,Wroclaw,WRO,17:20,Dubrovnik,DBV,236
-09:50,Wroclaw,WRO,22:10,Brindisi,BDS,367
-22:45,Wroclaw,WRO,00:40,Tirana,TIA,218
-06:00,Wroclaw,WRO,09:45,Malaga,AGP,448
-05:50,Wroclaw,WRO,12:40,Split,SPU,451
-08:50,Wroclaw,WRO,13:05,Paphos,PFO,137
-16:15,Wroclaw,WRO,01:00,Chania,CHQ,537
-05:50,Wroclaw,WRO,23:50,Faro,FAO,236
-05:45,Wroclaw,WRO,08:35,Palma Mall,PMI,441
-11:50,Wroclaw,WRO,18:55,Edinburgh,EDI,374
-05:50,Wroclaw,WRO,00:45,Athens,ATH,479
-05:50,Wroclaw,WRO,07:25,Edinburgh,EDI,98
-05:50,Wroclaw,WRO,20:05,Belfast,BFS,283
-10:45,Wroclaw,WRO,20:40,Prague,PRG,382
-05:50,Wroclaw,WRO,23:10,Tirana,TIA,461
-05:45,Wroclaw,WRO,19:30,Catania,CTA,334
-11:50,Wroclaw,WRO,18:00,Barcelona,BCN,361
-05:50,Wroclaw,WRO,10:45,Beziers,BZR,245
-16:00,Wroclaw,WRO,18:25,Palermo,PMO,267
-14:25,Wroclaw,WRO,21:20,Sevilla,SVQ,341
-13:00,Wroclaw,WRO,17:50,East Midla,EMA,450
-10:30,Wroclaw,WRO,21:35,Leeds,LBA,494
-05:50,Wroclaw,WRO,12:30,Palermo,PMO,274
-17:25,Wroclaw,WRO,22:50,Reggio Cal,REG,456
-05:50,Wroclaw,WRO,14:25,Vienna,VIE,381
-13:20,Wroclaw,WRO,15:20,Bari,BRI,448
-05:45,Wroclaw,WRO,22:45,Corfu,CFU,302
-05:50,Wroclaw,WRO,20:30,Iasi,IAS,319
-05:45,Wroclaw,WRO,18:00,Kutaisi,KUT,434
-05:50,Wroclaw,WRO,10:35,Tangier,TNG,466
-10:30,Wroclaw,WRO,17:20,Goteborg GOTGoteborg (Landvetter),GOT,285
-05:45,Wroclaw,WRO,07:35,Podgorica,TGD,404
-08:50,Wroclaw,WRO,21:40,Thessaloni,SKG,385
-10:55,Wroclaw,WRO,13:00,Naples,NAP,448
-06:00,Wroclaw,WRO,09:45,Malaga,AGP,448
-13:15,Wroclaw,WRO,22:50,Paris ORYParis (Orly),ORY,262
-19:20,Wroclaw,WRO,21:10,Shannon,SNN,153
+departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,12:10,Gdansk,GDN,91
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,07:35,Brussels CRLBrussels (Charleroi),CRL,78
+26/06/25,Thu,11:25,Wroclaw,WRO,26/06/25,Thu,12:55,Rijeka,RJK,104
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,07:25,Venice TSFVenice (Treviso),TSF,114
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,15:05,Zadar,ZAD,146
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,19:10,Gdansk,GDN,149
+01/07/25,Tue,22:30,Wroclaw,WRO,01/07/25,Tue,00:15,Bologna,BLQ,106
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,13:55,Rijeka,RJK,150
+26/06/25,Thu,20:10,Wroclaw,WRO,26/06/25,Thu,22:10,Paris BVAParis (Beauvais),BVA,95
+27/06/25,Fri,13:15,Wroclaw,WRO,27/06/25,Fri,15:00,Dubrovnik,DBV,143
+26/06/25,Thu,08:50,Wroclaw,WRO,26/06/25,Thu,13:05,Paphos,PFO,137
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,12:50,Milan BGYMilan (Bergamo),BGY,121
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,14:50,Zadar,ZAD,202
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,12:50,Milan BGYMilan (Bergamo),BGY,121
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,69
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,07:35,Brussels CRLBrussels (Charleroi),CRL,78
+25/06/25,Wed,18:45,Wroclaw,WRO,25/06/25,Wed,22:20,Athens,ATH,166
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:20,Dubrovnik,DBV,236
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,19:30,Malta,MLA,226
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,20:35,Bologna,BLQ,231
+25/06/25,Wed,18:45,Wroclaw,WRO,25/06/25,Wed,22:20,Athens,ATH,166
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:10,Verona,VRN,142
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,16:10,Poznan,POZ,192
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,20:55,Valencia,VLC,185
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,13:55,Brussels CRLBrussels (Charleroi),CRL,262
+29/06/25,Sun,05:50,Wroclaw,WRO,29/06/25,Sun,08:45,Sofia,SOF,291
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,23:15,Budapest,BUD,245
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,18:20,Marseille,MRS,243
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,15:05,Zadar,ZAD,146
+01/07/25,Tue,22:10,Wroclaw,WRO,01/07/25,Tue,23:45,Edinburgh,EDI,96
+28/06/25,Sat,15:55,Wroclaw,WRO,28/06/25,Sat,17:55,Rome CIARome (Ciampino),CIA,291
+01/07/25,Tue,16:00,Wroclaw,WRO,01/07/25,Tue,20:30,Paris BVAParis (Beauvais),BVA,249
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,07:50,Pisa,PSA,240
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,12:15,Palermo,PMO,267
+01/07/25,Tue,20:00,Wroclaw,WRO,01/07/25,Tue,22:55,Sofia,SOF,111
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,160
+27/06/25,Fri,12:50,Wroclaw,WRO,27/06/25,Fri,14:45,Pescara,PSR,205
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,22:45,Corfu,CFU,303
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:55,Cluj CLJCluj-Napoca,CLJ,236
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,09:10,Newcastle,NCL,71
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,13:15,Bari,BRI,280
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,15:10,Venice TSFVenice (Treviso),TSF,334
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,13:10,Barcelona GROBarcelona (Girona),GRO,241
+27/06/25,Fri,13:55,Wroclaw,WRO,27/06/25,Fri,15:35,Split,SPU,209
+28/06/25,Sat,09:05,Wroclaw,WRO,28/06/25,Sat,13:25,Larnaca,LCA,269
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,22:20,Warsaw WMIWarsaw (Modlin),WMI,214
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,14:50,Zadar,ZAD,202
+26/06/25,Thu,12:35,Wroclaw,WRO,26/06/25,Thu,14:00,Liverpool,LPL,143
+25/06/25,Wed,18:30,Wroclaw,WRO,25/06/25,Wed,19:45,London LTNLondon (Luton),LTN,249
+26/06/25,Thu,12:35,Wroclaw,WRO,26/06/25,Thu,14:00,Liverpool,LPL,143
+28/06/25,Sat,14:55,Wroclaw,WRO,28/06/25,Sat,16:20,London LGWLondon (Gatwick),LGW,309
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,09:10,Newcastle,NCL,71
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,12:10,Gdansk,GDN,91
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,17:45,Krakow,KRK,187
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,22:20,Barcelona GROBarcelona (Girona),GRO,241
+27/06/25,Fri,22:45,Wroclaw,WRO,27/06/25,Fri,00:40,Tirana,TIA,219
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,01:00,Milan MXPMilan (Malpensa),MXP,231
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,07:25,Venice TSFVenice (Treviso),TSF,114
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,10:50,London LGWLondon (Gatwick),LGW,323
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,13:15,Bari,BRI,280
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,14:50,Manchester,MAN,184
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,22:15,Bristol,BRS,246
+27/06/25,Fri,10:45,Wroclaw,WRO,27/06/25,Fri,16:15,Zagreb,ZAG,258
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,10:00,Budapest,BUD,89
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:05,Manchester,MAN,184
+27/06/25,Fri,10:45,Wroclaw,WRO,27/06/25,Fri,22:30,Turin,TRN,195
+30/06/25,Mon,12:45,Wroclaw,WRO,30/06/25,Mon,14:40,Pisa,PSA,406
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:00,Cologne CGNCologne-Bonn,CGN,234
+25/06/25,Wed,18:30,Wroclaw,WRO,25/06/25,Wed,19:45,London LTNLondon (Luton),LTN,249
+01/07/25,Tue,10:55,Wroclaw,WRO,01/07/25,Tue,13:40,Malta,MLA,361
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,18:50,Luxembourg,LUX,196
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,19:20,Prague,PRG,186
+29/06/25,Sun,15:20,Wroclaw,WRO,29/06/25,Sun,17:40,Marseille,MRS,340
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,23:15,Sofia,SOF,192
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,23:45,Nuernberg,NUE,278
+26/06/25,Thu,09:20,Wroclaw,WRO,26/06/25,Thu,10:40,Bristol,BRS,274
+26/06/25,Thu,20:10,Wroclaw,WRO,26/06/25,Thu,22:10,Paris BVAParis (Beauvais),BVA,95
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,16:10,Naples,NAP,296
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,01:00,Katowice,KTW,253
+27/06/25,Fri,21:50,Wroclaw,WRO,27/06/25,Fri,23:15,Manchester,MAN,209
+25/06/25,Wed,13:00,Wroclaw,WRO,25/06/25,Wed,15:30,Barcelona GROBarcelona (Girona),GRO,316
+28/06/25,Sat,15:55,Wroclaw,WRO,28/06/25,Sat,17:55,Rome CIARome (Ciampino),CIA,291
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,19:10,Gdansk,GDN,149
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,20:15,Birmingham,BHX,233
+26/06/25,Thu,15:30,Wroclaw,WRO,26/06/25,Thu,16:45,East Midla,EMA,169
+01/07/25,Tue,12:30,Wroclaw,WRO,01/07/25,Tue,20:25,Palma Mall,PMI,248
+29/06/25,Sun,15:20,Wroclaw,WRO,29/06/25,Sun,17:40,Marseille,MRS,340
+29/06/25,Sun,18:00,Wroclaw,WRO,29/06/25,Sun,19:55,Pescara,PSR,201
+26/06/25,Thu,15:55,Wroclaw,WRO,26/06/25,Thu,00:50,Frankfurt HHNFrankfurt (Hahn),HHN,270
+25/06/25,Wed,13:00,Wroclaw,WRO,25/06/25,Wed,15:30,Barcelona GROBarcelona (Girona),GRO,316
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,01:50,Alicante,ALC,286
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,16:55,Madrid,MAD,228
+01/07/25,Tue,14:55,Wroclaw,WRO,01/07/25,Tue,22:25,Edinburgh,EDI,231
+28/06/25,Sat,19:30,Wroclaw,WRO,28/06/25,Sat,21:15,Dublin,DUB,351
+27/06/25,Fri,21:50,Wroclaw,WRO,27/06/25,Fri,23:15,Manchester,MAN,209
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,15:50,Marseille,MRS,374
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,20:55,Valencia,VLC,185
+30/06/25,Mon,11:30,Wroclaw,WRO,30/06/25,Mon,13:15,Stockholm ARNStockholm (Arlanda),ARN,118
+01/07/25,Tue,14:55,Wroclaw,WRO,01/07/25,Tue,16:20,London LGWLondon (Gatwick),LGW,102
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,17:45,Hamburg,HAM,310
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,19:30,Malta,MLA,226
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,20:20,Toulouse,TLS,255
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,19:15,Paphos,PFO,430
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,69
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:30,Dusseldorf NRNDusseldorf (Weeze),NRN,235
+27/06/25,Fri,13:15,Wroclaw,WRO,27/06/25,Fri,15:00,Dubrovnik,DBV,143
+26/06/25,Thu,20:00,Wroclaw,WRO,26/06/25,Thu,23:15,Corfu,CFU,457
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,19:20,Sofia,SOF,478
+30/06/25,Mon,11:30,Wroclaw,WRO,30/06/25,Mon,17:35,Riga,RIX,347
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,12:55,Lamezia Te,SUF,362
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,22:20,Cork,ORK,163
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,18:05,London STNLondon (Stansted),STN,451
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:10,Bucharest OTPBucharest (Otopeni),OTP,316
+29/06/25,Sun,14:45,Wroclaw,WRO,29/06/25,Sun,16:45,Bari,BRI,449
+01/07/25,Tue,12:30,Wroclaw,WRO,01/07/25,Tue,20:25,Palma Mall,PMI,248
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,22:15,Bristol,BRS,246
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,15:00,Malaga,AGP,325
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,23:15,Budapest,BUD,245
+29/06/25,Sun,11:50,Wroclaw,WRO,29/06/25,Sun,19:35,Menorca,MAH,333
+26/06/25,Thu,15:30,Wroclaw,WRO,26/06/25,Thu,16:45,East Midla,EMA,169
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,21:50,Bucharest BBUBucharest (Aurel Vlaicu),BBU,222
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,12:15,Palermo,PMO,267
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,22:10,Brindisi,BDS,366
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,22:45,Corfu,CFU,303
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:05,Berlin BERBerlin (Brandenburg),BER,303
+25/06/25,Wed,19:20,Wroclaw,WRO,25/06/25,Wed,21:10,Shannon,SNN,154
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,18:00,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,425
+26/06/25,Thu,09:20,Wroclaw,WRO,26/06/25,Thu,10:40,Bristol,BRS,274
+25/06/25,Wed,13:20,Wroclaw,WRO,25/06/25,Wed,15:20,Bari,BRI,449
+28/06/25,Sat,10:20,Wroclaw,WRO,28/06/25,Sat,21:45,Milan BGYMilan (Bergamo),BGY,483
+25/06/25,Wed,10:55,Wroclaw,WRO,25/06/25,Wed,13:00,Naples,NAP,427
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,01:50,Alicante,ALC,286
+28/06/25,Sat,15:35,Wroclaw,WRO,28/06/25,Sat,19:20,Agadir,AGA,474
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,01:05,Shannon,SNN,173
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,22:40,Reggio Cal,REG,360
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,20:45,Alghero,AHO,337
+27/06/25,Fri,13:55,Wroclaw,WRO,27/06/25,Fri,15:35,Split,SPU,209
+29/06/25,Sun,19:45,Wroclaw,WRO,29/06/25,Sun,21:20,Glasgow,GLA,73
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,19:00,Pescara,PSR,461
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,07:25,Edinburgh,EDI,98
+30/06/25,Mon,10:30,Wroclaw,WRO,30/06/25,Mon,15:40,Rome CIARome (Ciampino),CIA,484
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,14:55,Santander,SDR,236
+29/06/25,Sun,19:45,Wroclaw,WRO,29/06/25,Sun,21:20,Glasgow,GLA,73
+27/06/25,Fri,06:40,Wroclaw,WRO,27/06/25,Fri,10:55,Leeds,LBA,432
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:10,Nantes,NTE,241
+26/06/25,Thu,08:50,Wroclaw,WRO,26/06/25,Thu,21:40,Thessaloni,SKG,385
+27/06/25,Fri,13:15,Wroclaw,WRO,27/06/25,Fri,22:50,Paris ORYParis (Orly),ORY,262
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:30,Iasi,IAS,320
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,15:00,Malaga,AGP,325
+30/06/25,Mon,11:10,Wroclaw,WRO,30/06/25,Mon,23:15,Pisa,PSA,579
+30/06/25,Mon,09:35,Wroclaw,WRO,30/06/25,Mon,10:50,Leeds,LBA,440
+27/06/25,Fri,05:45,Wroclaw,WRO,27/06/25,Fri,07:50,Brindisi,BDS,406
+25/06/25,Wed,13:20,Wroclaw,WRO,25/06/25,Wed,20:25,Palermo,PMO,523
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,160
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,21:25,Goteborg GOTGoteborg (Landvetter),GOT,220
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,00:45,Athens,ATH,479
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,18:25,Naples,NAP,331
+29/06/25,Sun,11:50,Wroclaw,WRO,29/06/25,Sun,18:00,Barcelona,BCN,362
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:20,Dubrovnik,DBV,236
+28/06/25,Sat,10:20,Wroclaw,WRO,28/06/25,Sat,21:45,Milan BGYMilan (Bergamo),BGY,483
+27/06/25,Fri,22:45,Wroclaw,WRO,27/06/25,Fri,00:40,Tirana,TIA,219
+28/06/25,Sat,06:20,Wroclaw,WRO,28/06/25,Sat,20:10,Agadir,AGA,510
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,17:20,Cagliari,CAG,337
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,15:10,Venice TSFVenice (Treviso),TSF,334
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,23:50,Faro,FAO,236
+01/07/25,Tue,12:30,Wroclaw,WRO,01/07/25,Tue,16:55,Dublin,DUB,162
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,22:10,Brindisi,BDS,366
+02/07/25,Wed,15:45,Wroclaw,WRO,02/07/25,Wed,19:20,London LTNLondon (Luton),LTN,453
+25/06/25,Wed,14:25,Wroclaw,WRO,25/06/25,Wed,16:10,Bologna,BLQ,427
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,23:10,Tirana,TIA,461
+29/06/25,Sun,06:15,Wroclaw,WRO,29/06/25,Sun,08:40,Lamezia Te,SUF,481
+30/06/25,Mon,10:30,Wroclaw,WRO,30/06/25,Mon,15:40,Rome CIARome (Ciampino),CIA,484
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,00:40,Rome FCORome (Fiumicino),FCO,353
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,01:05,Shannon,SNN,173
+01/07/25,Tue,16:00,Wroclaw,WRO,01/07/25,Tue,20:30,Paris BVAParis (Beauvais),BVA,249
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,18:05,London STNLondon (Stansted),STN,451
+29/06/25,Sun,05:45,Wroclaw,WRO,29/06/25,Sun,07:50,Brindisi,BDS,406
+26/06/25,Thu,08:50,Wroclaw,WRO,26/06/25,Thu,13:05,Paphos,PFO,137
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,23:20,Copenhagen,CPH,198
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,22:10,London LTNLondon (Luton),LTN,493

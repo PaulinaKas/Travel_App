@@ -1,64 +1,69 @@
-departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
-07:20,Lublin,LUZ,08:30,Gdansk,GDN,345
-10:35,Lublin,LUZ,12:20,London LTNLondon (Luton),LTN,187
-20:20,Lublin,LUZ,22:10,Split,SPU,298
-13:00,Lublin,LUZ,15:05,Milan BGYMilan (Bergamo),BGY,341
-08:25,Lublin,LUZ,21:25,Gdansk,GDN,515
-12:10,Lublin,LUZ,15:10,Bourgas,BOJ,298
-10:35,Lublin,LUZ,17:45,Palma Mall,PMI,312
-07:20,Lublin,LUZ,20:40,Milan BGYMilan (Bergamo),BGY,600
-10:35,Lublin,LUZ,20:45,Split,SPU,591
-10:35,Lublin,LUZ,21:20,Corfu,CFU,562
-20:20,Lublin,LUZ,00:25,Rome FCORome (Fiumicino),FCO,448
-10:35,Lublin,LUZ,12:20,London LTNLondon (Luton),LTN,187
-07:20,Lublin,LUZ,01:10,Bratislava,BTS,497
-08:25,Lublin,LUZ,14:50,Alicante,ALC,483
-07:20,Lublin,LUZ,22:50,Bourgas,BOJ,704
-09:25,Lublin,LUZ,12:15,Barcelona GROBarcelona (Girona),GRO,746
-10:35,Lublin,LUZ,20:40,Edinburgh,EDI,402
-10:35,Lublin,LUZ,15:55,Lyon,LYS,611
-08:25,Lublin,LUZ,01:30,Timisoara,TSR,468
-10:35,Lublin,LUZ,21:35,Barcelona,BCN,371
-07:20,Lublin,LUZ,22:50,Manchester,MAN,578
-10:35,Lublin,LUZ,18:55,Jersey,JER,527
-10:35,Lublin,LUZ,19:00,Faro,FAO,363
-10:35,Lublin,LUZ,16:40,Belfast,BFS,372
-13:00,Lublin,LUZ,20:50,Malaga,AGP,460
-10:35,Lublin,LUZ,17:30,Paris CDGParis (Charles de Gaulle),CDG,527
-08:25,Lublin,LUZ,16:20,Vilnius,VNO,677
-10:35,Lublin,LUZ,21:05,Glasgow,GLA,507
-08:25,Lublin,LUZ,22:15,Rotterdam,RTM,536
-12:10,Lublin,LUZ,15:10,Bourgas,BOJ,298
-16:10,Lublin,LUZ,22:40,Paris ORYParis (Orly),ORY,656
-10:10,Lublin,LUZ,23:50,Ibiza,IBZ,623
-07:20,Lublin,LUZ,22:40,Krakow,KRK,444
-20:20,Lublin,LUZ,22:10,Split,SPU,448
-10:35,Lublin,LUZ,22:50,Menorca,MAH,527
-10:35,Lublin,LUZ,20:15,Inverness,INV,542
-10:35,Lublin,LUZ,20:15,Prague,PRG,557
-10:35,Lublin,LUZ,21:20,Nice,NCE,572
-16:20,Lublin,LUZ,00:25,Bacau,BCM,942
-09:00,Lublin,LUZ,01:50,Amsterdam,AMS,703
-16:20,Lublin,LUZ,21:45,Berlin BERBerlin (Brandenburg),BER,985
-08:25,Lublin,LUZ,01:35,Craiova,CRA,639
-13:10,Lublin,LUZ,22:25,Vienna,VIE,786
-07:20,Lublin,LUZ,16:45,Pisa,PSA,627
-10:35,Lublin,LUZ,20:45,Split,SPU,591
-10:35,Lublin,LUZ,21:00,Lisbon,LIS,654
-13:00,Lublin,LUZ,00:05,Helsinki,HEL,749
-13:10,Lublin,LUZ,00:10,London LGWLondon (Gatwick),LGW,912
-16:20,Lublin,LUZ,20:25,Aberdeen,ABZ,955
-10:35,Lublin,LUZ,23:00,Belgrade,BEG,502
-09:25,Lublin,LUZ,15:20,Bristol,BRS,929
-16:20,Lublin,LUZ,02:30,Varna,VAR,1007
-08:25,Lublin,LUZ,19:10,Marrakech,RAK,721
-07:20,Lublin,LUZ,22:50,Bourgas,BOJ,704
-10:10,Lublin,LUZ,19:00,Catania,CTA,815
-18:50,Lublin,LUZ,21:05,Dublin,DUB,697
-10:10,Lublin,LUZ,19:55,Larnaca,LCA,825
-08:25,Lublin,LUZ,23:45,Copenhagen,CPH,492
-07:20,Lublin,LUZ,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,654
-20:20,Lublin,LUZ,00:40,Milan MXPMilan (Malpensa),MXP,582
-07:20,Lublin,LUZ,16:50,Oslo OSLOslo (Gardermoen),OSL,504
-13:00,Lublin,LUZ,20:20,Stockholm ARNStockholm (Arlanda),ARN,869
-10:10,Lublin,LUZ,17:30,Kaunas,KUN,1039
+departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,08:30,Gdansk,GDN,342
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,12:20,London LTNLondon (Luton),LTN,188
+29/06/25,Sun,12:10,Lublin,LUZ,29/06/25,Sun,15:10,Bourgas,BOJ,309
+28/06/25,Sat,20:20,Lublin,LUZ,28/06/25,Sat,22:10,Split,SPU,309
+26/06/25,Thu,13:00,Lublin,LUZ,26/06/25,Thu,15:05,Milan BGYMilan (Bergamo),BGY,427
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,21:25,Gdansk,GDN,592
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,20:40,Milan BGYMilan (Bergamo),BGY,596
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:45,Split,SPU,592
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,12:20,London LTNLondon (Luton),LTN,188
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:50,Bourgas,BOJ,701
+28/06/25,Sat,20:20,Lublin,LUZ,28/06/25,Sat,00:25,Rome FCORome (Fiumicino),FCO,459
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:20,Corfu,CFU,654
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,22:30,Palma Mall,PMI,480
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,20:45,Malaga,AGP,535
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,01:10,Bratislava,BTS,494
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,14:50,Alicante,ALC,560
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,01:30,Timisoara,TSR,545
+27/06/25,Fri,09:25,Lublin,LUZ,27/06/25,Fri,12:15,Barcelona GROBarcelona (Girona),GRO,747
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,19:00,Faro,FAO,364
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,15:55,Lyon,LYS,654
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,16:40,Belfast,BFS,372
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:50,Manchester,MAN,575
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:35,Barcelona,BCN,371
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,17:45,Paris CDGParis (Charles de Gaulle),CDG,475
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,20:15,Glasgow,GLA,415
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:40,Edinburgh,EDI,557
+28/06/25,Sat,10:10,Lublin,LUZ,28/06/25,Sat,23:50,Ibiza,IBZ,623
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,16:20,Vilnius,VNO,808
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,18:55,Jersey,JER,654
+29/06/25,Sun,12:10,Lublin,LUZ,29/06/25,Sun,15:10,Bourgas,BOJ,309
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,17:05,Warsaw WMIWarsaw (Modlin),WMI,648
+28/06/25,Sat,20:20,Lublin,LUZ,28/06/25,Sat,22:10,Split,SPU,309
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,22:15,Rotterdam,RTM,614
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,01:35,Craiova,CRA,716
+01/07/25,Tue,07:20,Lublin,LUZ,01/07/25,Tue,15:50,Copenhagen,CPH,406
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:40,Krakow,KRK,441
+30/06/25,Mon,16:20,Lublin,LUZ,30/06/25,Mon,00:25,Bacau,BCM,873
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:45,Antalya,AYT,557
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,19:35,Larnaca,LCA,674
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,16:25,Prague,PRG,568
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,19:30,Bologna,BLQ,350
+30/06/25,Mon,09:00,Lublin,LUZ,30/06/25,Mon,01:50,Amsterdam,AMS,704
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:20,Nice,NCE,654
+29/06/25,Sun,16:20,Lublin,LUZ,29/06/25,Sun,21:45,Berlin BERBerlin (Brandenburg),BER,986
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,22:50,Menorca,MAH,627
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:15,Inverness,INV,624
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:45,Split,SPU,592
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,16:45,Pisa,PSA,623
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:00,Lisbon,LIS,654
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:20,Zakinthos,ZTH,654
+25/06/25,Wed,13:10,Lublin,LUZ,25/06/25,Wed,00:10,London LGWLondon (Gatwick),LGW,913
+29/06/25,Sun,16:20,Lublin,LUZ,29/06/25,Sun,20:25,Aberdeen,ABZ,956
+26/06/25,Thu,16:20,Lublin,LUZ,26/06/25,Thu,02:30,Varna,VAR,1008
+29/06/25,Sun,16:10,Lublin,LUZ,29/06/25,Sun,22:40,Paris ORYParis (Orly),ORY,952
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,23:00,Belgrade,BEG,502
+28/06/25,Sat,10:10,Lublin,LUZ,28/06/25,Sat,19:00,Catania,CTA,758
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,651
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:50,Bourgas,BOJ,701
+26/06/25,Thu,13:00,Lublin,LUZ,26/06/25,Thu,00:05,Helsinki,HEL,835
+25/06/25,Wed,13:10,Lublin,LUZ,25/06/25,Wed,22:25,Vienna,VIE,1032
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,19:10,Marrakech,RAK,798
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,18:35,Bristol,BRS,1127
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,19:35,Murcia,RMU,890
+26/06/25,Thu,18:50,Lublin,LUZ,26/06/25,Thu,21:05,Dublin,DUB,573
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,16:50,Oslo OSLOslo (Gardermoen),OSL,561
+28/06/25,Sat,10:10,Lublin,LUZ,28/06/25,Sat,17:30,Kaunas,KUN,948
+27/06/25,Fri,16:20,Lublin,LUZ,27/06/25,Fri,23:40,Milan MXPMilan (Malpensa),MXP,865
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,23:20,Stockholm ARNStockholm (Arlanda),ARN,1111

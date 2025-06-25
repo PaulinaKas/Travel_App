@@ -1,181 +1,181 @@
-departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
-19:15,Katowice,KTW,20:55,Venice TSFVenice (Treviso),TSF,72
-05:45,Katowice,KTW,07:30,Forli,FRL,79
-21:10,Katowice,KTW,22:55,Milan BGYMilan (Bergamo),BGY,78
-17:45,Katowice,KTW,19:40,Brussels CRLBrussels (Charleroi),CRL,68
-20:25,Katowice,KTW,22:30,Rome FCORome (Fiumicino),FCO,108
-19:15,Katowice,KTW,21:20,Oslo OSLOslo (Gardermoen),OSL,78
-11:10,Katowice,KTW,12:45,Pula,PUY,138
-06:00,Katowice,KTW,08:35,Catania,CTA,129
-16:00,Katowice,KTW,17:35,Manchester,MAN,126
-05:45,Katowice,KTW,09:50,Paphos,PFO,118
-05:50,Katowice,KTW,22:35,Brussels CRLBrussels (Charleroi),CRL,235
-21:10,Katowice,KTW,22:55,Milan BGYMilan (Bergamo),BGY,78
-06:00,Katowice,KTW,08:35,Catania,CTA,129
-09:55,Katowice,KTW,11:55,Bari,BRI,191
-06:00,Katowice,KTW,22:20,Tirana,TIA,272
-11:10,Katowice,KTW,12:45,Pula,PUY,138
-15:15,Katowice,KTW,16:55,Split,SPU,218
-10:30,Katowice,KTW,23:05,Zagreb,ZAG,196
-23:00,Katowice,KTW,00:50,Tirana,TIA,298
-06:15,Katowice,KTW,07:55,Liverpool,LPL,218
-10:45,Katowice,KTW,14:10,Athens,ATH,198
-06:15,Katowice,KTW,08:00,Podgorica,TGD,218
-10:35,Katowice,KTW,11:55,London STNLondon (Stansted),STN,206
-17:45,Katowice,KTW,19:40,Brussels CRLBrussels (Charleroi),CRL,68
-13:05,Katowice,KTW,15:50,Malta,MLA,168
-06:30,Katowice,KTW,22:55,Reggio Cal,REG,326
-05:50,Katowice,KTW,07:45,Dublin,DUB,171
-06:30,Katowice,KTW,08:25,Pisa,PSA,218
-16:00,Katowice,KTW,17:35,Manchester,MAN,126
-20:25,Katowice,KTW,22:30,Rome FCORome (Fiumicino),FCO,108
-06:00,Katowice,KTW,15:10,Pescara,PSR,227
-06:00,Katowice,KTW,13:05,Ancona,AOI,237
-06:00,Katowice,KTW,00:05,Bari,BRI,285
-09:55,Katowice,KTW,18:20,Catania,CTA,341
-11:10,Katowice,KTW,21:15,Berlin BERBerlin (Brandenburg),BER,265
-15:25,Katowice,KTW,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,304
-06:00,Katowice,KTW,12:15,Naples,NAP,243
-09:55,Katowice,KTW,11:55,Bari,BRI,191
-06:00,Katowice,KTW,12:15,Naples,NAP,243
-05:45,Katowice,KTW,21:00,Paphos,PFO,306
-12:40,Katowice,KTW,15:40,Bourgas,BOJ,308
-16:00,Katowice,KTW,21:05,Belfast,BFS,245
-09:45,Katowice,KTW,12:05,Alghero,AHO,393
-06:15,Katowice,KTW,07:55,Liverpool,LPL,218
-06:00,Katowice,KTW,22:20,Tirana,TIA,272
-10:45,Katowice,KTW,14:10,Athens,ATH,198
-06:30,Katowice,KTW,08:25,Pisa,PSA,208
-09:55,Katowice,KTW,23:59,Milan MXPMilan (Malpensa),MXP,249
-13:05,Katowice,KTW,15:30,Reggio Cal,REG,435
-05:45,Katowice,KTW,14:40,Memmingen,FMM,247
-10:35,Katowice,KTW,11:55,London STNLondon (Stansted),STN,206
-05:45,Katowice,KTW,21:40,Thessaloni,SKG,367
-05:45,Katowice,KTW,10:45,Toulouse,TLS,237
-09:55,Katowice,KTW,20:25,Palermo,PMO,264
-15:45,Katowice,KTW,23:45,Vilnius,VNO,320
-15:40,Katowice,KTW,20:05,Liverpool,LPL,379
-17:45,Katowice,KTW,23:35,Budapest,BUD,254
-23:00,Katowice,KTW,00:50,Tirana,TIA,298
-13:05,Katowice,KTW,23:35,Oslo OSLOslo (Gardermoen),OSL,408
-06:00,Katowice,KTW,19:55,Athens,ATH,341
-10:30,Katowice,KTW,22:55,Sarajevo,SJJ,363
-13:05,Katowice,KTW,15:50,Malta,MLA,168
-09:55,Katowice,KTW,18:20,Catania,CTA,341
-19:15,Katowice,KTW,22:10,Varna,VAR,468
-13:05,Katowice,KTW,22:10,Sofia,SOF,359
-10:30,Katowice,KTW,18:50,Cluj CLJCluj-Napoca,CLJ,274
-05:50,Katowice,KTW,22:35,Brussels CRLBrussels (Charleroi),CRL,235
-09:55,Katowice,KTW,19:15,Pisa,PSA,365
-05:45,Katowice,KTW,23:45,Rome FCORome (Fiumicino),FCO,499
-06:15,Katowice,KTW,15:50,Split,SPU,427
-05:45,Katowice,KTW,09:50,Paphos,PFO,118
-15:45,Katowice,KTW,23:30,Aalesund,AES,261
-11:10,Katowice,KTW,17:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,271
-06:00,Katowice,KTW,00:05,Bari,BRI,285
-15:45,Katowice,KTW,20:25,Luxembourg,LUX,379
-15:20,Katowice,KTW,17:25,Naples,NAP,359
-06:00,Katowice,KTW,01:50,Bucharest OTPBucharest (Otopeni),OTP,377
-05:45,Katowice,KTW,19:40,Eindhoven,EIN,299
-06:00,Katowice,KTW,17:50,Trieste,TRS,236
-05:45,Katowice,KTW,15:40,Skopje,SKP,375
-15:45,Katowice,KTW,00:45,Warsaw WMIWarsaw (Modlin),WMI,433
-05:45,Katowice,KTW,13:45,Trapani,TPS,478
-05:45,Katowice,KTW,23:35,Krakow,KRK,315
-15:20,Katowice,KTW,17:25,Naples,NAP,359
-06:30,Katowice,KTW,11:55,Palma Mall,PMI,319
-06:00,Katowice,KTW,15:00,Marseille,MRS,458
-10:30,Katowice,KTW,23:05,Gdansk,GDN,372
-16:15,Katowice,KTW,19:35,Madrid,MAD,362
-06:30,Katowice,KTW,22:35,Reggio Cal,REG,332
-16:10,Katowice,KTW,20:35,Manchester,MAN,445
-18:20,Katowice,KTW,20:50,Trapani,TPS,125
-17:20,Katowice,KTW,21:35,Larnaca,LCA,359
-06:30,Katowice,KTW,16:30,Malta,MLA,384
-10:35,Katowice,KTW,16:10,Barcelona REUBarcelona (Reus),REU,343
-05:45,Katowice,KTW,16:00,Wroclaw,WRO,238
-06:00,Katowice,KTW,15:10,Prague,PRG,333
-06:00,Katowice,KTW,12:40,Verona,VRN,419
-05:45,Katowice,KTW,17:15,Corfu,CFU,414
-10:30,Katowice,KTW,14:50,Poznan,POZ,383
-06:30,Katowice,KTW,12:15,Malaga,AGP,403
-10:45,Katowice,KTW,22:15,Vienna,VIE,317
-16:00,Katowice,KTW,21:45,Paris CDGParis (Charles de Gaulle),CDG,285
-06:15,Katowice,KTW,17:20,Barcelona,BCN,404
-06:15,Katowice,KTW,17:45,Alicante,ALC,371
-06:15,Katowice,KTW,17:20,Barcelona,BCN,404
-06:00,Katowice,KTW,19:55,Athens,ATH,341
-10:35,Katowice,KTW,16:10,Biarritz,BIQ,447
-16:00,Katowice,KTW,01:15,Ibiza,IBZ,297
-10:20,Katowice,KTW,23:40,Zadar,ZAD,494
-09:55,Katowice,KTW,19:15,Pisa,PSA,365
-06:00,Katowice,KTW,16:05,Katowice,KTW,311
-06:15,Katowice,KTW,17:45,Alicante,ALC,371
-10:30,Katowice,KTW,18:45,Faro,FAO,426
-06:00,Katowice,KTW,13:00,Nantes,NTE,406
-16:10,Katowice,KTW,22:30,Stockholm ARNStockholm (Arlanda),ARN,335
-09:55,Katowice,KTW,23:15,Bratislava,BTS,463
-16:15,Katowice,KTW,19:35,Madrid,MAD,359
-15:45,Katowice,KTW,22:20,Valencia,VLC,396
-10:20,Katowice,KTW,23:40,Zadar,ZAD,494
-13:05,Katowice,KTW,22:45,Warsaw,WAW,406
-10:35,Katowice,KTW,23:00,Szczecin,SZZ,446
-05:45,Katowice,KTW,17:35,Nice,NCE,309
-15:50,Katowice,KTW,23:50,Malta,MLA,346
-15:40,Katowice,KTW,21:30,Porto,OPO,327
-05:35,Katowice,KTW,08:45,Corfu,CFU,519
-15:45,Katowice,KTW,23:35,Trondheim,TRD,261
-11:10,Katowice,KTW,22:55,Rotterdam,RTM,346
-15:45,Katowice,KTW,23:20,Copenhagen,CPH,298
-13:05,Katowice,KTW,21:55,Bologna,BLQ,526
-15:25,Katowice,KTW,22:40,Newcastle,NCL,320
-10:45,Katowice,KTW,21:55,Larnaca,LCA,495
-05:45,Katowice,KTW,14:40,Paris ORYParis (Orly),ORY,264
-05:45,Katowice,KTW,21:00,Paphos,PFO,306
-16:15,Katowice,KTW,21:30,Kutaisi,KUT,448
-06:15,Katowice,KTW,14:45,Belfast BHDBelfast (city),BHD,433
-05:45,Katowice,KTW,14:50,Manchester,MAN,470
-06:30,Katowice,KTW,11:20,Paris BVAParis (Beauvais),BVA,414
-06:15,Katowice,KTW,23:20,Corfu,CFU,468
-06:30,Katowice,KTW,17:05,Lamezia Te,SUF,354
-05:50,Katowice,KTW,07:45,Dublin,DUB,171
-06:15,Katowice,KTW,13:15,Knock,NOC,558
-06:15,Katowice,KTW,17:45,Tenerife S,TFS,468
-06:00,Katowice,KTW,14:15,London LTNLondon (Luton),LTN,504
-05:45,Katowice,KTW,19:40,Eindhoven,EIN,299
-15:40,Katowice,KTW,21:45,Sevilla,SVQ,385
-06:30,Katowice,KTW,21:55,London LGWLondon (Gatwick),LGW,434
-09:55,Katowice,KTW,00:55,Lyon,LYS,497
-10:45,Katowice,KTW,20:50,Milan BGYMilan (Bergamo),BGY,712
-10:50,Katowice,KTW,12:45,Eindhoven,EIN,399
-16:20,Katowice,KTW,19:40,Alicante,ALC,508
-06:15,Katowice,KTW,17:45,Tenerife S,TFS,468
-05:45,Katowice,KTW,23:45,Rome FCORome (Fiumicino),FCO,499
-06:15,Katowice,KTW,20:55,Lanzarote,ACE,433
-05:35,Katowice,KTW,08:45,Corfu,CFU,519
-10:30,Katowice,KTW,15:55,Cologne CGNCologne-Bonn,CGN,196
-09:45,Katowice,KTW,12:05,Alghero,AHO,393
-06:15,Katowice,KTW,16:35,Isle Of Ma,IOM,478
-15:45,Katowice,KTW,21:05,Stavanger,SVG,390
-13:05,Katowice,KTW,20:50,Rzeszow RZERzeszow-Jasionka,RZE,312
-06:30,Katowice,KTW,15:15,Brindisi,BDS,377
-16:10,Katowice,KTW,22:50,Riga,RIX,482
-11:10,Katowice,KTW,18:00,Bristol,BRS,384
-12:30,Katowice,KTW,15:20,Barcelona,BCN,558
-11:50,Katowice,KTW,16:30,Fuertevent,FUE,538
-13:05,Katowice,KTW,22:05,Cagliari,CAG,353
-05:45,Katowice,KTW,16:15,Montpellie,MPL,336
-10:35,Katowice,KTW,16:15,Hamburg,HAM,291
-17:00,Katowice,KTW,22:15,Kutaisi,KUT,448
-20:25,Katowice,KTW,22:05,Split,SPU,359
-10:50,Katowice,KTW,12:45,Eindhoven,EIN,399
-06:00,Katowice,KTW,12:10,Venice VCEVenice (Marco Polo),VCE,575
-13:05,Katowice,KTW,00:50,East Midla,EMA,661
-06:30,Katowice,KTW,12:15,Malaga,AGP,403
-15:45,Katowice,KTW,22:55,Bergen,BGO,427
-10:20,Katowice,KTW,15:30,Genova,GOA,392
-06:30,Katowice,KTW,21:15,Rhodes,RHO,643
-12:30,Katowice,KTW,15:20,Barcelona,BCN,558
-15:45,Katowice,KTW,22:40,Harstad-Na EVEHarstad-Narvik (Evenes),EVE,427
-06:00,Katowice,KTW,09:50,Malaga,AGP,609
-16:20,Katowice,KTW,19:40,Alicante,ALC,508
+departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+25/06/25,Wed,05:45,Katowice,KTW,25/06/25,Wed,07:30,Forli,FRL,79
+25/06/25,Wed,21:10,Katowice,KTW,25/06/25,Wed,22:55,Milan BGYMilan (Bergamo),BGY,79
+28/06/25,Sat,17:45,Katowice,KTW,28/06/25,Sat,19:40,Brussels CRLBrussels (Charleroi),CRL,69
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,07:50,Rome FCORome (Fiumicino),FCO,120
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,17:50,Oslo OSLOslo (Gardermoen),OSL,79
+30/06/25,Mon,19:35,Katowice,KTW,30/06/25,Mon,21:15,Liverpool,LPL,109
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,08:35,Catania,CTA,129
+30/06/25,Mon,11:40,Katowice,KTW,30/06/25,Mon,13:20,Venice TSFVenice (Treviso),TSF,205
+25/06/25,Wed,21:10,Katowice,KTW,25/06/25,Wed,22:55,Milan BGYMilan (Bergamo),BGY,79
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,09:50,Paphos,PFO,119
+30/06/25,Mon,11:35,Katowice,KTW,30/06/25,Mon,13:10,Pula,PUY,241
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,22:35,Brussels CRLBrussels (Charleroi),CRL,234
+01/07/25,Tue,21:40,Katowice,KTW,01/07/25,Tue,23:15,Manchester,MAN,100
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,08:35,Catania,CTA,129
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,08:25,Pisa,PSA,209
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,14:10,Athens,ATH,198
+01/07/25,Tue,18:10,Katowice,KTW,01/07/25,Tue,23:15,Zadar,ZAD,281
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,22:20,Tirana,TIA,272
+01/07/25,Tue,15:15,Katowice,KTW,01/07/25,Tue,16:55,Split,SPU,219
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,23:05,Zagreb,ZAG,196
+28/06/25,Sat,17:45,Katowice,KTW,28/06/25,Sat,19:40,Brussels CRLBrussels (Charleroi),CRL,69
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,17:35,Manchester,MAN,153
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,11:55,London STNLondon (Stansted),STN,207
+26/06/25,Thu,23:00,Katowice,KTW,26/06/25,Thu,00:50,Tirana,TIA,309
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,11:55,Bari,BRI,191
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,15:50,Malta,MLA,168
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,14:10,Athens,ATH,198
+30/06/25,Mon,11:35,Katowice,KTW,30/06/25,Mon,13:10,Pula,PUY,241
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,07:45,Dublin,DUB,170
+29/06/25,Sun,06:15,Katowice,KTW,29/06/25,Sun,08:00,Podgorica,TGD,249
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,11:55,Bari,BRI,191
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,13:05,Ancona,AOI,237
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,15:10,Pescara,PSR,228
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,22:55,Reggio Cal,REG,326
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,23:35,Krakow,KRK,290
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,18:20,Catania,CTA,342
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,10:45,Toulouse,TLS,237
+01/07/25,Tue,18:10,Katowice,KTW,01/07/25,Tue,23:15,Zadar,ZAD,281
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,18:50,Cluj CLJCluj-Napoca,CLJ,274
+27/06/25,Fri,15:25,Katowice,KTW,27/06/25,Fri,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,304
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,12:15,Naples,NAP,243
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,07:50,Rome FCORome (Fiumicino),FCO,120
+29/06/25,Sun,12:40,Katowice,KTW,29/06/25,Sun,15:40,Bourgas,BOJ,309
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,23:59,Milan MXPMilan (Malpensa),MXP,249
+30/06/25,Mon,19:50,Katowice,KTW,30/06/25,Mon,22:10,Alghero,AHO,355
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,21:00,Paphos,PFO,306
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,15:50,Malta,MLA,168
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,19:15,Pisa,PSA,365
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,19:55,Athens,ATH,341
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,00:05,Bari,BRI,286
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,16:00,Wroclaw,WRO,239
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,22:20,Tirana,TIA,272
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,12:15,Naples,NAP,243
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,08:25,Pisa,PSA,209
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,14:40,Memmingen,FMM,247
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,11:55,London STNLondon (Stansted),STN,207
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,00:05,Bari,BRI,286
+30/06/25,Mon,19:35,Katowice,KTW,30/06/25,Mon,21:15,Liverpool,LPL,109
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,20:25,Palermo,PMO,265
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,23:45,Vilnius,VNO,318
+01/07/25,Tue,12:30,Katowice,KTW,01/07/25,Tue,15:20,Barcelona,BCN,309
+30/06/25,Mon,15:40,Katowice,KTW,30/06/25,Mon,22:50,Poznan,POZ,281
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,23:35,Oslo OSLOslo (Gardermoen),OSL,408
+28/06/25,Sat,17:45,Katowice,KTW,28/06/25,Sat,23:35,Budapest,BUD,254
+26/06/25,Thu,23:00,Katowice,KTW,26/06/25,Thu,00:50,Tirana,TIA,309
+02/07/25,Wed,10:45,Katowice,KTW,02/07/25,Wed,20:50,Milan BGYMilan (Bergamo),BGY,441
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,22:35,Brussels CRLBrussels (Charleroi),CRL,234
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,11:55,Palma Mall,PMI,319
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,18:20,Catania,CTA,342
+28/06/25,Sat,13:05,Katowice,KTW,28/06/25,Sat,15:30,Reggio Cal,REG,436
+01/07/25,Tue,16:15,Katowice,KTW,01/07/25,Tue,19:35,Madrid,MAD,327
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,15:10,Prague,PRG,333
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,22:10,Sofia,SOF,359
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,19:55,Athens,ATH,341
+30/06/25,Mon,05:35,Katowice,KTW,30/06/25,Mon,08:45,Corfu,CFU,299
+01/07/25,Tue,10:20,Katowice,KTW,01/07/25,Tue,15:45,Dusseldorf NRNDusseldorf (Weeze),NRN,371
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,16:50,Berlin BERBerlin (Brandenburg),BER,370
+27/06/25,Fri,15:45,Katowice,KTW,27/06/25,Fri,00:45,Warsaw WMIWarsaw (Modlin),WMI,397
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,21:05,Belfast,BFS,273
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,23:45,Rome FCORome (Fiumicino),FCO,499
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,23:30,Aalesund,AES,261
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,10:40,Salerno,QSR,401
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,21:40,Thessaloni,SKG,367
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,16:10,Barcelona REUBarcelona (Reus),REU,343
+26/06/25,Thu,20:30,Katowice,KTW,26/06/25,Thu,22:10,Split,SPU,359
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,22:55,Sarajevo,SJJ,402
+29/06/25,Sun,10:20,Katowice,KTW,29/06/25,Sun,14:45,Dubrovnik,DBV,408
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,20:25,Luxembourg,LUX,379
+26/06/25,Thu,15:20,Katowice,KTW,26/06/25,Thu,17:25,Naples,NAP,359
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,17:50,Trieste,TRS,236
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:45,Alicante,ALC,371
+27/06/25,Fri,05:45,Katowice,KTW,27/06/25,Fri,08:40,Varna,VAR,521
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,19:40,Eindhoven,EIN,299
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,16:30,Zaragoza,ZAZ,357
+02/07/25,Wed,06:30,Katowice,KTW,02/07/25,Wed,11:45,Manchester,MAN,373
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,09:50,Paphos,PFO,119
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,13:45,Trapani,TPS,478
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,01:50,Bucharest OTPBucharest (Otopeni),OTP,394
+01/07/25,Tue,06:15,Katowice,KTW,01/07/25,Tue,15:50,Split,SPU,468
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,23:05,Gdansk,GDN,372
+26/06/25,Thu,15:20,Katowice,KTW,26/06/25,Thu,17:25,Naples,NAP,359
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,16:30,Malta,MLA,385
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:20,Barcelona,BCN,404
+26/06/25,Thu,18:20,Katowice,KTW,26/06/25,Thu,20:50,Trapani,TPS,137
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,15:40,Skopje,SKP,375
+28/06/25,Sat,05:45,Katowice,KTW,28/06/25,Sat,17:15,Corfu,CFU,415
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,17:15,Brno,BRQ,391
+28/06/25,Sat,17:20,Katowice,KTW,28/06/25,Sat,21:35,Larnaca,LCA,399
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,12:15,Malaga,AGP,404
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,22:35,Reggio Cal,REG,333
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,12:40,Verona,VRN,436
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:45,Alicante,ALC,371
+01/07/25,Tue,15:15,Katowice,KTW,01/07/25,Tue,23:10,London LTNLondon (Luton),LTN,431
+01/07/25,Tue,12:30,Katowice,KTW,01/07/25,Tue,22:25,Olbia,OLB,440
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:20,Barcelona,BCN,404
+01/07/25,Tue,11:55,Katowice,KTW,01/07/25,Tue,23:15,London STNLondon (Stansted),STN,395
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,21:10,Malta,MLA,345
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,19:15,Pisa,PSA,365
+27/06/25,Fri,05:35,Katowice,KTW,27/06/25,Fri,08:45,Corfu,CFU,449
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,20:25,Paris ORYParis (Orly),ORY,264
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,16:10,Biarritz,BIQ,447
+28/06/25,Sat,05:45,Katowice,KTW,28/06/25,Sat,17:15,Corfu,CFU,415
+30/06/25,Mon,16:10,Katowice,KTW,30/06/25,Mon,20:35,Manchester,MAN,445
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,23:00,Szczecin,SZZ,381
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,16:05,Katowice,KTW,324
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,22:20,Valencia,VLC,396
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,18:45,Faro,FAO,426
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,19:40,Eindhoven,EIN,299
+30/06/25,Mon,16:10,Katowice,KTW,30/06/25,Mon,22:30,Stockholm ARNStockholm (Arlanda),ARN,335
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,01:15,Ibiza,IBZ,324
+01/07/25,Tue,10:50,Katowice,KTW,01/07/25,Tue,12:45,Eindhoven,EIN,309
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,13:00,Nantes,NTE,451
+30/06/25,Mon,19:50,Katowice,KTW,30/06/25,Mon,22:10,Alghero,AHO,355
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,22:15,Vienna,VIE,317
+30/06/25,Mon,11:25,Katowice,KTW,30/06/25,Mon,16:15,Tenerife S,TFS,399
+25/06/25,Wed,16:15,Katowice,KTW,25/06/25,Wed,21:30,Kutaisi,KUT,449
+01/07/25,Tue,10:50,Katowice,KTW,01/07/25,Tue,12:45,Eindhoven,EIN,309
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,15:55,Cologne CGNCologne-Bonn,CGN,196
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,17:35,Nice,NCE,309
+02/07/25,Wed,06:30,Katowice,KTW,02/07/25,Wed,13:10,Paris BVAParis (Beauvais),BVA,277
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,21:55,Larnaca,LCA,496
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,22:40,Trondheim,TRD,261
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,21:45,Paris CDGParis (Charles de Gaulle),CDG,313
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,22:45,Warsaw,WAW,423
+26/06/25,Thu,16:15,Katowice,KTW,26/06/25,Thu,19:35,Madrid,MAD,399
+30/06/25,Mon,11:25,Katowice,KTW,30/06/25,Mon,16:15,Tenerife S,TFS,399
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,19:50,Copenhagen,CPH,298
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,21:55,Bologna,BLQ,526
+26/06/25,Thu,15:25,Katowice,KTW,26/06/25,Thu,22:40,Newcastle,NCL,320
+30/06/25,Mon,15:40,Katowice,KTW,30/06/25,Mon,21:30,Porto,OPO,327
+02/07/25,Wed,06:15,Katowice,KTW,02/07/25,Wed,17:45,Tenerife S,TFS,428
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,14:40,Craiova,CRA,358
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,17:05,Lamezia Te,SUF,354
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,07:45,Dublin,DUB,170
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,23:15,Bratislava,BTS,548
+30/06/25,Mon,15:40,Katowice,KTW,30/06/25,Mon,21:45,Sevilla,SVQ,385
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,21:00,Paphos,PFO,306
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,16:15,Montpellie,MPL,337
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,20:00,Tenerife S,TFS,478
+01/07/25,Tue,17:20,Katowice,KTW,01/07/25,Tue,21:35,Larnaca,LCA,273
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,21:55,London LGWLondon (Gatwick),LGW,435
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,16:15,Hamburg,HAM,291
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,22:05,Cagliari,CAG,353
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,22:35,Lanzarote,ACE,461
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,22:30,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,437
+28/06/25,Sat,05:45,Katowice,KTW,28/06/25,Sat,12:20,Lyon,LYS,517
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,14:45,Belfast BHDBelfast (city),BHD,433
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,20:00,Fuertevent,FUE,520
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,17:40,Iasi,IAS,609
+01/07/25,Tue,06:15,Katowice,KTW,01/07/25,Tue,17:50,Lampedusa,LMP,466
+01/07/25,Tue,12:30,Katowice,KTW,01/07/25,Tue,15:20,Barcelona,BCN,309
+27/06/25,Fri,10:20,Katowice,KTW,27/06/25,Fri,17:40,Geneva,GVA,441
+27/06/25,Fri,11:50,Katowice,KTW,27/06/25,Fri,16:30,Fuertevent,FUE,539
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,19:45,Glasgow PIKGlasgow (Prestwick),PIK,362
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,20:00,Fuertevent,FUE,520
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,19:55,Bergen,BGO,427
+27/06/25,Fri,11:50,Katowice,KTW,27/06/25,Fri,16:30,Fuertevent,FUE,539
+26/06/25,Thu,16:15,Katowice,KTW,26/06/25,Thu,23:55,Bristol,BRS,477
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,21:55,Larnaca,LCA,496
+26/06/25,Thu,13:20,Katowice,KTW,26/06/25,Thu,23:00,Bodo,BOO,528

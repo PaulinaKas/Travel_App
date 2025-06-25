@@ -1,181 +1,181 @@
-departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
-16:05,Gdansk,GDN,17:20,Goteborg GOTGoteborg (Landvetter),GOT,78
-11:00,Gdansk,GDN,12:00,Vaxjo,VXO,80
-16:40,Gdansk,GDN,17:55,Krakow,KRK,98
-15:50,Gdansk,GDN,17:20,Oslo TRFOslo (Torp),TRF,68
-09:40,Gdansk,GDN,10:45,Wroclaw,WRO,78
-09:40,Gdansk,GDN,10:45,Wroclaw,WRO,78
-09:40,Gdansk,GDN,13:55,Oslo TRFOslo (Torp),TRF,148
-13:55,Gdansk,GDN,16:10,Paris BVAParis (Beauvais),BVA,108
-05:45,Gdansk,GDN,06:55,Lublin,LUZ,96
-16:40,Gdansk,GDN,17:55,Krakow,KRK,98
-06:30,Gdansk,GDN,07:50,Hamburg,HAM,178
-05:45,Gdansk,GDN,07:10,Leeds,LBA,128
-05:45,Gdansk,GDN,08:15,Liverpool,LPL,88
-07:35,Gdansk,GDN,22:15,Paris BVAParis (Beauvais),BVA,163
-22:10,Gdansk,GDN,23:20,Copenhagen,CPH,106
-13:55,Gdansk,GDN,16:10,Paris BVAParis (Beauvais),BVA,108
-08:30,Gdansk,GDN,15:30,Krakow,KRK,260
-05:50,Gdansk,GDN,14:40,Milan MXPMilan (Malpensa),MXP,193
-07:35,Gdansk,GDN,09:00,Manchester,MAN,88
-08:50,Gdansk,GDN,10:25,Bratislava,BTS,78
-13:45,Gdansk,GDN,15:05,Prague,PRG,196
-10:00,Gdansk,GDN,16:05,Leeds,LBA,236
-07:15,Gdansk,GDN,08:55,Dortmund,DTM,191
-16:05,Gdansk,GDN,17:20,Goteborg GOTGoteborg (Landvetter),GOT,78
-08:30,Gdansk,GDN,10:35,Zadar,ZAD,154
-09:40,Gdansk,GDN,14:00,Liverpool,LPL,196
-08:30,Gdansk,GDN,10:35,Zadar,ZAD,154
-11:30,Gdansk,GDN,17:55,Riga,RIX,274
-07:35,Gdansk,GDN,22:15,Paris BVAParis (Beauvais),BVA,163
-07:35,Gdansk,GDN,09:00,Manchester,MAN,88
-09:10,Gdansk,GDN,10:25,Aarhus,AAR,205
-16:40,Gdansk,GDN,00:05,Bologna,BLQ,163
-07:35,Gdansk,GDN,20:55,Milan BGYMilan (Bergamo),BGY,198
-08:50,Gdansk,GDN,22:40,Brussels CRLBrussels (Charleroi),CRL,142
-08:30,Gdansk,GDN,15:30,Krakow,KRK,260
-15:50,Gdansk,GDN,17:20,Oslo TRFOslo (Torp),TRF,68
-18:20,Gdansk,GDN,19:45,Aberdeen,ABZ,178
-13:55,Gdansk,GDN,23:35,Budapest,BUD,289
-12:50,Gdansk,GDN,15:00,Split,SPU,269
-05:50,Gdansk,GDN,14:40,Milan MXPMilan (Malpensa),MXP,193
-15:15,Gdansk,GDN,16:50,Oslo OSLOslo (Gardermoen),OSL,88
-06:45,Gdansk,GDN,08:25,Belfast,BFS,115
-13:55,Gdansk,GDN,23:00,Manchester,MAN,180
-05:45,Gdansk,GDN,07:45,Cork,ORK,146
-05:45,Gdansk,GDN,17:20,Barcelona,BCN,274
-16:50,Gdansk,GDN,19:00,Milan BGYMilan (Bergamo),BGY,209
-05:45,Gdansk,GDN,23:20,Corfu,CFU,338
-06:15,Gdansk,GDN,07:35,Stockholm ARNStockholm (Arlanda),ARN,108
-05:45,Gdansk,GDN,08:15,Liverpool,LPL,88
-06:15,Gdansk,GDN,17:35,Riga,RIX,313
-05:45,Gdansk,GDN,22:35,Palma Mall,PMI,215
-13:10,Gdansk,GDN,15:10,Venice TSFVenice (Treviso),TSF,243
-05:50,Gdansk,GDN,15:30,Birmingham,BHX,202
-13:55,Gdansk,GDN,23:00,Manchester,MAN,180
-19:20,Gdansk,GDN,22:50,Bourgas,BOJ,298
-18:30,Gdansk,GDN,21:40,Barcelona,BCN,298
-06:15,Gdansk,GDN,13:00,Copenhagen,CPH,259
-16:55,Gdansk,GDN,19:25,Rome CIARome (Ciampino),CIA,274
-16:05,Gdansk,GDN,21:25,Gdansk,GDN,222
-07:35,Gdansk,GDN,20:55,Milan BGYMilan (Bergamo),BGY,198
-05:50,Gdansk,GDN,07:50,Venice TSFVenice (Treviso),TSF,213
-11:30,Gdansk,GDN,15:50,Venice TSFVenice (Treviso),TSF,272
-07:35,Gdansk,GDN,16:30,Bratislava,BTS,348
-06:15,Gdansk,GDN,07:35,Stockholm ARNStockholm (Arlanda),ARN,108
-09:40,Gdansk,GDN,13:55,Oslo TRFOslo (Torp),TRF,148
-07:20,Gdansk,GDN,16:30,Prague,PRG,338
-16:55,Gdansk,GDN,19:25,Rome CIARome (Ciampino),CIA,274
-08:25,Gdansk,GDN,20:55,Venice TSFVenice (Treviso),TSF,230
-08:50,Gdansk,GDN,22:15,Thessaloni,SKG,246
-15:15,Gdansk,GDN,16:50,Oslo OSLOslo (Gardermoen),OSL,88
-05:50,Gdansk,GDN,11:30,Madrid,MAD,193
-09:15,Gdansk,GDN,14:15,Wroclaw,WRO,394
-22:10,Gdansk,GDN,23:20,Copenhagen,CPH,106
-05:45,Gdansk,GDN,17:45,Alicante,ALC,241
-05:45,Gdansk,GDN,17:45,Alicante,ALC,241
-08:30,Gdansk,GDN,21:40,Bucharest OTPBucharest (Otopeni),OTP,282
-18:10,Gdansk,GDN,22:50,Larnaca,LCA,249
-08:25,Gdansk,GDN,13:10,Podgorica,TGD,436
-07:35,Gdansk,GDN,21:20,Belfast,BFS,203
-08:05,Gdansk,GDN,15:35,Split,SPU,362
-09:40,Gdansk,GDN,15:30,Rome CIARome (Ciampino),CIA,326
-07:35,Gdansk,GDN,00:35,Cologne CGNCologne-Bonn,CGN,163
-06:45,Gdansk,GDN,11:50,London STNLondon (Stansted),STN,330
-07:35,Gdansk,GDN,13:50,Shannon,SNN,173
-16:40,Gdansk,GDN,21:50,Vienna,VIE,241
-11:30,Gdansk,GDN,19:45,London LGWLondon (Gatwick),LGW,219
-12:00,Gdansk,GDN,13:20,Newcastle,NCL,94
-14:25,Gdansk,GDN,16:45,Pisa,PSA,281
-13:55,Gdansk,GDN,23:35,Budapest,BUD,289
-11:30,Gdansk,GDN,23:25,Pisa,PSA,289
-08:30,Gdansk,GDN,14:55,Rome FCORome (Fiumicino),FCO,222
-16:50,Gdansk,GDN,19:00,Milan BGYMilan (Bergamo),BGY,209
-05:45,Gdansk,GDN,17:20,Barcelona,BCN,274
-10:00,Gdansk,GDN,18:55,Malaga,AGP,342
-11:15,Gdansk,GDN,13:10,Bergen,BGO,208
-09:40,Gdansk,GDN,15:30,Rome CIARome (Ciampino),CIA,326
-09:35,Gdansk,GDN,10:55,Leeds,LBA,211
-17:10,Gdansk,GDN,21:20,Chania,CHQ,346
-11:30,Gdansk,GDN,23:25,Pisa,PSA,289
-08:30,Gdansk,GDN,13:50,Poznan,POZ,276
-09:40,Gdansk,GDN,14:00,Liverpool,LPL,196
-08:55,Gdansk,GDN,13:30,Paphos,PFO,204
-09:40,Gdansk,GDN,19:00,Malta,MLA,286
-11:25,Gdansk,GDN,14:40,Malta,MLA,322
-07:35,Gdansk,GDN,20:35,Valencia,VLC,316
-05:45,Gdansk,GDN,23:20,Corfu,CFU,338
-12:00,Gdansk,GDN,23:10,Bristol,BRS,309
-08:05,Gdansk,GDN,00:40,Tirana,TIA,372
-09:40,Gdansk,GDN,19:00,Malta,MLA,286
-05:50,Gdansk,GDN,08:25,Naples,NAP,288
-10:00,Gdansk,GDN,16:05,Leeds,LBA,236
-08:50,Gdansk,GDN,19:30,Skopje,SKP,229
-18:10,Gdansk,GDN,22:50,Larnaca,LCA,249
-12:45,Gdansk,GDN,15:20,Brindisi,BDS,303
-18:30,Gdansk,GDN,23:05,Zagreb,ZAG,333
-23:00,Gdansk,GDN,01:15,Riga,RIX,495
-17:10,Gdansk,GDN,21:20,Chania,CHQ,346
-10:05,Gdansk,GDN,12:35,Turku,TKU,409
-14:25,Gdansk,GDN,16:45,Pisa,PSA,281
-05:45,Gdansk,GDN,15:45,London LTNLondon (Luton),LTN,223
-17:05,Gdansk,GDN,19:50,Tromso,TOS,208
-11:25,Gdansk,GDN,14:40,Malta,MLA,322
-08:25,Gdansk,GDN,13:00,Zadar,ZAD,290
-07:35,Gdansk,GDN,20:20,Naples,NAP,313
-18:00,Gdansk,GDN,22:15,Heraklion,HER,359
-07:35,Gdansk,GDN,17:05,Paris ORYParis (Orly),ORY,218
-09:40,Gdansk,GDN,16:45,East Midla,EMA,247
-06:40,Gdansk,GDN,08:25,Eindhoven,EIN,218
-11:55,Gdansk,GDN,20:15,Athens,ATH,407
-15:10,Gdansk,GDN,18:50,Alicante,ALC,352
-18:30,Gdansk,GDN,21:40,Barcelona,BCN,298
-11:30,Gdansk,GDN,00:05,Oslo OSLOslo (Gardermoen),OSL,278
-05:55,Gdansk,GDN,07:25,Edinburgh,EDI,167
-15:10,Gdansk,GDN,18:50,Alicante,ALC,352
-05:50,Gdansk,GDN,15:15,Katowice,KTW,277
-19:30,Gdansk,GDN,21:40,Milan MXPMilan (Malpensa),MXP,448
-07:35,Gdansk,GDN,15:00,Copenhagen,CPH,272
-12:10,Gdansk,GDN,14:10,Aalesund,AES,208
-19:20,Gdansk,GDN,22:50,Bourgas,BOJ,298
-07:35,Gdansk,GDN,20:20,Naples,NAP,313
-16:35,Gdansk,GDN,20:50,Malaga,AGP,448
-11:30,Gdansk,GDN,17:00,Szczecin,SZZ,356
-11:30,Gdansk,GDN,22:50,Stockholm ARNStockholm (Arlanda),ARN,314
-10:00,Gdansk,GDN,18:55,Malaga,AGP,342
-07:35,Gdansk,GDN,19:05,Goteborg GOTGoteborg (Landvetter),GOT,607
-05:45,Gdansk,GDN,20:55,Lanzarote,ACE,303
-16:40,Gdansk,GDN,22:45,Bucharest BBUBucharest (Aurel Vlaicu),BBU,407
-05:50,Gdansk,GDN,18:15,Tirana,TIA,320
-05:45,Gdansk,GDN,13:15,Knock,NOC,428
-06:15,Gdansk,GDN,19:15,Bergen,BGO,335
-05:55,Gdansk,GDN,07:25,Edinburgh,EDI,167
-19:35,Gdansk,GDN,22:00,Tirana,TIA,519
-08:30,Gdansk,GDN,17:50,Bournemout,BOH,282
-05:45,Gdansk,GDN,23:05,Edinburgh,EDI,221
-16:50,Gdansk,GDN,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,308
-05:45,Gdansk,GDN,21:20,Faro,FAO,378
-07:35,Gdansk,GDN,17:30,Sevilla,SVQ,324
-07:35,Gdansk,GDN,17:25,Lisbon,LIS,351
-19:30,Gdansk,GDN,21:40,Milan MXPMilan (Malpensa),MXP,448
-12:00,Gdansk,GDN,23:10,Bristol,BRS,309
-08:05,Gdansk,GDN,12:15,Zadar,ZAD,469
-07:35,Gdansk,GDN,13:50,Paris CDGParis (Charles de Gaulle),CDG,283
-05:50,Gdansk,GDN,23:50,Ibiza,IBZ,452
-12:50,Gdansk,GDN,15:25,Naples,NAP,328
-11:30,Gdansk,GDN,00:05,Oslo OSLOslo (Gardermoen),OSL,278
-07:10,Gdansk,GDN,09:05,Trondheim,TRD,178
-11:30,Gdansk,GDN,22:50,Stockholm ARNStockholm (Arlanda),ARN,314
-12:50,Gdansk,GDN,15:00,Split,SPU,269
-07:35,Gdansk,GDN,20:20,Split,SPU,443
-13:35,Gdansk,GDN,18:15,Madeira FNCMadeira (Funchal),FNC,399
-07:35,Gdansk,GDN,17:05,Nantes,NTE,207
-16:25,Gdansk,GDN,23:45,Vilnius,VNO,350
-05:45,Gdansk,GDN,07:45,Cork,ORK,146
-10:00,Gdansk,GDN,15:50,Cork,ORK,414
-10:05,Gdansk,GDN,11:55,Haugesund,HAU,318
-15:15,Gdansk,GDN,22:40,Eindhoven,EIN,429
-06:45,Gdansk,GDN,11:35,Newcastle,NCL,280
-12:00,Gdansk,GDN,13:20,Newcastle,NCL,94
-08:30,Gdansk,GDN,17:10,Dusseldorf NRNDusseldorf (Weeze),NRN,379
-08:05,Gdansk,GDN,21:45,Sofia,SOF,377
+departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+25/06/25,Wed,16:05,Gdansk,GDN,25/06/25,Wed,17:20,Goteborg GOTGoteborg (Landvetter),GOT,79
+28/06/25,Sat,11:00,Gdansk,GDN,28/06/25,Sat,12:00,Vaxjo,VXO,79
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,07:30,Oslo TRFOslo (Torp),TRF,79
+25/06/25,Wed,16:40,Gdansk,GDN,25/06/25,Wed,17:55,Krakow,KRK,98
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,10:45,Wroclaw,WRO,70
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,139
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,10:45,Wroclaw,WRO,70
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,16:10,Paris BVAParis (Beauvais),BVA,108
+25/06/25,Wed,16:40,Gdansk,GDN,25/06/25,Wed,17:55,Krakow,KRK,98
+01/07/25,Tue,15:35,Gdansk,GDN,01/07/25,Tue,16:55,Hamburg,HAM,129
+01/07/25,Tue,05:45,Gdansk,GDN,01/07/25,Tue,07:10,Leeds,LBA,129
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,08:15,Liverpool,LPL,89
+02/07/25,Wed,07:25,Gdansk,GDN,02/07/25,Wed,09:05,Dortmund,DTM,147
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,22:15,Paris BVAParis (Beauvais),BVA,163
+01/07/25,Tue,14:40,Gdansk,GDN,01/07/25,Tue,15:50,Copenhagen,CPH,64
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,16:10,Paris BVAParis (Beauvais),BVA,108
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,10:25,Bratislava,BTS,79
+30/06/25,Mon,15:35,Gdansk,GDN,30/06/25,Mon,17:00,Billund,BLL,139
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,09:15,Riga,RIX,171
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,10:35,Zadar,ZAD,154
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:15,Krakow,KRK,254
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,14:40,Milan MXPMilan (Malpensa),MXP,193
+25/06/25,Wed,13:45,Gdansk,GDN,25/06/25,Wed,15:05,Prague,PRG,197
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,10:35,Zadar,ZAD,154
+26/06/25,Thu,15:50,Gdansk,GDN,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,69
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:00,Riga,RIX,219
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,16:05,Leeds,LBA,236
+25/06/25,Wed,16:05,Gdansk,GDN,25/06/25,Wed,17:20,Goteborg GOTGoteborg (Landvetter),GOT,79
+26/06/25,Thu,18:00,Gdansk,GDN,26/06/25,Thu,19:20,Prague,PRG,95
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,22:15,Paris BVAParis (Beauvais),BVA,163
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,19:10,Gdansk,GDN,159
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,09:00,Manchester,MAN,89
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,09:00,Manchester,MAN,89
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,14:00,Liverpool,LPL,213
+26/06/25,Thu,15:15,Gdansk,GDN,26/06/25,Thu,16:50,Oslo OSLOslo (Gardermoen),OSL,89
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:55,Milan BGYMilan (Bergamo),BGY,198
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,22:40,Brussels CRLBrussels (Charleroi),CRL,142
+25/06/25,Wed,16:40,Gdansk,GDN,25/06/25,Wed,00:05,Bologna,BLQ,163
+30/06/25,Mon,09:35,Gdansk,GDN,30/06/25,Mon,10:50,Aarhus,AAR,180
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,08:15,Liverpool,LPL,89
+01/07/25,Tue,06:15,Gdansk,GDN,01/07/25,Tue,07:35,Stockholm ARNStockholm (Arlanda),ARN,79
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:35,Budapest,BUD,290
+01/07/25,Tue,14:30,Gdansk,GDN,01/07/25,Tue,22:55,Sofia,SOF,180
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,139
+30/06/25,Mon,05:50,Gdansk,GDN,30/06/25,Mon,07:50,Venice TSFVenice (Treviso),TSF,214
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,14:40,Milan MXPMilan (Malpensa),MXP,193
+26/06/25,Thu,06:45,Gdansk,GDN,26/06/25,Thu,08:25,Belfast,BFS,116
+28/06/25,Sat,05:45,Gdansk,GDN,28/06/25,Sat,06:55,Lublin,LUZ,108
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:15,Krakow,KRK,254
+29/06/25,Sun,16:50,Gdansk,GDN,29/06/25,Sun,19:00,Milan BGYMilan (Bergamo),BGY,209
+30/06/25,Mon,20:00,Gdansk,GDN,30/06/25,Mon,21:25,Aberdeen,ABZ,209
+26/06/25,Thu,12:00,Gdansk,GDN,26/06/25,Thu,13:20,Newcastle,NCL,95
+28/06/25,Sat,06:15,Gdansk,GDN,28/06/25,Sat,07:35,Stockholm ARNStockholm (Arlanda),ARN,109
+26/06/25,Thu,13:10,Gdansk,GDN,26/06/25,Thu,15:10,Venice TSFVenice (Treviso),TSF,243
+01/07/25,Tue,05:45,Gdansk,GDN,01/07/25,Tue,07:10,Leeds,LBA,129
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:20,Barcelona,BCN,274
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,15:30,Birmingham,BHX,202
+25/06/25,Wed,17:10,Gdansk,GDN,25/06/25,Wed,21:20,Chania,CHQ,346
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:00,Manchester,MAN,181
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:00,Manchester,MAN,181
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,09:15,Riga,RIX,171
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,15:00,Copenhagen,CPH,272
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,19:45,London LGWLondon (Gatwick),LGW,219
+28/06/25,Sat,14:25,Gdansk,GDN,28/06/25,Sat,16:45,Pisa,PSA,281
+27/06/25,Fri,16:55,Gdansk,GDN,27/06/25,Fri,19:25,Rome CIARome (Ciampino),CIA,275
+30/06/25,Mon,10:30,Gdansk,GDN,30/06/25,Mon,16:40,Wroclaw,WRO,347
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,23:25,Pisa,PSA,289
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,20:55,Venice TSFVenice (Treviso),TSF,268
+29/06/25,Sun,18:30,Gdansk,GDN,29/06/25,Sun,21:40,Barcelona,BCN,299
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:45,Alicante,ALC,241
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:55,Milan BGYMilan (Bergamo),BGY,198
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,22:15,Thessaloni,SKG,246
+01/07/25,Tue,15:15,Gdansk,GDN,01/07/25,Tue,21:55,Katowice,KTW,241
+26/06/25,Thu,15:15,Gdansk,GDN,26/06/25,Thu,16:50,Oslo OSLOslo (Gardermoen),OSL,89
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,11:30,Madrid,MAD,193
+26/06/25,Thu,22:10,Gdansk,GDN,26/06/25,Thu,23:20,Copenhagen,CPH,106
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:45,Alicante,ALC,241
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:00,Riga,RIX,219
+25/06/25,Wed,18:10,Gdansk,GDN,25/06/25,Wed,22:50,Larnaca,LCA,249
+01/07/25,Tue,06:40,Gdansk,GDN,01/07/25,Tue,08:25,Eindhoven,EIN,249
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,21:20,Belfast,BFS,203
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,00:35,Cologne CGNCologne-Bonn,CGN,163
+28/06/25,Sat,19:20,Gdansk,GDN,28/06/25,Sat,22:50,Bourgas,BOJ,359
+26/06/25,Thu,06:45,Gdansk,GDN,26/06/25,Thu,11:50,London STNLondon (Stansted),STN,330
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,18:55,Malaga,AGP,343
+27/06/25,Fri,14:35,Gdansk,GDN,27/06/25,Fri,21:05,Prague,PRG,267
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,13:50,Shannon,SNN,173
+25/06/25,Wed,18:10,Gdansk,GDN,25/06/25,Wed,22:50,Larnaca,LCA,249
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:35,Budapest,BUD,290
+27/06/25,Fri,14:35,Gdansk,GDN,27/06/25,Fri,21:05,Prague,PRG,267
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,14:00,Liverpool,LPL,213
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,14:55,Rome FCORome (Fiumicino),FCO,222
+30/06/25,Mon,05:50,Gdansk,GDN,30/06/25,Mon,18:15,Tirana,TIA,320
+29/06/25,Sun,16:50,Gdansk,GDN,29/06/25,Sun,19:00,Milan BGYMilan (Bergamo),BGY,209
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:20,Barcelona,BCN,274
+27/06/25,Fri,16:55,Gdansk,GDN,27/06/25,Fri,19:25,Rome CIARome (Ciampino),CIA,275
+01/07/25,Tue,19:35,Gdansk,GDN,01/07/25,Tue,22:00,Tirana,TIA,327
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,13:00,Zadar,ZAD,381
+28/06/25,Sat,11:15,Gdansk,GDN,28/06/25,Sat,13:10,Bergen,BGO,219
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,23:25,Pisa,PSA,289
+02/07/25,Wed,05:45,Gdansk,GDN,02/07/25,Wed,07:45,Cork,ORK,320
+25/06/25,Wed,11:25,Gdansk,GDN,25/06/25,Wed,14:40,Malta,MLA,323
+01/07/25,Tue,12:50,Gdansk,GDN,01/07/25,Tue,20:55,Goteborg GOTGoteborg (Landvetter),GOT,481
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:35,Valencia,VLC,316
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,16:05,Leeds,LBA,236
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,13:10,Podgorica,TGD,483
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,00:05,Oslo OSLOslo (Gardermoen),OSL,278
+26/06/25,Thu,12:00,Gdansk,GDN,26/06/25,Thu,00:10,Dublin,DUB,169
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,19:30,Skopje,SKP,229
+27/06/25,Fri,12:50,Gdansk,GDN,27/06/25,Fri,15:25,Naples,NAP,291
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,23:20,Corfu,CFU,473
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,16:30,Bratislava,BTS,348
+01/07/25,Tue,14:30,Gdansk,GDN,01/07/25,Tue,23:45,Edinburgh,EDI,166
+26/06/25,Thu,05:55,Gdansk,GDN,26/06/25,Thu,07:25,Edinburgh,EDI,167
+01/07/25,Tue,14:55,Gdansk,GDN,01/07/25,Tue,22:15,Stockholm ARNStockholm (Arlanda),ARN,250
+25/06/25,Wed,17:10,Gdansk,GDN,25/06/25,Wed,21:20,Chania,CHQ,346
+27/06/25,Fri,12:45,Gdansk,GDN,27/06/25,Fri,15:20,Brindisi,BDS,304
+28/06/25,Sat,18:30,Gdansk,GDN,28/06/25,Sat,23:05,Zagreb,ZAG,334
+29/06/25,Sun,10:05,Gdansk,GDN,29/06/25,Sun,12:35,Turku,TKU,409
+28/06/25,Sat,14:25,Gdansk,GDN,28/06/25,Sat,16:45,Pisa,PSA,281
+25/06/25,Wed,11:25,Gdansk,GDN,25/06/25,Wed,14:40,Malta,MLA,323
+26/06/25,Thu,15:10,Gdansk,GDN,26/06/25,Thu,18:50,Alicante,ALC,352
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:20,Naples,NAP,313
+27/06/25,Fri,18:00,Gdansk,GDN,27/06/25,Fri,22:15,Heraklion,HER,359
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,13:50,Poznan,POZ,276
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,16:45,East Midla,EMA,239
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,15:30,Rome CIARome (Ciampino),CIA,411
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,17:05,Paris ORYParis (Orly),ORY,218
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,14:30,Marseille,MRS,285
+01/07/25,Tue,18:30,Gdansk,GDN,01/07/25,Tue,21:40,Barcelona,BCN,282
+27/06/25,Fri,14:35,Gdansk,GDN,27/06/25,Fri,19:45,Dubrovnik,DBV,330
+27/06/25,Fri,12:50,Gdansk,GDN,27/06/25,Fri,15:25,Naples,NAP,291
+26/06/25,Thu,15:10,Gdansk,GDN,26/06/25,Thu,18:50,Alicante,ALC,352
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,23:00,Vienna,VIE,283
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,14:45,Belfast BHDBelfast (city),BHD,303
+26/06/25,Thu,13:10,Gdansk,GDN,26/06/25,Thu,19:30,Malta,MLA,355
+29/06/25,Sun,16:50,Gdansk,GDN,29/06/25,Sun,21:20,Frankfurt HHNFrankfurt (Hahn),HHN,341
+02/07/25,Wed,12:45,Gdansk,GDN,02/07/25,Wed,16:50,Malaga,AGP,447
+26/06/25,Thu,19:30,Gdansk,GDN,26/06/25,Thu,21:40,Milan MXPMilan (Malpensa),MXP,449
+26/06/25,Thu,06:45,Gdansk,GDN,26/06/25,Thu,11:35,Newcastle,NCL,280
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,15:00,Copenhagen,CPH,272
+01/07/25,Tue,12:10,Gdansk,GDN,01/07/25,Tue,14:10,Aalesund,AES,209
+25/06/25,Wed,16:50,Gdansk,GDN,25/06/25,Wed,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,309
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,15:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,260
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:20,Naples,NAP,313
+25/06/25,Wed,05:50,Gdansk,GDN,25/06/25,Wed,15:35,Palma Mall,PMI,438
+01/07/25,Tue,14:55,Gdansk,GDN,01/07/25,Tue,22:25,Trieste,TRS,341
+26/06/25,Thu,12:00,Gdansk,GDN,26/06/25,Thu,19:10,Lanzarote,ACE,364
+30/06/25,Mon,11:55,Gdansk,GDN,30/06/25,Mon,20:15,Athens,ATH,436
+01/07/25,Tue,06:40,Gdansk,GDN,01/07/25,Tue,08:25,Eindhoven,EIN,249
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,17:25,Lisbon,LIS,352
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,22:50,Stockholm ARNStockholm (Arlanda),ARN,315
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,18:55,Malaga,AGP,343
+27/06/25,Fri,09:15,Gdansk,GDN,27/06/25,Fri,18:00,Eindhoven,EIN,391
+30/06/25,Mon,05:50,Gdansk,GDN,30/06/25,Mon,18:15,Tirana,TIA,320
+26/06/25,Thu,08:55,Gdansk,GDN,26/06/25,Thu,13:30,Paphos,PFO,319
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,15:50,Venice TSFVenice (Treviso),TSF,453
+26/06/25,Thu,05:55,Gdansk,GDN,26/06/25,Thu,10:05,Bristol,BRS,327
+26/06/25,Thu,13:10,Gdansk,GDN,26/06/25,Thu,19:30,Malta,MLA,355
+26/06/25,Thu,05:55,Gdansk,GDN,26/06/25,Thu,07:25,Edinburgh,EDI,167
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,15:30,Rome CIARome (Ciampino),CIA,411
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,17:30,Sevilla,SVQ,325
+01/07/25,Tue,15:40,Gdansk,GDN,01/07/25,Tue,22:20,Dusseldorf NRNDusseldorf (Weeze),NRN,310
+01/07/25,Tue,12:10,Gdansk,GDN,01/07/25,Tue,14:10,Aalesund,AES,209
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,14:15,Santorini,JTR,454
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,21:25,Turin,TRN,340
+26/06/25,Thu,19:30,Gdansk,GDN,26/06/25,Thu,21:40,Milan MXPMilan (Malpensa),MXP,449
+27/06/25,Fri,08:05,Gdansk,GDN,27/06/25,Fri,15:35,Split,SPU,402
+27/06/25,Fri,09:15,Gdansk,GDN,27/06/25,Fri,00:15,Warsaw WMIWarsaw (Modlin),WMI,379
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,21:35,Paris CDGParis (Charles de Gaulle),CDG,283
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,13:00,Zadar,ZAD,381
+25/06/25,Wed,05:50,Gdansk,GDN,25/06/25,Wed,23:50,Ibiza,IBZ,452
+01/07/25,Tue,06:15,Gdansk,GDN,01/07/25,Tue,08:00,Dublin,DUB,287
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,00:05,Oslo OSLOslo (Gardermoen),OSL,278
+28/06/25,Sat,07:10,Gdansk,GDN,28/06/25,Sat,09:05,Trondheim,TRD,179
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,23:59,Klaipeda PLQKlaipeda-Palanga,PLQ,383
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,16:35,Isle Of Ma,IOM,348
+27/06/25,Fri,10:00,Gdansk,GDN,27/06/25,Fri,15:50,Cork,ORK,465
+25/06/25,Wed,16:25,Gdansk,GDN,25/06/25,Wed,23:45,Vilnius,VNO,348
+26/06/25,Thu,13:35,Gdansk,GDN,26/06/25,Thu,18:15,Madeira FNCMadeira (Funchal),FNC,399

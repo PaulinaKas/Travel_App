@@ -1,80 +1,89 @@
-departure_time,departure_city,departure_airport,arrival_time,arrival_city,arrival_airport,price
-22:35,Lodz,LCJ,00:30,Milan BGYMilan (Bergamo),BGY,80
-15:50,Lodz,LCJ,17:05,London STNLondon (Stansted),STN,153
-11:35,Lodz,LCJ,16:10,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,316
-11:35,Lodz,LCJ,20:25,Luxembourg,LUX,299
-20:45,Lodz,LCJ,22:40,Brussels CRLBrussels (Charleroi),CRL,247
-13:40,Lodz,LCJ,00:55,Poznan,POZ,359
-20:45,Lodz,LCJ,00:10,Alicante,ALC,344
-09:50,Lodz,LCJ,13:45,Malaga,AGP,366
-15:50,Lodz,LCJ,22:50,Trieste,TRS,396
-11:35,Lodz,LCJ,18:30,Zagreb,ZAG,485
-09:50,Lodz,LCJ,18:50,Marseille,MRS,459
-15:50,Lodz,LCJ,22:15,Edinburgh,EDI,347
-15:50,Lodz,LCJ,22:20,Dubrovnik,DBV,382
-11:35,Lodz,LCJ,22:20,Valencia,VLC,316
-11:05,Lodz,LCJ,15:00,Malaga,AGP,640
-11:35,Lodz,LCJ,19:00,Sevilla,SVQ,413
-15:50,Lodz,LCJ,20:35,Glasgow,GLA,417
-15:50,Lodz,LCJ,22:45,Cluj CLJCluj-Napoca,CLJ,791
-09:50,Lodz,LCJ,20:55,Milan BGYMilan (Bergamo),BGY,946
-10:10,Lodz,LCJ,00:30,Malaga,AGP,750
-11:35,Lodz,LCJ,22:30,Toulouse,TLS,360
-15:55,Lodz,LCJ,19:20,Belfast,BFS,476
-11:35,Lodz,LCJ,22:05,Kefalonia,EFL,381
-13:40,Lodz,LCJ,23:59,Palma Mall,PMI,375
-20:45,Lodz,LCJ,00:10,Alicante,ALC,344
-09:50,Lodz,LCJ,22:55,East Midla,EMA,570
-11:35,Lodz,LCJ,01:10,Paphos,PFO,607
-13:40,Lodz,LCJ,17:55,Cologne CGNCologne-Bonn,CGN,238
-15:50,Lodz,LCJ,22:20,Rotterdam,RTM,357
-11:05,Lodz,LCJ,20:45,Newcastle,NCL,827
-13:40,Lodz,LCJ,23:35,Marrakech,RAK,680
-13:40,Lodz,LCJ,00:45,Warsaw WMIWarsaw (Modlin),WMI,407
-09:50,Lodz,LCJ,00:05,Manchester,MAN,642
-11:35,Lodz,LCJ,22:35,Lanzarote,ACE,381
-13:40,Lodz,LCJ,18:00,Liverpool,LPL,583
-09:50,Lodz,LCJ,00:50,London LGWLondon (Gatwick),LGW,616
-11:05,Lodz,LCJ,19:55,Brussels CRLBrussels (Charleroi),CRL,871
-11:05,Lodz,LCJ,23:15,Bristol,BRS,947
-11:35,Lodz,LCJ,21:00,Santander,SDR,794
-09:50,Lodz,LCJ,21:15,Lyon,LYS,759
-09:50,Lodz,LCJ,19:45,Paris ORYParis (Orly),ORY,540
-11:35,Lodz,LCJ,20:40,Stockholm ARNStockholm (Arlanda),ARN,331
-09:50,Lodz,LCJ,01:30,London LTNLondon (Luton),LTN,759
-09:50,Lodz,LCJ,20:20,Krakow,KRK,697
-11:05,Lodz,LCJ,23:10,Leeds,LBA,884
-10:40,Lodz,LCJ,12:10,Birmingham,BHX,873
-09:50,Lodz,LCJ,22:50,Dusseldorf NRNDusseldorf (Weeze),NRN,766
-13:40,Lodz,LCJ,22:00,Kos,KGS,533
-11:35,Lodz,LCJ,21:25,Rzeszow RZERzeszow-Jasionka,RZE,514
-15:50,Lodz,LCJ,22:30,Naples,NAP,976
-11:05,Lodz,LCJ,22:45,Nantes,NTE,772
-09:50,Lodz,LCJ,22:45,Kaunas,KUN,1044
-09:50,Lodz,LCJ,18:35,Amsterdam,AMS,690
-11:05,Lodz,LCJ,22:50,Bournemout,BOH,1006
-12:50,Lodz,LCJ,21:55,Thessaloni,SKG,1124
-13:40,Lodz,LCJ,22:30,Iasi,IAS,1291
-22:40,Lodz,LCJ,00:30,Dublin,DUB,337
-14:20,Lodz,LCJ,21:20,Lamezia Te,SUF,1042
-15:55,Lodz,LCJ,23:10,Bydgoszcz,BZG,776
-11:05,Lodz,LCJ,23:10,Bilbao,BIO,990
-10:40,Lodz,LCJ,17:10,Barcelona,BCN,1078
-09:50,Lodz,LCJ,22:15,Santiago D,SCQ,837
-14:20,Lodz,LCJ,21:30,Vilnius,VNO,815
-12:50,Lodz,LCJ,22:55,Sarajevo,SJJ,998
-11:05,Lodz,LCJ,23:35,Brussels,BRU,1027
-11:05,Lodz,LCJ,19:35,Copenhagen,CPH,954
-13:40,Lodz,LCJ,18:35,Castellon,CDT,925
-11:05,Lodz,LCJ,22:40,Eindhoven,EIN,1236
-11:05,Lodz,LCJ,23:45,Milan MXPMilan (Malpensa),MXP,757
-09:50,Lodz,LCJ,21:00,Muenster FMOMuenster-Osnabrueck,FMO,1148
-11:35,Lodz,LCJ,20:10,Podgorica,TGD,959
-09:50,Lodz,LCJ,21:10,Helsinki,HEL,1067
-10:40,Lodz,LCJ,18:15,Cork,ORK,1018
-09:50,Lodz,LCJ,18:50,Oslo OSLOslo (Gardermoen),OSL,864
-10:40,Lodz,LCJ,20:00,Rhodes,RHO,1048
-13:40,Lodz,LCJ,21:55,Olbia,OLB,1008
-11:05,Lodz,LCJ,22:00,Berlin BERBerlin (Brandenburg),BER,1034
-09:50,Lodz,LCJ,17:50,Menorca,MAH,1192
-15:55,Lodz,LCJ,00:40,Athens,ATH,1251
+departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+29/06/25,Sun,21:55,Lodz,LCJ,29/06/25,Sun,23:50,Milan BGYMilan (Bergamo),BGY,149
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,17:05,London STNLondon (Stansted),STN,153
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:20,Dubrovnik,DBV,382
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:30,Toulouse,TLS,360
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,16:10,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,316
+27/06/25,Fri,20:45,Lodz,LCJ,27/06/25,Fri,22:40,Brussels CRLBrussels (Charleroi),CRL,214
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:25,Luxembourg,LUX,299
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:20,Valencia,VLC,316
+30/06/25,Mon,15:20,Lodz,LCJ,30/06/25,Mon,19:45,Poznan,POZ,354
+26/06/25,Thu,20:45,Lodz,LCJ,26/06/25,Thu,00:10,Alicante,ALC,344
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:50,Trieste,TRS,396
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,18:30,Zagreb,ZAG,486
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:00,Wroclaw,WRO,503
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,18:25,Zadar,ZAD,600
+01/07/25,Tue,14:25,Lodz,LCJ,01/07/25,Tue,22:45,Edinburgh,EDI,356
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:55,Gdansk,GDN,537
+01/07/25,Tue,14:25,Lodz,LCJ,01/07/25,Tue,21:20,Cluj CLJCluj-Napoca,CLJ,602
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,16:55,Berlin BERBerlin (Brandenburg),BER,561
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,17:25,Palma Mall,PMI,656
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,13:45,Malaga,AGP,641
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:05,Rhodes,RHO,756
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,19:00,Sevilla,SVQ,413
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,13:45,Malaga,AGP,641
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,20:35,Glasgow,GLA,417
+27/06/25,Fri,15:55,Lodz,LCJ,27/06/25,Fri,19:20,Belfast,BFS,477
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,21:00,Santander,SDR,789
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,18:50,Marseille,MRS,735
+30/06/25,Mon,10:10,Lodz,LCJ,30/06/25,Mon,00:30,Malaga,AGP,825
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,22:55,East Midla,EMA,845
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:05,Kefalonia,EFL,918
+26/06/25,Thu,20:45,Lodz,LCJ,26/06/25,Thu,00:10,Alicante,ALC,344
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,21:20,Dusseldorf NRNDusseldorf (Weeze),NRN,993
+30/06/25,Mon,10:10,Lodz,LCJ,30/06/25,Mon,00:30,Malaga,AGP,825
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:20,Rotterdam,RTM,357
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,20:45,Newcastle,NCL,828
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:35,Lanzarote,ACE,381
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,19:55,Brussels CRLBrussels (Charleroi),CRL,872
+30/06/25,Mon,10:10,Lodz,LCJ,30/06/25,Mon,19:50,Fuertevent,FUE,928
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,20:55,Milan BGYMilan (Bergamo),BGY,1222
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:15,Bristol,BRS,948
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,21:55,Thessaloni,SKG,1082
+27/06/25,Fri,19:40,Lodz,LCJ,27/06/25,Fri,01:30,London LGWLondon (Gatwick),LGW,737
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:55,Olbia,OLB,733
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,18:45,Faro,FAO,1019
+01/07/25,Tue,14:25,Lodz,LCJ,01/07/25,Tue,22:10,Madrid,MAD,1205
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:10,Leeds,LBA,885
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:40,Stockholm ARNStockholm (Arlanda),ARN,331
+28/06/25,Sat,14:20,Lodz,LCJ,28/06/25,Sat,22:35,Kaunas,KUN,1110
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,01:10,Paphos,PFO,890
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,00:05,Manchester,MAN,917
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:30,Naples,NAP,976
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,21:50,Paris ORYParis (Orly),ORY,816
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,22:45,Nantes,NTE,773
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,19:00,London LTNLondon (Luton),LTN,896
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,17:50,Menorca,MAH,1391
+26/06/25,Thu,10:40,Lodz,LCJ,26/06/25,Thu,12:10,Birmingham,BHX,1016
+28/06/25,Sat,14:20,Lodz,LCJ,28/06/25,Sat,21:20,Lamezia Te,SUF,1043
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,21:15,Lyon,LYS,1034
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,514
+27/06/25,Fri,15:55,Lodz,LCJ,27/06/25,Fri,23:10,Bydgoszcz,BZG,776
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,17:20,Crotone,CRV,1274
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,20:20,Krakow,KRK,973
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:10,Amsterdam,AMS,956
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,22:50,Bournemout,BOH,1118
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,22:55,Sarajevo,SJJ,995
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:35,Brussels,BRU,1028
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,00:45,Warsaw WMIWarsaw (Modlin),WMI,1017
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,00:30,Liverpool,LPL,1032
+26/06/25,Thu,10:40,Lodz,LCJ,26/06/25,Thu,17:10,Barcelona,BCN,1220
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,23:35,Marrakech,RAK,1326
+28/06/25,Sat,14:20,Lodz,LCJ,28/06/25,Sat,21:30,Vilnius,VNO,815
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:10,Bilbao,BIO,1184
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,19:35,Copenhagen,CPH,955
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,22:15,Santiago D,SCQ,1061
+26/06/25,Thu,22:40,Lodz,LCJ,26/06/25,Thu,00:30,Dublin,DUB,337
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,22:40,Eindhoven,EIN,1237
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,23:15,Goteborg GOTGoteborg (Landvetter),GOT,238
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:45,Milan MXPMilan (Malpensa),MXP,758
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,22:00,Kos,KGS,1179
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,01:40,Helsinki,HEL,1109
+26/06/25,Thu,10:40,Lodz,LCJ,26/06/25,Thu,18:15,Cork,ORK,1161
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,17:55,Cologne CGNCologne-Bonn,CGN,885
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:10,Podgorica,TGD,1178
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,21:00,Muenster FMOMuenster-Osnabrueck,FMO,1417
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,18:50,Oslo OSLOslo (Gardermoen),OSL,1139
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:45,Riga,RIX,635
+27/06/25,Fri,15:55,Lodz,LCJ,27/06/25,Fri,00:40,Athens,ATH,1096
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:20,Ibiza,IBZ,926

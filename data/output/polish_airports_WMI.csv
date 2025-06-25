@@ -4,178 +4,178 @@ departure_date,departure_weekday,departure_time,departure_city,departure_airport
 25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,08:05,Paris BVAParis (Beauvais),BVA,103
 26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,10:10,Bologna,BLQ,206
 28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:35,Budapest,BUD,264
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,08:00,Bari,BRI,251
-01/07/25,Tue,06:50,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,09:05,Bari,BRI,214
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,08:05,Paris BVAParis (Beauvais),BVA,103
-28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,08:30,Brussels CRLBrussels (Charleroi),CRL,78
-29/06/25,Sun,19:00,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:25,Naples,NAP,295
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,08:30,Brussels CRLBrussels (Charleroi),CRL,79
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,08:00,Bari,BRI,291
+28/06/25,Sat,18:35,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:50,Budapest,BUD,316
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,16:10,Malta,MLA,317
 25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,14:35,Milan MXPMilan (Malpensa),MXP,197
-28/06/25,Sat,18:35,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:50,Budapest,BUD,363
-26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:25,Barcelona,BCN,230
-25/06/25,Wed,18:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,19:40,Copenhagen,CPH,87
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:00,Corfu,CFU,357
 28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,20:45,Poznan,POZ,221
-25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:10,Venice TSFVenice (Treviso),TSF,153
-26/06/25,Thu,19:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,21:30,Tirana,TIA,460
-28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:05,Pisa,PSA,260
-27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:30,Helsinki,HEL,268
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,12:55,Prague,PRG,232
-26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:05,Tirana,TIA,468
-25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:45,Sofia,SOF,319
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,12:25,Malta,MLA,214
-26/06/25,Thu,16:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:40,Rhodes,RHO,321
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:00,Corfu,CFU,357
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,08:05,Paris BVAParis (Beauvais),BVA,103
+26/06/25,Thu,19:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,21:30,Tirana,TIA,407
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:35,Paris BVAParis (Beauvais),BVA,271
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:25,Barcelona,BCN,230
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:55,Malta,MLA,363
 25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:00,Manchester,MAN,175
-29/06/25,Sun,19:00,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:25,Naples,NAP,295
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:35,Budapest,BUD,284
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:05,Krakow,KRK,325
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:35,Naples,NAP,420
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,12:25,Malta,MLA,214
-01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:30,Palma Mall,PMI,360
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Thessaloni,SKG,461
-25/06/25,Wed,11:30,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:25,Chania,CHQ,450
-28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,12:50,Verona,VRN,308
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,19:20,Nuernberg,NUE,372
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:05,Pisa,PSA,260
+25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:10,Venice TSFVenice (Treviso),TSF,153
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:30,Helsinki,HEL,269
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:05,Tirana,TIA,468
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:45,Zagreb,ZAG,317
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,12:55,Prague,PRG,232
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:35,Sofia,SOF,380
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,08:00,Bari,BRI,291
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:40,Wroclaw,WRO,208
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,22:00,Katowice,KTW,162
+01/07/25,Tue,19:55,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,21:10,Budapest,BUD,198
 27/06/25,Fri,15:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:30,Turin,TRN,209
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,10:10,Bologna,BLQ,206
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,10:55,Edinburgh,EDI,268
+01/07/25,Tue,06:50,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:25,Catania,CTA,434
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:35,Budapest,BUD,284
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:40,Krakow,KRK,215
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,23:40,Palma Mall,PMI,246
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Thessaloni,SKG,461
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,12:50,Verona,VRN,308
 28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:40,Palma Mall,PMI,380
 28/06/25,Sat,11:15,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:30,Rome CIARome (Ciampino),CIA,306
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,08:55,London STNLondon (Stansted),STN,247
-28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,22:00,Katowice,KTW,162
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,00:30,Palermo,PMO,319
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:25,Frankfurt HHNFrankfurt (Hahn),HHN,187
 26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:25,Barcelona,BCN,230
-25/06/25,Wed,18:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,19:40,Copenhagen,CPH,87
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:00,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,373
-01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:35,Paris BVAParis (Beauvais),BVA,296
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,19:50,Genova,GOA,350
 25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:00,Madrid,MAD,232
+01/07/25,Tue,15:00,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,17:25,Naples,NAP,379
 25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,18:55,Malaga,AGP,337
-25/06/25,Wed,11:30,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:25,Chania,CHQ,450
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:35,Naples,NAP,420
-27/06/25,Fri,15:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:40,Porto,OPO,423
-26/06/25,Thu,16:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:40,Rhodes,RHO,321
-28/06/25,Sat,18:35,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:50,Budapest,BUD,363
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:20,Catania,CTA,450
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,12:40,Malta,MLA,494
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:20,Catania,CTA,450
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,18:55,Malaga,AGP,337
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,00:30,Palermo,PMO,398
 27/06/25,Fri,20:20,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:25,Milan BGYMilan (Bergamo),BGY,359
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,19:05,Zadar,ZAD,587
-27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:05,Brussels CRLBrussels (Charleroi),CRL,531
-30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:45,Bari,BRI,574
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:30,La Rochell,LRH,381
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:00,Madrid,MAD,232
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,14:05,Bucharest OTPBucharest (Otopeni),OTP,367
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:20,Catania,CTA,451
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:45,Bari,BRI,575
+29/06/25,Sun,05:50,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,09:05,Bourgas,BOJ,610
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:00,Nuernberg,NUE,475
+25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:50,Valencia,VLC,329
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:55,Malta,MLA,363
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:30,Gdansk,GDN,341
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:05,Brussels CRLBrussels (Charleroi),CRL,532
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,20:15,Venice TSFVenice (Treviso),TSF,568
 25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:50,Faro,FAO,244
 26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:20,Berlin BERBerlin (Brandenburg),BER,453
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:45,Warsaw,WAW,452
-01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:25,Frankfurt HHNFrankfurt (Hahn),HHN,238
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,11:00,Venice TSFVenice (Treviso),TSF,659
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,17:45,Memmingen,FMM,481
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,20:45,Bologna,BLQ,574
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:30,Gdansk,GDN,341
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Klagenfurt,KLU,406
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,15:25,Naples,NAP,576
 26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:00,Corfu,CFU,357
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,16:10,Athens,ATH,440
-28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:45,Zagreb,ZAG,317
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:05,London LTNLondon (Luton),LTN,371
-25/06/25,Wed,06:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,09:20,Bourgas,BOJ,609
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:50,Skopje,SKP,494
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:35,Reggio Cal,REG,286
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,12:40,Malta,MLA,494
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:20,Cluj CLJCluj-Napoca,CLJ,549
-25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:59,Sevilla,SVQ,312
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:25,Nantes,NTE,322
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:20,Birmingham,BHX,289
-30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:45,Bari,BRI,574
 29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,14:45,Milan BGYMilan (Bergamo),BGY,322
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,10:10,Bologna,BLQ,206
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:15,Goteborg GOTGoteborg (Landvetter),GOT,332
-26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:25,Marrakech,RAK,507
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:15,London LGWLondon (Gatwick),LGW,439
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:55,Lourdes LDELourdes-Tarbes,LDE,461
-25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:50,Valencia,VLC,329
-29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,00:25,Wroclaw,WRO,614
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:15,Paris BVAParis (Beauvais),BVA,490
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,08:55,London STNLondon (Stansted),STN,247
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:15,Copenhagen,CPH,432
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:00,Chania,CHQ,703
-01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:30,Palma Mall,PMI,360
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:00,Vienna,VIE,439
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:20,Marseille,MRS,715
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,19:05,Zadar,ZAD,587
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:15,Edinburgh,EDI,441
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:50,Trieste,TRS,490
-28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:40,Palma Mall,PMI,380
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,13:20,Knock,NOC,322
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:10,Bremen,BRE,406
-30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,14:05,Bucharest OTPBucharest (Otopeni),OTP,367
-26/06/25,Thu,19:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,21:30,Tirana,TIA,460
-26/06/25,Thu,13:00,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:00,Eindhoven,EIN,477
-26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:05,Tirana,TIA,468
-27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:00,Bourgas,BOJ,736
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:20,Ibiza,IBZ,469
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:55,Luxembourg,LUX,342
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:40,Crotone,CRV,436
-25/06/25,Wed,19:30,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:35,Malaga,AGP,563
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,20:10,Athens,ATH,469
 26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Thessaloni,SKG,461
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:35,Toulouse,TLS,556
-27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:05,Brussels CRLBrussels (Charleroi),CRL,531
-27/06/25,Fri,13:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:20,Helsinki,HEL,656
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,00:10,Iasi,IAS,478
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:00,Barcelona GROBarcelona (Girona),GRO,484
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:35,Alicante,ALC,507
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:45,Eindhoven,EIN,517
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:00,Chania,CHQ,703
-26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:35,Bristol,BRS,532
-26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:40,Tenerife S,TFS,401
-29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:40,Cologne CGNCologne-Bonn,CGN,439
-01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:50,Bordeaux,BOD,503
-27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:45,Lisbon,LIS,463
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:20,Dubrovnik,DBV,476
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:05,Stockholm ARNStockholm (Arlanda),ARN,446
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:15,Copenhagen,CPH,432
-25/06/25,Wed,18:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,21:25,Aalborg,AAL,246
-25/06/25,Wed,18:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,21:40,Oslo OSLOslo (Gardermoen),OSL,372
-28/06/25,Sat,07:00,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,11:20,Paphos,PFO,646
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,19:50,Tangier,TNG,521
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,11:00,Venice TSFVenice (Treviso),TSF,659
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,14:30,Belfast,BFS,370
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,18:55,Malaga,AGP,337
-26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:25,Craiova,CRA,546
-25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:00,Madrid,MAD,232
-29/06/25,Sun,17:20,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:05,Zakinthos,ZTH,751
-27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:35,Alicante,ALC,507
-27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:45,Lisbon,LIS,463
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,01:10,Paphos,PFO,874
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:25,London SENLondon (Southend),SEN,605
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,08:35,London STNLondon (Stansted),STN,415
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:05,London LTNLondon (Luton),LTN,372
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,19:05,Naples,NAP,498
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:30,Palma Mall,PMI,533
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,23:05,Zadar,ZAD,650
+29/06/25,Sun,19:00,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:25,Naples,NAP,601
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:35,Paris BVAParis (Beauvais),BVA,271
+25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:59,Sevilla,SVQ,312
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,16:10,Malta,MLA,317
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:20,Birmingham,BHX,289
+26/06/25,Thu,19:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,21:30,Tirana,TIA,407
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,09:45,Rhodes,RHO,422
+29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:40,Cologne CGNCologne-Bonn,CGN,440
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:00,Vienna,VIE,439
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:10,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,529
+25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,22:20,Cork,ORK,171
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:25,Marrakech,RAK,507
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:45,Bari,BRI,575
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:00,Bourgas,BOJ,736
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,08:35,London STNLondon (Stansted),STN,415
 27/06/25,Fri,15:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:40,Porto,OPO,423
-26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:50,Paris ORYParis (Orly),ORY,681
-27/06/25,Fri,13:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:05,Stockholm ARNStockholm (Arlanda),ARN,465
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:25,Lodz,LCJ,707
-28/06/25,Sat,07:40,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,11:00,Corfu,CFU,970
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:55,Cagliari,CAG,542
-30/06/25,Mon,13:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,16:25,Corfu,CFU,740
-27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:30,Helsinki,HEL,268
-29/06/25,Sun,17:20,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:05,Zakinthos,ZTH,751
-01/07/25,Tue,16:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,20:25,Alicante,ALC,617
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,16:05,Biarritz,BIQ,620
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,22:05,Kefalonia,EFL,647
-27/06/25,Fri,09:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,20:45,Bologna,BLQ,574
-26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,00:50,Lyon,LYS,656
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,18:40,Ibiza,IBZ,398
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:05,Tirana,TIA,468
+29/06/25,Sun,16:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,18:30,Edinburgh,EDI,565
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:05,Brussels CRLBrussels (Charleroi),CRL,532
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:20,Cluj CLJCluj-Napoca,CLJ,628
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:30,Palma Mall,PMI,533
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,19:50,Genova,GOA,585
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:45,Eindhoven,EIN,517
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,20:30,Memmingen,FMM,686
+25/06/25,Wed,11:30,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:25,Chania,CHQ,758
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:40,Crotone,CRV,436
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:15,Copenhagen,CPH,432
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,19:50,Tangier,TNG,521
+28/06/25,Sat,07:40,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,11:00,Corfu,CFU,831
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,21:10,Toulouse,TLS,540
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,23:05,Zadar,ZAD,650
+01/07/25,Tue,06:50,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,15:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,553
 26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:55,Fez,FEZ,566
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,01:10,Paphos,PFO,874
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,16:20,Beziers,BZR,900
+28/06/25,Sat,14:40,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,18:35,Chania,CHQ,698
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,22:45,Warsaw,WAW,573
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:25,Craiova,CRA,589
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,14:10,Bologna,BLQ,826
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:45,Lisbon,LIS,463
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:15,Copenhagen,CPH,432
+26/06/25,Thu,16:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:40,Rhodes,RHO,724
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:00,Barcelona GROBarcelona (Girona),GRO,563
+28/06/25,Sat,19:30,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:35,Malaga,AGP,641
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:35,Bristol,BRS,541
+26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:40,Tenerife S,TFS,401
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,19:15,Glasgow,GLA,610
+28/06/25,Sat,07:00,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,11:20,Paphos,PFO,647
+29/06/25,Sun,09:05,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,10:30,Copenhagen,CPH,505
+01/07/25,Tue,15:00,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,22:20,Cagliari,CAG,661
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,11:55,Nantes,NTE,490
+30/06/25,Mon,17:20,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,20:35,Thessaloni,SKG,695
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:25,Barcelona REUBarcelona (Reus),REU,624
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,17:30,Venice VCEVenice (Marco Polo),VCE,473
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:50,Marseille,MRS,845
+01/07/25,Tue,22:35,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,00:30,Dublin,DUB,312
+28/06/25,Sat,18:35,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:20,Goteborg GOTGoteborg (Landvetter),GOT,526
+30/06/25,Mon,15:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,17:50,Helsinki,HEL,202
+26/06/25,Thu,13:00,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:00,Eindhoven,EIN,642
+29/06/25,Sun,09:05,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,10:30,Copenhagen,CPH,505
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,14:30,Belfast,BFS,370
+29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,22:20,Olbia,OLB,681
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Klagenfurt,KLU,702
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,12:40,Paris ORYParis (Orly),ORY,618
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:50,Trieste,TRS,724
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,21:55,London LGWLondon (Gatwick),LGW,578
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,13:20,Knock,NOC,556
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,01:00,Paphos,PFO,724
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:55,Lourdes LDELourdes-Tarbes,LDE,696
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:35,Alicante,ALC,507
+01/07/25,Tue,15:00,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,22:35,Geneva,GVA,519
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:45,Lisbon,LIS,463
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,15:25,Bologna,BLQ,715
+29/06/25,Sun,17:20,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:05,Zakinthos,ZTH,870
+01/07/25,Tue,22:35,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,00:30,Dublin,DUB,312
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:35,Alicante,ALC,507
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:10,Bremen,BRE,641
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,00:20,Stockholm ARNStockholm (Arlanda),ARN,569
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:50,Asturias,OVD,726
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,22:35,Lanzarote,ACE,707
+30/06/25,Mon,13:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,16:25,Corfu,CFU,741
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:20,Dubrovnik,DBV,711
+28/06/25,Sat,19:30,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:35,Malaga,AGP,641
+25/06/25,Wed,17:00,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,20:45,Madrid,MAD,740
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:00,Oslo OSLOslo (Gardermoen),OSL,442
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,23:35,Liverpool,LPL,706
+27/06/25,Fri,19:00,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:15,Thessaloni,SKG,1045
+25/06/25,Wed,17:00,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,20:45,Madrid,MAD,740
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,19:50,Milan BGYMilan (Bergamo),BGY,663
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,16:05,Biarritz,BIQ,680
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:35,Reggio Cal,REG,743
 27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:30,Barcelona,BCN,865
-26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:15,Liverpool,LPL,901
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:55,Lanzarote,ACE,578
-30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,11:25,Newquay,NQY,570
-26/06/25,Thu,13:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:55,Split,SPU,1020
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,781
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:55,Luxembourg,LUX,576
+29/06/25,Sun,17:20,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:05,Zakinthos,ZTH,870
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,21:30,Brussels,BRU,516
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:30,Rome FCORome (Fiumicino),FCO,772
+28/06/25,Sat,17:05,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:00,London SENLondon (Southend),SEN,945
+30/06/25,Mon,12:35,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,14:15,Stockholm ARNStockholm (Arlanda),ARN,773
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,841
+26/06/25,Thu,13:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:55,Split,SPU,1051
+25/06/25,Wed,16:10,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,00:50,East Midla,EMA,1036
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,11:00,Venice TSFVenice (Treviso),TSF,1012
 27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,16:40,Rabat,RBA,880
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:50,Menorca,MAH,993
-27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:20,Paris CDGParis (Charles de Gaulle),CDG,767
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,19:35,Gran Canar,LPA,972
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,17:35,Fuertevent,FUE,737
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:50,Nice,NCE,1020
-27/06/25,Fri,13:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:20,Helsinki,HEL,656
-26/06/25,Thu,13:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:50,Olbia,OLB,1186
-25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,18:25,Rhodes,RHO,1254
-26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,13:55,Zaragoza,ZAZ,1321
-27/06/25,Fri,09:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:25,Bournemout,BOH,1435
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:05,Newcastle,NCL,626
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,19:35,Gran Canar,LPA,1031
+27/06/25,Fri,09:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,13:20,Alicante,ALC,894
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,17:35,Fuertevent,FUE,797
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,16:35,Rijeka,RJK,1197
+26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:25,Agadir,AGA,1646
 25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,14:30,Oujda,OUD,1801

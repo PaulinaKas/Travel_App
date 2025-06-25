@@ -1,1 +1,1662 @@
 departure_date,departure_weekday,departure_time,departure_city,departure_airport,arrival_date,arrival_weekday,arrival_time,arrival_city,arrival_airport,price
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,11:10,Milan MXPMilan (Malpensa),MXP,229
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,09:30,Budapest,BUD,219
+30/06/25,Mon,19:05,Warsaw,WAW,30/06/25,Mon,21:15,Tirana,TIA,266
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,00:40,Milan MXPMilan (Malpensa),MXP,309
+01/07/25,Tue,18:40,Warsaw,WAW,01/07/25,Tue,20:25,Stockholm NYOStockholm (Skavsta),NYO,179
+26/06/25,Thu,06:00,Warsaw,WAW,26/06/25,Thu,08:15,Genova,GOA,309
+25/06/25,Wed,16:15,Warsaw,WAW,25/06/25,Wed,19:15,Malta,MLA,219
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,21:30,Palma Mall,PMI,196
+01/07/25,Tue,13:40,Warsaw,WAW,01/07/25,Tue,15:15,Copenhagen,CPH,139
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,09:30,Budapest,BUD,219
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,21:30,Palma Mall,PMI,196
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,21:50,Bucharest BBUBucharest (Aurel Vlaicu),BBU,353
+29/06/25,Sun,05:35,Warsaw,WAW,29/06/25,Sun,07:25,Dortmund,DTM,269
+01/07/25,Tue,20:25,Warsaw,WAW,01/07/25,Tue,22:50,Naples,NAP,273
+29/06/25,Sun,18:00,Warsaw,WAW,29/06/25,Sun,20:05,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,249
+29/06/25,Sun,19:00,Warsaw,WAW,29/06/25,Sun,20:20,Vienna,VIE,235
+28/06/25,Sat,17:30,Warsaw,WAW,28/06/25,Sat,19:45,Pisa,PSA,269
+27/06/25,Fri,20:40,Warsaw,WAW,27/06/25,Fri,22:20,Manchester,MAN,214
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,00:40,Malaga,AGP,291
+01/07/25,Tue,20:25,Warsaw,WAW,01/07/25,Tue,22:50,Naples,NAP,273
+27/06/25,Fri,20:40,Warsaw,WAW,27/06/25,Fri,22:20,Manchester,MAN,214
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,22:55,Tirana,TIA,441
+27/06/25,Fri,18:10,Warsaw,WAW,27/06/25,Fri,21:05,Bucharest BBUBucharest (Aurel Vlaicu),BBU,449
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,23:05,Corfu,CFU,361
+01/07/25,Tue,06:00,Warsaw,WAW,01/07/25,Tue,15:15,Budapest,BUD,462
+25/06/25,Wed,16:20,Warsaw,WAW,25/06/25,Wed,18:55,Nice,NCE,179
+02/07/25,Wed,08:10,Warsaw,WAW,02/07/25,Wed,16:10,Naples,NAP,391
+30/06/25,Mon,16:15,Warsaw,WAW,30/06/25,Mon,23:15,Pisa,PSA,353
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,22:25,Palermo,PMO,393
+25/06/25,Wed,16:15,Warsaw,WAW,25/06/25,Wed,19:15,Malta,MLA,219
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,11:10,Milan MXPMilan (Malpensa),MXP,229
+25/06/25,Wed,16:15,Warsaw,WAW,25/06/25,Wed,22:05,Cagliari,CAG,404
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,22:05,Barcelona,BCN,394
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,08:10,Liverpool,LPL,269
+25/06/25,Wed,06:10,Warsaw,WAW,25/06/25,Wed,08:05,Split,SPU,399
+01/07/25,Tue,12:15,Warsaw,WAW,01/07/25,Tue,14:25,Brussels CRLBrussels (Charleroi),CRL,209
+26/06/25,Thu,06:20,Warsaw,WAW,26/06/25,Thu,08:00,Leeds,LBA,309
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,22:50,Catania,CTA,407
+01/07/25,Tue,12:55,Warsaw,WAW,01/07/25,Tue,15:00,Eindhoven,EIN,219
+30/06/25,Mon,19:05,Warsaw,WAW,30/06/25,Mon,21:15,Tirana,TIA,266
+02/07/25,Wed,08:10,Warsaw,WAW,02/07/25,Wed,13:35,Malta,MLA,431
+25/06/25,Wed,17:40,Warsaw,WAW,25/06/25,Wed,21:15,Alicante,ALC,303
+01/07/25,Tue,05:55,Warsaw,WAW,01/07/25,Tue,08:35,Olbia,OLB,327
+30/06/25,Mon,13:20,Warsaw,WAW,30/06/25,Mon,17:25,Sevilla,SVQ,249
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,16:30,Copenhagen,CPH,344
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,23:05,Corfu,CFU,361
+26/06/25,Thu,17:50,Warsaw,WAW,26/06/25,Thu,19:45,Podgorica,TGD,449
+26/06/25,Thu,17:30,Warsaw,WAW,26/06/25,Thu,22:50,Paris BVAParis (Beauvais),BVA,432
+25/06/25,Wed,16:20,Warsaw,WAW,25/06/25,Wed,18:55,Nice,NCE,179
+01/07/25,Tue,13:30,Warsaw,WAW,01/07/25,Tue,17:40,Malaga,AGP,408
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,08:10,Liverpool,LPL,269
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,22:05,Barcelona,BCN,394
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,20:00,Palma Mall,PMI,393
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,23:15,Sofia,SOF,322
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,20:00,Palma Mall,PMI,393
+30/06/25,Mon,13:20,Warsaw,WAW,30/06/25,Mon,22:20,Marrakech,RAK,450
+28/06/25,Sat,08:10,Warsaw,WAW,28/06/25,Sat,13:00,Genova,GOA,561
+25/06/25,Wed,09:40,Warsaw,WAW,25/06/25,Wed,12:30,Catania,CTA,449
+25/06/25,Wed,05:35,Warsaw,WAW,25/06/25,Wed,08:40,Barcelona,BCN,449
+28/06/25,Sat,17:30,Warsaw,WAW,28/06/25,Sat,19:45,Pisa,PSA,269
+30/06/25,Mon,11:40,Warsaw,WAW,30/06/25,Mon,23:45,Edinburgh,EDI,309
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,00:40,Milan MXPMilan (Malpensa),MXP,309
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,16:10,Naples,NAP,426
+01/07/25,Tue,12:15,Warsaw,WAW,01/07/25,Tue,19:05,Turin,TRN,379
+29/06/25,Sun,05:35,Warsaw,WAW,29/06/25,Sun,16:50,Budapest,BUD,465
+25/06/25,Wed,05:35,Warsaw,WAW,25/06/25,Wed,08:40,Barcelona,BCN,449
+28/06/25,Sat,17:30,Warsaw,WAW,28/06/25,Sat,20:45,Bourgas,BOJ,559
+29/06/25,Sun,19:00,Warsaw,WAW,29/06/25,Sun,20:20,Vienna,VIE,235
+29/06/25,Sun,11:50,Warsaw,WAW,29/06/25,Sun,15:35,Zakinthos,ZTH,449
+30/06/25,Mon,11:40,Warsaw,WAW,30/06/25,Mon,21:55,Paris ORYParis (Orly),ORY,407
+29/06/25,Sun,18:00,Warsaw,WAW,29/06/25,Sun,20:05,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,249
+30/06/25,Mon,11:40,Warsaw,WAW,30/06/25,Mon,20:40,Manchester,MAN,392
+25/06/25,Wed,13:25,Warsaw,WAW,25/06/25,Wed,17:30,Sevilla,SVQ,249
+01/07/25,Tue,06:40,Warsaw,WAW,01/07/25,Tue,22:20,Paris ORYParis (Orly),ORY,313
+25/06/25,Wed,06:40,Warsaw,WAW,25/06/25,Wed,11:45,Manchester,MAN,407
+01/07/25,Tue,12:15,Warsaw,WAW,01/07/25,Tue,14:15,Dubrovnik,DBV,309
+27/06/25,Fri,06:10,Warsaw,WAW,27/06/25,Fri,10:05,Chania,CHQ,399
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,16:35,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,490
+26/06/25,Thu,06:00,Warsaw,WAW,26/06/25,Thu,23:55,Krakow,KRK,415
+26/06/25,Thu,12:55,Warsaw,WAW,26/06/25,Thu,15:10,Oslo TRFOslo (Torp),TRF,399
+01/07/25,Tue,12:15,Warsaw,WAW,01/07/25,Tue,22:25,Katowice,KTW,311
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,21:50,Bucharest BBUBucharest (Aurel Vlaicu),BBU,353
+25/06/25,Wed,18:10,Warsaw,WAW,25/06/25,Wed,00:30,Zagreb,ZAG,451
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,00:40,Malaga,AGP,291
+30/06/25,Mon,11:40,Warsaw,WAW,30/06/25,Mon,22:00,London LGWLondon (Gatwick),LGW,435
+27/06/25,Fri,09:20,Warsaw,WAW,27/06/25,Fri,14:05,Dubrovnik,DBV,597
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,18:20,Milan BGYMilan (Bergamo),BGY,351
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,01:15,Liverpool,LPL,410
+30/06/25,Mon,16:15,Warsaw,WAW,30/06/25,Mon,23:15,Pisa,PSA,353
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,17:55,Menorca,MAH,533
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,18:20,Marseille,MRS,373
+28/06/25,Sat,12:15,Warsaw,WAW,28/06/25,Sat,14:15,Dubrovnik,DBV,519
+02/07/25,Wed,06:20,Warsaw,WAW,02/07/25,Wed,12:40,Madrid,MAD,248
+25/06/25,Wed,17:40,Warsaw,WAW,25/06/25,Wed,21:15,Alicante,ALC,303
+01/07/25,Tue,10:45,Warsaw,WAW,01/07/25,Tue,13:20,Paris ORYParis (Orly),ORY,359
+01/07/25,Tue,10:45,Warsaw,WAW,01/07/25,Tue,13:20,Paris ORYParis (Orly),ORY,359
+25/06/25,Wed,18:00,Warsaw,WAW,25/06/25,Wed,20:05,Bologna,BLQ,409
+25/06/25,Wed,13:25,Warsaw,WAW,25/06/25,Wed,00:35,Bologna,BLQ,415
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,00:20,Olbia,OLB,467
+02/07/25,Wed,08:10,Warsaw,WAW,02/07/25,Wed,14:35,Nice,NCE,366
+01/07/25,Tue,06:00,Warsaw,WAW,01/07/25,Tue,08:15,Genova,GOA,282
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,00:30,Santorini,JTR,452
+25/06/25,Wed,06:40,Warsaw,WAW,25/06/25,Wed,17:25,Aalborg,AAL,378
+28/06/25,Sat,18:45,Warsaw,WAW,28/06/25,Sat,00:55,Lamezia Te,SUF,579
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,19:45,Kos,KGS,503
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,15:35,Brindisi,BDS,563
+25/06/25,Wed,17:40,Warsaw,WAW,25/06/25,Wed,23:50,Ibiza,IBZ,403
+01/07/25,Tue,05:45,Warsaw,WAW,01/07/25,Tue,09:35,Santorini,JTR,449
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,01:15,Liverpool,LPL,410
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,18:35,Santorini,JTR,452
+30/06/25,Mon,08:10,Warsaw,WAW,30/06/25,Mon,13:45,Thessaloni,SKG,449
+28/06/25,Sat,09:15,Warsaw,WAW,28/06/25,Sat,14:30,Cluj CLJCluj-Napoca,CLJ,448
+30/06/25,Mon,06:00,Warsaw,WAW,30/06/25,Mon,09:30,Valencia,VLC,471
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,22:55,Tirana,TIA,441
+25/06/25,Wed,18:10,Warsaw,WAW,25/06/25,Wed,00:30,East Midla,EMA,311
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,13:15,Bari,BRI,410
+02/07/25,Wed,08:10,Warsaw,WAW,02/07/25,Wed,13:35,Malta,MLA,431
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,22:50,Catania,CTA,407
+25/06/25,Wed,15:25,Warsaw,WAW,25/06/25,Wed,18:50,Bilbao,BIO,449
+26/06/25,Thu,06:20,Warsaw,WAW,26/06/25,Thu,08:00,Leeds,LBA,309
+25/06/25,Wed,18:10,Warsaw,WAW,25/06/25,Wed,00:30,Lyon,LYS,449
+28/06/25,Sat,12:15,Warsaw,WAW,28/06/25,Sat,15:40,Corfu,CFU,609
+26/06/25,Thu,18:25,Warsaw,WAW,26/06/25,Thu,01:10,London LTNLondon (Luton),LTN,428
+30/06/25,Mon,11:10,Warsaw,WAW,30/06/25,Mon,21:15,Trapani,TPS,456
+27/06/25,Fri,18:10,Warsaw,WAW,27/06/25,Fri,21:05,Bucharest BBUBucharest (Aurel Vlaicu),BBU,449
+01/07/25,Tue,12:15,Warsaw,WAW,01/07/25,Tue,14:25,Brussels CRLBrussels (Charleroi),CRL,209
+30/06/25,Mon,08:10,Warsaw,WAW,30/06/25,Mon,21:10,Brussels CRLBrussels (Charleroi),CRL,427
+26/06/25,Thu,20:00,Warsaw,WAW,26/06/25,Thu,21:55,Oslo OSLOslo (Gardermoen),OSL,303
+26/06/25,Thu,16:10,Warsaw,WAW,26/06/25,Thu,20:05,Heraklion,HER,539
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,04:10,Kutaisi,KUT,580
+01/07/25,Tue,12:55,Warsaw,WAW,01/07/25,Tue,18:45,Valencia,VLC,512
+30/06/25,Mon,06:00,Warsaw,WAW,30/06/25,Mon,09:30,Valencia,VLC,471
+26/06/25,Thu,16:10,Warsaw,WAW,26/06/25,Thu,20:05,Heraklion,HER,539
+30/06/25,Mon,11:10,Warsaw,WAW,30/06/25,Mon,22:15,Alicante,ALC,516
+30/06/25,Mon,08:10,Warsaw,WAW,30/06/25,Mon,23:10,Gdansk,GDN,413
+29/06/25,Sun,05:45,Warsaw,WAW,29/06/25,Sun,07:55,Bari,BRI,559
+26/06/25,Thu,15:50,Warsaw,WAW,26/06/25,Thu,19:45,Rhodes,RHO,489
+25/06/25,Wed,09:40,Warsaw,WAW,25/06/25,Wed,12:30,Catania,CTA,449
+30/06/25,Mon,08:10,Warsaw,WAW,30/06/25,Mon,15:35,Memmingen,FMM,449
+25/06/25,Wed,13:25,Warsaw,WAW,25/06/25,Wed,22:15,Santiago D,SCQ,398
+29/06/25,Sun,15:50,Warsaw,WAW,29/06/25,Sun,19:45,Rhodes,RHO,489
+01/07/25,Tue,12:55,Warsaw,WAW,01/07/25,Tue,18:45,Valencia,VLC,512
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,13:20,Knock,NOC,354
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,14:00,Sevilla,SVQ,496
+28/06/25,Sat,12:15,Warsaw,WAW,28/06/25,Sat,15:40,Corfu,CFU,609
+30/06/25,Mon,14:40,Warsaw,WAW,30/06/25,Mon,23:10,Lisbon,LIS,527
+29/06/25,Sun,11:50,Warsaw,WAW,29/06/25,Sun,15:35,Zakinthos,ZTH,449
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,13:00,Genova,GOA,410
+25/06/25,Wed,09:40,Warsaw,WAW,25/06/25,Wed,16:40,Bari,BRI,542
+29/06/25,Sun,05:35,Warsaw,WAW,29/06/25,Sun,07:25,Dortmund,DTM,269
+28/06/25,Sat,17:30,Warsaw,WAW,28/06/25,Sat,00:15,Bucharest OTPBucharest (Otopeni),OTP,567
+30/06/25,Mon,14:40,Warsaw,WAW,30/06/25,Mon,18:30,Madrid,MAD,399
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,19:15,Bilbao,BIO,548
+27/06/25,Fri,10:15,Warsaw,WAW,27/06/25,Fri,22:35,Toulouse,TLS,522
+25/06/25,Wed,09:40,Warsaw,WAW,25/06/25,Wed,15:30,Trieste,TRS,599
+25/06/25,Wed,17:40,Warsaw,WAW,25/06/25,Wed,22:55,Porto,OPO,491
+29/06/25,Sun,08:45,Warsaw,WAW,29/06/25,Sun,22:30,Paris CDGParis (Charles de Gaulle),CDG,444
+30/06/25,Mon,06:00,Warsaw,WAW,30/06/25,Mon,17:00,Fez,FEZ,624
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,16:00,Zadar,ZAD,516
+27/06/25,Fri,16:20,Warsaw,WAW,27/06/25,Fri,21:40,Bordeaux,BOD,539
+30/06/25,Mon,08:10,Warsaw,WAW,30/06/25,Mon,22:00,Rimini,RMI,528
+27/06/25,Fri,06:10,Warsaw,WAW,27/06/25,Fri,10:05,Chania,CHQ,399
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,18:40,Glasgow,GLA,427
+29/06/25,Sun,07:05,Warsaw,WAW,29/06/25,Sun,11:30,Larnaca,LCA,679
+26/06/25,Thu,11:45,Warsaw,WAW,26/06/25,Thu,16:10,Madeira FNCMadeira (Funchal),FNC,579
+25/06/25,Wed,09:40,Warsaw,WAW,25/06/25,Wed,17:30,Pescara,PSR,554
+27/06/25,Fri,16:20,Warsaw,WAW,27/06/25,Fri,22:00,Eindhoven,EIN,539
+25/06/25,Wed,06:40,Warsaw,WAW,25/06/25,Wed,20:10,Stockholm ARNStockholm (Arlanda),ARN,424
+25/06/25,Wed,06:40,Warsaw,WAW,25/06/25,Wed,16:45,Berlin BERBerlin (Brandenburg),BER,470
+27/06/25,Fri,06:10,Warsaw,WAW,27/06/25,Fri,20:50,Wroclaw,WRO,527
+01/07/25,Tue,05:55,Warsaw,WAW,01/07/25,Tue,17:25,Bristol,BRS,501
+25/06/25,Wed,15:25,Warsaw,WAW,25/06/25,Wed,18:50,Bilbao,BIO,449
+30/06/25,Mon,11:10,Warsaw,WAW,30/06/25,Mon,21:10,Cologne CGNCologne-Bonn,CGN,517
+30/06/25,Mon,13:20,Warsaw,WAW,30/06/25,Mon,01:05,Rome FCORome (Fiumicino),FCO,487
+25/06/25,Wed,06:10,Warsaw,WAW,25/06/25,Wed,08:05,Split,SPU,399
+25/06/25,Wed,17:40,Warsaw,WAW,25/06/25,Wed,22:55,Porto,OPO,491
+30/06/25,Mon,11:10,Warsaw,WAW,30/06/25,Mon,19:55,Madeira FNCMadeira (Funchal),FNC,546
+30/06/25,Mon,14:40,Warsaw,WAW,30/06/25,Mon,18:30,Madrid,MAD,399
+01/07/25,Tue,08:10,Warsaw,WAW,01/07/25,Tue,16:25,Rhodes,RHO,580
+30/06/25,Mon,06:20,Warsaw,WAW,30/06/25,Mon,12:50,Prague,PRG,493
+25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:10,Venice TSFVenice (Treviso),TSF,153
+25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,20:00,Brussels CRLBrussels (Charleroi),CRL,86
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,08:05,Paris BVAParis (Beauvais),BVA,103
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,10:10,Bologna,BLQ,206
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:35,Budapest,BUD,264
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,08:30,Brussels CRLBrussels (Charleroi),CRL,79
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,08:00,Bari,BRI,291
+28/06/25,Sat,18:35,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:50,Budapest,BUD,316
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,16:10,Malta,MLA,317
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,14:35,Milan MXPMilan (Malpensa),MXP,197
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,20:45,Poznan,POZ,221
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:00,Corfu,CFU,357
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,08:05,Paris BVAParis (Beauvais),BVA,103
+26/06/25,Thu,19:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,21:30,Tirana,TIA,407
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:35,Paris BVAParis (Beauvais),BVA,271
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:25,Barcelona,BCN,230
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:55,Malta,MLA,363
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:00,Manchester,MAN,175
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:05,Pisa,PSA,260
+25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:10,Venice TSFVenice (Treviso),TSF,153
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,18:30,Helsinki,HEL,269
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:05,Tirana,TIA,468
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,19:45,Zagreb,ZAG,317
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,12:55,Prague,PRG,232
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:35,Sofia,SOF,380
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,08:00,Bari,BRI,291
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:40,Wroclaw,WRO,208
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,22:00,Katowice,KTW,162
+01/07/25,Tue,19:55,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,21:10,Budapest,BUD,198
+27/06/25,Fri,15:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:30,Turin,TRN,209
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,10:10,Bologna,BLQ,206
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,10:55,Edinburgh,EDI,268
+01/07/25,Tue,06:50,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:25,Catania,CTA,434
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:35,Budapest,BUD,284
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:40,Krakow,KRK,215
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,23:40,Palma Mall,PMI,246
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Thessaloni,SKG,461
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,12:50,Verona,VRN,308
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:40,Palma Mall,PMI,380
+28/06/25,Sat,11:15,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,13:30,Rome CIARome (Ciampino),CIA,306
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:25,Frankfurt HHNFrankfurt (Hahn),HHN,187
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:25,Barcelona,BCN,230
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:00,Madrid,MAD,232
+01/07/25,Tue,15:00,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,17:25,Naples,NAP,379
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,18:55,Malaga,AGP,337
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,18:55,Malaga,AGP,337
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,00:30,Palermo,PMO,398
+27/06/25,Fri,20:20,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:25,Milan BGYMilan (Bergamo),BGY,359
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:00,Madrid,MAD,232
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,14:05,Bucharest OTPBucharest (Otopeni),OTP,367
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:20,Catania,CTA,451
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:45,Bari,BRI,575
+29/06/25,Sun,05:50,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,09:05,Bourgas,BOJ,610
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:00,Nuernberg,NUE,475
+25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:50,Valencia,VLC,329
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:55,Malta,MLA,363
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:30,Gdansk,GDN,341
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:05,Brussels CRLBrussels (Charleroi),CRL,532
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,20:15,Venice TSFVenice (Treviso),TSF,568
+25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:50,Faro,FAO,244
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:20,Berlin BERBerlin (Brandenburg),BER,453
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,15:25,Naples,NAP,576
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:00,Corfu,CFU,357
+29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,14:45,Milan BGYMilan (Bergamo),BGY,322
+28/06/25,Sat,06:25,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,20:10,Athens,ATH,469
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Thessaloni,SKG,461
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,08:35,London STNLondon (Stansted),STN,415
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:05,London LTNLondon (Luton),LTN,372
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,19:05,Naples,NAP,498
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:30,Palma Mall,PMI,533
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,23:05,Zadar,ZAD,650
+29/06/25,Sun,19:00,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:25,Naples,NAP,601
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,14:35,Paris BVAParis (Beauvais),BVA,271
+25/06/25,Wed,11:15,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,23:59,Sevilla,SVQ,312
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,16:10,Malta,MLA,317
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:20,Birmingham,BHX,289
+26/06/25,Thu,19:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,21:30,Tirana,TIA,407
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,09:45,Rhodes,RHO,422
+29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,17:40,Cologne CGNCologne-Bonn,CGN,440
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:00,Vienna,VIE,439
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:10,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,529
+25/06/25,Wed,17:55,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,22:20,Cork,ORK,171
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:25,Marrakech,RAK,507
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:45,Bari,BRI,575
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,23:00,Bourgas,BOJ,736
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,08:35,London STNLondon (Stansted),STN,415
+27/06/25,Fri,15:30,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:40,Porto,OPO,423
+01/07/25,Tue,06:10,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,18:40,Ibiza,IBZ,398
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:05,Tirana,TIA,468
+29/06/25,Sun,16:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,18:30,Edinburgh,EDI,565
+27/06/25,Fri,15:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:05,Brussels CRLBrussels (Charleroi),CRL,532
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,01:20,Cluj CLJCluj-Napoca,CLJ,628
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,12:30,Palma Mall,PMI,533
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,19:50,Genova,GOA,585
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:45,Eindhoven,EIN,517
+30/06/25,Mon,05:45,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,20:30,Memmingen,FMM,686
+25/06/25,Wed,11:30,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,15:25,Chania,CHQ,758
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:40,Crotone,CRV,436
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:15,Copenhagen,CPH,432
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,19:50,Tangier,TNG,521
+28/06/25,Sat,07:40,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,11:00,Corfu,CFU,831
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,21:10,Toulouse,TLS,540
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,23:05,Zadar,ZAD,650
+01/07/25,Tue,06:50,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,15:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,553
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:55,Fez,FEZ,566
+28/06/25,Sat,14:40,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,18:35,Chania,CHQ,698
+01/07/25,Tue,13:15,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,22:45,Warsaw,WAW,573
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:25,Craiova,CRA,589
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,14:10,Bologna,BLQ,826
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:45,Lisbon,LIS,463
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,18:15,Copenhagen,CPH,432
+26/06/25,Thu,16:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:40,Rhodes,RHO,724
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:00,Barcelona GROBarcelona (Girona),GRO,563
+28/06/25,Sat,19:30,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:35,Malaga,AGP,641
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:35,Bristol,BRS,541
+26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,11:40,Tenerife S,TFS,401
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,19:15,Glasgow,GLA,610
+28/06/25,Sat,07:00,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,11:20,Paphos,PFO,647
+29/06/25,Sun,09:05,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,10:30,Copenhagen,CPH,505
+01/07/25,Tue,15:00,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,22:20,Cagliari,CAG,661
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,11:55,Nantes,NTE,490
+30/06/25,Mon,17:20,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,20:35,Thessaloni,SKG,695
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,15:25,Barcelona REUBarcelona (Reus),REU,624
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,17:30,Venice VCEVenice (Marco Polo),VCE,473
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:50,Marseille,MRS,845
+01/07/25,Tue,22:35,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,00:30,Dublin,DUB,312
+28/06/25,Sat,18:35,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:20,Goteborg GOTGoteborg (Landvetter),GOT,526
+30/06/25,Mon,15:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,17:50,Helsinki,HEL,202
+26/06/25,Thu,13:00,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:00,Eindhoven,EIN,642
+29/06/25,Sun,09:05,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,10:30,Copenhagen,CPH,505
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,14:30,Belfast,BFS,370
+29/06/25,Sun,12:40,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,22:20,Olbia,OLB,681
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,15:15,Klagenfurt,KLU,702
+29/06/25,Sun,05:45,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,12:40,Paris ORYParis (Orly),ORY,618
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:50,Trieste,TRS,724
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,21:55,London LGWLondon (Gatwick),LGW,578
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,13:20,Knock,NOC,556
+30/06/25,Mon,07:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,01:00,Paphos,PFO,724
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:55,Lourdes LDELourdes-Tarbes,LDE,696
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:35,Alicante,ALC,507
+01/07/25,Tue,15:00,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,22:35,Geneva,GVA,519
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,15:45,Lisbon,LIS,463
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,15:25,Bologna,BLQ,715
+29/06/25,Sun,17:20,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:05,Zakinthos,ZTH,870
+01/07/25,Tue,22:35,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,00:30,Dublin,DUB,312
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:35,Alicante,ALC,507
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:10,Bremen,BRE,641
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,00:20,Stockholm ARNStockholm (Arlanda),ARN,569
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,00:50,Asturias,OVD,726
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,22:35,Lanzarote,ACE,707
+30/06/25,Mon,13:05,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,16:25,Corfu,CFU,741
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:20,Dubrovnik,DBV,711
+28/06/25,Sat,19:30,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:35,Malaga,AGP,641
+25/06/25,Wed,17:00,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,20:45,Madrid,MAD,740
+26/06/25,Thu,08:10,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:00,Oslo OSLOslo (Gardermoen),OSL,442
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,23:35,Liverpool,LPL,706
+27/06/25,Fri,19:00,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,22:15,Thessaloni,SKG,1045
+25/06/25,Wed,17:00,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,20:45,Madrid,MAD,740
+01/07/25,Tue,09:20,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,19:50,Milan BGYMilan (Bergamo),BGY,663
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,16:05,Biarritz,BIQ,680
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,13:35,Reggio Cal,REG,743
+27/06/25,Fri,12:25,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,21:30,Barcelona,BCN,865
+26/06/25,Thu,07:25,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,16:55,Luxembourg,LUX,576
+29/06/25,Sun,17:20,Warsaw WMIWarsaw (Modlin),WMI,29/06/25,Sun,21:05,Zakinthos,ZTH,870
+01/07/25,Tue,05:45,Warsaw WMIWarsaw (Modlin),WMI,01/07/25,Tue,21:30,Brussels,BRU,516
+26/06/25,Thu,05:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,22:30,Rome FCORome (Fiumicino),FCO,772
+28/06/25,Sat,17:05,Warsaw WMIWarsaw (Modlin),WMI,28/06/25,Sat,23:00,London SENLondon (Southend),SEN,945
+30/06/25,Mon,12:35,Warsaw WMIWarsaw (Modlin),WMI,30/06/25,Mon,14:15,Stockholm ARNStockholm (Arlanda),ARN,773
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,841
+26/06/25,Thu,13:40,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,20:55,Split,SPU,1051
+25/06/25,Wed,16:10,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,00:50,East Midla,EMA,1036
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,11:00,Venice TSFVenice (Treviso),TSF,1012
+27/06/25,Fri,05:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,16:40,Rabat,RBA,880
+26/06/25,Thu,17:20,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,23:05,Newcastle,NCL,626
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,19:35,Gran Canar,LPA,1031
+27/06/25,Fri,09:45,Warsaw WMIWarsaw (Modlin),WMI,27/06/25,Fri,13:20,Alicante,ALC,894
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,17:35,Fuertevent,FUE,797
+25/06/25,Wed,10:05,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,16:35,Rijeka,RJK,1197
+26/06/25,Thu,06:45,Warsaw WMIWarsaw (Modlin),WMI,26/06/25,Thu,14:25,Agadir,AGA,1646
+25/06/25,Wed,05:45,Warsaw WMIWarsaw (Modlin),WMI,25/06/25,Wed,14:30,Oujda,OUD,1801
+25/06/25,Wed,22:20,Krakow,KRK,25/06/25,Wed,00:05,Bologna,BLQ,64
+01/07/25,Tue,13:20,Krakow,KRK,01/07/25,Tue,14:30,Gdansk,GDN,78
+01/07/25,Tue,11:00,Krakow,KRK,01/07/25,Tue,12:40,Venice TSFVenice (Treviso),TSF,94
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,15:20,Brussels CRLBrussels (Charleroi),CRL,95
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,07:40,Perugia,PEG,141
+26/06/25,Thu,11:20,Krakow,KRK,26/06/25,Thu,12:50,Trieste,TRS,147
+26/06/25,Thu,19:25,Krakow,KRK,26/06/25,Thu,21:25,Genova,GOA,139
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,19:10,Gdansk,GDN,157
+26/06/25,Thu,18:05,Krakow,KRK,26/06/25,Thu,19:45,London LGWLondon (Gatwick),LGW,89
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,08:05,Oslo TRFOslo (Torp),TRF,77
+30/06/25,Mon,18:40,Krakow,KRK,30/06/25,Mon,20:45,Rome FCORome (Fiumicino),FCO,129
+25/06/25,Wed,15:50,Krakow,KRK,25/06/25,Wed,17:40,Goteborg GOTGoteborg (Landvetter),GOT,79
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,14:40,Milan MXPMilan (Malpensa),MXP,139
+30/06/25,Mon,14:00,Krakow,KRK,30/06/25,Mon,15:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,109
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,08:10,Vienna,VIE,79
+25/06/25,Wed,15:50,Krakow,KRK,25/06/25,Wed,17:40,Goteborg GOTGoteborg (Landvetter),GOT,79
+29/06/25,Sun,06:00,Krakow,KRK,29/06/25,Sun,08:30,Bucharest BBUBucharest (Aurel Vlaicu),BBU,159
+30/06/25,Mon,06:00,Krakow,KRK,30/06/25,Mon,07:05,Prague,PRG,141
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,20:45,Milan MXPMilan (Malpensa),MXP,224
+27/06/25,Fri,13:25,Krakow,KRK,27/06/25,Fri,15:25,Pisa,PSA,144
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,23:15,Zadar,ZAD,204
+25/06/25,Wed,22:20,Krakow,KRK,25/06/25,Wed,00:05,Bologna,BLQ,64
+26/06/25,Thu,15:20,Krakow,KRK,26/06/25,Thu,17:55,Riga,RIX,143
+01/07/25,Tue,20:25,Krakow,KRK,01/07/25,Tue,22:00,Memmingen,FMM,222
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,08:30,Leeds,LBA,147
+02/07/25,Wed,11:35,Krakow,KRK,02/07/25,Wed,13:05,Zadar,ZAD,215
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,08:10,Vienna,VIE,79
+25/06/25,Wed,17:55,Krakow,KRK,25/06/25,Wed,19:50,Bari,BRI,182
+30/06/25,Mon,18:40,Krakow,KRK,30/06/25,Mon,20:45,Rome FCORome (Fiumicino),FCO,129
+25/06/25,Wed,17:55,Krakow,KRK,25/06/25,Wed,19:50,Bari,BRI,182
+26/06/25,Thu,13:10,Krakow,KRK,26/06/25,Thu,19:20,Prague,PRG,190
+25/06/25,Wed,19:15,Krakow,KRK,25/06/25,Wed,21:20,Oslo TRFOslo (Torp),TRF,77
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,15:00,Riga,RIX,217
+27/06/25,Fri,13:25,Krakow,KRK,27/06/25,Fri,15:25,Pisa,PSA,144
+25/06/25,Wed,19:50,Krakow,KRK,25/06/25,Wed,22:45,Thessaloni,SKG,188
+01/07/25,Tue,13:20,Krakow,KRK,01/07/25,Tue,14:30,Gdansk,GDN,78
+28/06/25,Sat,16:00,Krakow,KRK,28/06/25,Sat,17:40,Ancona,AOI,190
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,21:20,Sofia,SOF,260
+27/06/25,Fri,15:15,Krakow,KRK,27/06/25,Fri,16:55,Bournemout,BOH,250
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,23:15,Zadar,ZAD,204
+25/06/25,Wed,15:45,Krakow,KRK,25/06/25,Wed,17:45,Rome CIARome (Ciampino),CIA,229
+26/06/25,Thu,13:10,Krakow,KRK,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,164
+01/07/25,Tue,19:05,Krakow,KRK,01/07/25,Tue,20:30,London STNLondon (Stansted),STN,171
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,14:40,Milan MXPMilan (Malpensa),MXP,139
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,17:05,Lamezia Te,SUF,269
+25/06/25,Wed,11:50,Krakow,KRK,25/06/25,Wed,14:05,Paris BVAParis (Beauvais),BVA,176
+30/06/25,Mon,08:05,Krakow,KRK,30/06/25,Mon,10:05,Stockholm ARNStockholm (Arlanda),ARN,125
+30/06/25,Mon,14:40,Krakow,KRK,30/06/25,Mon,16:30,Tirana,TIA,309
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,21:30,Bari,BRI,254
+30/06/25,Mon,11:30,Krakow,KRK,30/06/25,Mon,13:00,Zadar,ZAD,229
+25/06/25,Wed,19:50,Krakow,KRK,25/06/25,Wed,22:45,Thessaloni,SKG,188
+28/06/25,Sat,11:45,Krakow,KRK,28/06/25,Sat,14:05,Olbia,OLB,261
+01/07/25,Tue,13:20,Krakow,KRK,01/07/25,Tue,23:35,Goteborg GOTGoteborg (Landvetter),GOT,185
+27/06/25,Fri,08:15,Krakow,KRK,27/06/25,Fri,10:55,Sofia,SOF,299
+30/06/25,Mon,06:00,Krakow,KRK,30/06/25,Mon,18:00,Venice TSFVenice (Treviso),TSF,329
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,21:30,Bari,BRI,254
+26/06/25,Thu,13:10,Krakow,KRK,26/06/25,Thu,21:25,Goteborg GOTGoteborg (Landvetter),GOT,224
+26/06/25,Thu,13:00,Krakow,KRK,26/06/25,Thu,19:55,Zagreb,ZAG,235
+01/07/25,Tue,16:20,Krakow,KRK,01/07/25,Tue,00:30,London STNLondon (Stansted),STN,206
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,15:20,Brussels CRLBrussels (Charleroi),CRL,95
+25/06/25,Wed,11:50,Krakow,KRK,25/06/25,Wed,14:05,Paris BVAParis (Beauvais),BVA,176
+28/06/25,Sat,20:05,Krakow,KRK,28/06/25,Sat,22:20,Lamezia Te,SUF,300
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,08:30,Leeds,LBA,147
+26/06/25,Thu,15:20,Krakow,KRK,26/06/25,Thu,17:55,Riga,RIX,143
+01/07/25,Tue,13:20,Krakow,KRK,01/07/25,Tue,16:55,Hamburg,HAM,208
+28/06/25,Sat,16:00,Krakow,KRK,28/06/25,Sat,17:40,Ancona,AOI,190
+26/06/25,Thu,16:05,Krakow,KRK,26/06/25,Thu,20:40,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,208
+27/06/25,Fri,16:05,Krakow,KRK,27/06/25,Fri,19:25,Bologna,BLQ,328
+02/07/25,Wed,08:10,Krakow,KRK,02/07/25,Wed,10:50,Sofia,SOF,165
+01/07/25,Tue,20:25,Krakow,KRK,01/07/25,Tue,22:00,Memmingen,FMM,222
+30/06/25,Mon,10:45,Krakow,KRK,30/06/25,Mon,14:15,Santorini,JTR,303
+26/06/25,Thu,18:05,Krakow,KRK,26/06/25,Thu,19:45,London LGWLondon (Gatwick),LGW,89
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,09:05,Athens,ATH,266
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,22:45,Corfu,CFU,330
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,19:10,Gdansk,GDN,157
+30/06/25,Mon,14:00,Krakow,KRK,30/06/25,Mon,15:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,109
+01/07/25,Tue,05:50,Krakow,KRK,01/07/25,Tue,10:00,Tirana,TIA,356
+26/06/25,Thu,11:00,Krakow,KRK,26/06/25,Thu,12:50,Pescara,PSR,365
+25/06/25,Wed,12:15,Krakow,KRK,25/06/25,Wed,17:30,Pescara,PSR,366
+26/06/25,Thu,20:45,Krakow,KRK,26/06/25,Thu,23:05,Paris CDGParis (Charles de Gaulle),CDG,167
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,20:05,Manchester,MAN,200
+27/06/25,Fri,18:05,Krakow,KRK,27/06/25,Fri,19:45,Dubrovnik,DBV,222
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,20:55,Cluj CLJCluj-Napoca,CLJ,253
+26/06/25,Thu,19:25,Krakow,KRK,26/06/25,Thu,21:25,Turin,TRN,209
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,22:20,Warsaw WMIWarsaw (Modlin),WMI,231
+30/06/25,Mon,06:00,Krakow,KRK,30/06/25,Mon,07:05,Prague,PRG,141
+27/06/25,Fri,06:45,Krakow,KRK,27/06/25,Fri,22:30,Turin,TRN,211
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,14:55,Bucharest OTPBucharest (Otopeni),OTP,279
+25/06/25,Wed,05:45,Krakow,KRK,25/06/25,Wed,07:20,Birmingham,BHX,195
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,20:25,Vienna,VIE,249
+25/06/25,Wed,12:15,Krakow,KRK,25/06/25,Wed,14:40,Catania,CTA,261
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,16:45,Kefalonia,EFL,206
+27/06/25,Fri,12:25,Krakow,KRK,27/06/25,Fri,14:00,Birmingham,BHX,190
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,20:05,Manchester,MAN,200
+26/06/25,Thu,19:25,Krakow,KRK,26/06/25,Thu,21:25,Genova,GOA,139
+27/06/25,Fri,08:15,Krakow,KRK,27/06/25,Fri,15:30,Stockholm ARNStockholm (Arlanda),ARN,210
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,20:45,Milan MXPMilan (Malpensa),MXP,224
+25/06/25,Wed,11:50,Krakow,KRK,25/06/25,Wed,16:05,Leeds,LBA,303
+01/07/25,Tue,11:00,Krakow,KRK,01/07/25,Tue,23:40,Palma Mall,PMI,216
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,09:05,Athens,ATH,266
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,16:45,Banja Luka,BNX,142
+01/07/25,Tue,17:20,Krakow,KRK,01/07/25,Tue,22:30,Budapest,BUD,243
+26/06/25,Thu,13:00,Krakow,KRK,26/06/25,Thu,14:45,Rimini,RMI,196
+25/06/25,Wed,07:40,Krakow,KRK,25/06/25,Wed,15:05,Paris BVAParis (Beauvais),BVA,263
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,22:20,Barcelona GROBarcelona (Girona),GRO,258
+01/07/25,Tue,18:05,Krakow,KRK,01/07/25,Tue,20:00,Belfast,BFS,111
+01/07/25,Tue,10:45,Krakow,KRK,01/07/25,Tue,12:25,Copenhagen,CPH,120
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,17:05,Lamezia Te,SUF,269
+27/06/25,Fri,08:15,Krakow,KRK,27/06/25,Fri,20:30,Memmingen,FMM,402
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,21:20,Sofia,SOF,260
+26/06/25,Thu,19:25,Krakow,KRK,26/06/25,Thu,21:25,Turin,TRN,209
+01/07/25,Tue,05:30,Krakow,KRK,01/07/25,Tue,08:20,Barcelona,BCN,299
+26/06/25,Thu,13:10,Krakow,KRK,26/06/25,Thu,19:20,Prague,PRG,190
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,15:00,Riga,RIX,217
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,14:20,Vilnius,VNO,235
+25/06/25,Wed,18:10,Krakow,KRK,25/06/25,Wed,20:35,Cagliari,CAG,260
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,22:35,Reggio Cal,REG,248
+25/06/25,Wed,07:40,Krakow,KRK,25/06/25,Wed,15:05,Paris BVAParis (Beauvais),BVA,263
+30/06/25,Mon,14:00,Krakow,KRK,30/06/25,Mon,22:45,Barcelona,BCN,306
+26/06/25,Thu,05:50,Krakow,KRK,26/06/25,Thu,17:45,Trieste,TRS,407
+26/06/25,Thu,13:00,Krakow,KRK,26/06/25,Thu,14:45,Rimini,RMI,196
+27/06/25,Fri,21:45,Krakow,KRK,27/06/25,Fri,23:30,Manchester,MAN,264
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,00:40,Rome FCORome (Fiumicino),FCO,380
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,20:10,Verona,VRN,158
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,19:05,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,291
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,21:55,London LGWLondon (Gatwick),LGW,350
+26/06/25,Thu,13:10,Krakow,KRK,26/06/25,Thu,23:20,Copenhagen,CPH,201
+01/07/25,Tue,17:40,Krakow,KRK,01/07/25,Tue,20:10,Marseille,MRS,349
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,18:40,Thessaloni,SKG,363
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,14:55,Malta,MLA,227
+01/07/25,Tue,17:20,Krakow,KRK,01/07/25,Tue,22:05,Wroclaw,WRO,252
+28/06/25,Sat,20:05,Krakow,KRK,28/06/25,Sat,22:20,Lamezia Te,SUF,300
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,11:55,Naples,NAP,274
+02/07/25,Wed,08:10,Krakow,KRK,02/07/25,Wed,15:35,Rome CIARome (Ciampino),CIA,292
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,07:40,Perugia,PEG,141
+26/06/25,Thu,13:00,Krakow,KRK,26/06/25,Thu,17:30,Edinburgh,EDI,158
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,22:20,Cork,ORK,180
+27/06/25,Fri,21:45,Krakow,KRK,27/06/25,Fri,23:30,Manchester,MAN,264
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,20:25,Vienna,VIE,249
+01/07/25,Tue,14:35,Krakow,KRK,01/07/25,Tue,16:15,Podgorica,TGD,214
+29/06/25,Sun,10:15,Krakow,KRK,29/06/25,Sun,20:30,Olbia,OLB,394
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,20:25,Corfu,CFU,302
+26/06/25,Thu,15:45,Krakow,KRK,26/06/25,Thu,19:30,Malaga,AGP,282
+30/06/25,Mon,19:15,Krakow,KRK,30/06/25,Mon,20:55,Venice TSFVenice (Treviso),TSF,117
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,14:55,Malta,MLA,227
+26/06/25,Thu,15:55,Krakow,KRK,26/06/25,Thu,17:35,Copenhagen,CPH,191
+30/06/25,Mon,14:40,Krakow,KRK,30/06/25,Mon,16:30,Tirana,TIA,309
+25/06/25,Wed,17:30,Krakow,KRK,25/06/25,Wed,20:10,Malta,MLA,252
+29/06/25,Sun,08:30,Krakow,KRK,29/06/25,Sun,15:05,Tuzla,TZL,342
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,20:10,Perugia,PEG,456
+26/06/25,Thu,16:05,Krakow,KRK,26/06/25,Thu,20:40,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,208
+25/06/25,Wed,08:30,Krakow,KRK,25/06/25,Wed,15:15,Brindisi,BDS,292
+02/07/25,Wed,05:50,Krakow,KRK,02/07/25,Wed,07:30,Bristol,BRS,240
+28/06/25,Sat,21:30,Krakow,KRK,28/06/25,Sat,23:00,Trieste,TRS,135
+26/06/25,Thu,20:00,Krakow,KRK,26/06/25,Thu,23:05,Corfu,CFU,432
+01/07/25,Tue,05:30,Krakow,KRK,01/07/25,Tue,08:20,Barcelona,BCN,299
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,23:20,Ibiza,IBZ,302
+26/06/25,Thu,13:10,Krakow,KRK,26/06/25,Thu,23:20,Copenhagen,CPH,201
+26/06/25,Thu,05:45,Krakow,KRK,26/06/25,Thu,19:30,Catania,CTA,362
+30/06/25,Mon,12:45,Krakow,KRK,30/06/25,Mon,17:40,Palma Mall,PMI,302
+26/06/25,Thu,05:55,Krakow,KRK,26/06/25,Thu,14:30,Poznan,POZ,330
+29/06/25,Sun,09:25,Krakow,KRK,29/06/25,Sun,19:00,Birmingham,BHX,282
+30/06/25,Mon,14:00,Krakow,KRK,30/06/25,Mon,22:45,Barcelona,BCN,306
+30/06/25,Mon,06:00,Krakow,KRK,30/06/25,Mon,22:30,Brussels CRLBrussels (Charleroi),CRL,314
+25/06/25,Wed,17:30,Krakow,KRK,25/06/25,Wed,20:10,Malta,MLA,252
+27/06/25,Fri,18:05,Krakow,KRK,27/06/25,Fri,19:45,Dubrovnik,DBV,222
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,22:30,Santorini,JTR,430
+25/06/25,Wed,13:20,Krakow,KRK,25/06/25,Wed,20:10,Nantes,NTE,257
+01/07/25,Tue,10:45,Krakow,KRK,01/07/25,Tue,23:20,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,406
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,07:35,Newcastle,NCL,133
+26/06/25,Thu,06:00,Krakow,KRK,26/06/25,Thu,15:15,Krakow,KRK,252
+27/06/25,Fri,10:55,Krakow,KRK,27/06/25,Fri,22:40,Cologne CGNCologne-Bonn,CGN,295
+29/06/25,Sun,08:30,Krakow,KRK,29/06/25,Sun,15:05,Rimini,RMI,270
+26/06/25,Thu,11:20,Krakow,KRK,26/06/25,Thu,00:30,Palermo,PMO,338
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,18:40,Thessaloni,SKG,363
+26/06/25,Thu,07:00,Krakow,KRK,26/06/25,Thu,14:20,Vilnius,VNO,235
+01/07/25,Tue,10:15,Krakow,KRK,01/07/25,Tue,12:20,Naples,NAP,291
+27/06/25,Fri,16:05,Krakow,KRK,27/06/25,Fri,19:25,Bologna,BLQ,328
+26/06/25,Thu,20:45,Krakow,KRK,26/06/25,Thu,23:05,Paris CDGParis (Charles de Gaulle),CDG,167
+25/06/25,Wed,07:40,Krakow,KRK,25/06/25,Wed,19:15,Paris ORYParis (Orly),ORY,311
+25/06/25,Wed,16:05,Gdansk,GDN,25/06/25,Wed,17:20,Goteborg GOTGoteborg (Landvetter),GOT,79
+28/06/25,Sat,11:00,Gdansk,GDN,28/06/25,Sat,12:00,Vaxjo,VXO,79
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,07:30,Oslo TRFOslo (Torp),TRF,79
+25/06/25,Wed,16:40,Gdansk,GDN,25/06/25,Wed,17:55,Krakow,KRK,98
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,10:45,Wroclaw,WRO,70
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,139
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,10:45,Wroclaw,WRO,70
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,16:10,Paris BVAParis (Beauvais),BVA,108
+25/06/25,Wed,16:40,Gdansk,GDN,25/06/25,Wed,17:55,Krakow,KRK,98
+01/07/25,Tue,15:35,Gdansk,GDN,01/07/25,Tue,16:55,Hamburg,HAM,129
+01/07/25,Tue,05:45,Gdansk,GDN,01/07/25,Tue,07:10,Leeds,LBA,129
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,08:15,Liverpool,LPL,89
+02/07/25,Wed,07:25,Gdansk,GDN,02/07/25,Wed,09:05,Dortmund,DTM,147
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,22:15,Paris BVAParis (Beauvais),BVA,163
+01/07/25,Tue,14:40,Gdansk,GDN,01/07/25,Tue,15:50,Copenhagen,CPH,64
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,16:10,Paris BVAParis (Beauvais),BVA,108
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,10:25,Bratislava,BTS,79
+30/06/25,Mon,15:35,Gdansk,GDN,30/06/25,Mon,17:00,Billund,BLL,139
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,09:15,Riga,RIX,171
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,10:35,Zadar,ZAD,154
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:15,Krakow,KRK,254
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,14:40,Milan MXPMilan (Malpensa),MXP,193
+25/06/25,Wed,13:45,Gdansk,GDN,25/06/25,Wed,15:05,Prague,PRG,197
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,10:35,Zadar,ZAD,154
+26/06/25,Thu,15:50,Gdansk,GDN,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,69
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:00,Riga,RIX,219
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,16:05,Leeds,LBA,236
+25/06/25,Wed,16:05,Gdansk,GDN,25/06/25,Wed,17:20,Goteborg GOTGoteborg (Landvetter),GOT,79
+26/06/25,Thu,18:00,Gdansk,GDN,26/06/25,Thu,19:20,Prague,PRG,95
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,22:15,Paris BVAParis (Beauvais),BVA,163
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,19:10,Gdansk,GDN,159
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,09:00,Manchester,MAN,89
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,09:00,Manchester,MAN,89
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,14:00,Liverpool,LPL,213
+26/06/25,Thu,15:15,Gdansk,GDN,26/06/25,Thu,16:50,Oslo OSLOslo (Gardermoen),OSL,89
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:55,Milan BGYMilan (Bergamo),BGY,198
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,22:40,Brussels CRLBrussels (Charleroi),CRL,142
+25/06/25,Wed,16:40,Gdansk,GDN,25/06/25,Wed,00:05,Bologna,BLQ,163
+30/06/25,Mon,09:35,Gdansk,GDN,30/06/25,Mon,10:50,Aarhus,AAR,180
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,08:15,Liverpool,LPL,89
+01/07/25,Tue,06:15,Gdansk,GDN,01/07/25,Tue,07:35,Stockholm ARNStockholm (Arlanda),ARN,79
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:35,Budapest,BUD,290
+01/07/25,Tue,14:30,Gdansk,GDN,01/07/25,Tue,22:55,Sofia,SOF,180
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,139
+30/06/25,Mon,05:50,Gdansk,GDN,30/06/25,Mon,07:50,Venice TSFVenice (Treviso),TSF,214
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,14:40,Milan MXPMilan (Malpensa),MXP,193
+26/06/25,Thu,06:45,Gdansk,GDN,26/06/25,Thu,08:25,Belfast,BFS,116
+28/06/25,Sat,05:45,Gdansk,GDN,28/06/25,Sat,06:55,Lublin,LUZ,108
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:15,Krakow,KRK,254
+29/06/25,Sun,16:50,Gdansk,GDN,29/06/25,Sun,19:00,Milan BGYMilan (Bergamo),BGY,209
+30/06/25,Mon,20:00,Gdansk,GDN,30/06/25,Mon,21:25,Aberdeen,ABZ,209
+26/06/25,Thu,12:00,Gdansk,GDN,26/06/25,Thu,13:20,Newcastle,NCL,95
+28/06/25,Sat,06:15,Gdansk,GDN,28/06/25,Sat,07:35,Stockholm ARNStockholm (Arlanda),ARN,109
+26/06/25,Thu,13:10,Gdansk,GDN,26/06/25,Thu,15:10,Venice TSFVenice (Treviso),TSF,243
+01/07/25,Tue,05:45,Gdansk,GDN,01/07/25,Tue,07:10,Leeds,LBA,129
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:20,Barcelona,BCN,274
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,15:30,Birmingham,BHX,202
+25/06/25,Wed,17:10,Gdansk,GDN,25/06/25,Wed,21:20,Chania,CHQ,346
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:00,Manchester,MAN,181
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:00,Manchester,MAN,181
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,09:15,Riga,RIX,171
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,15:00,Copenhagen,CPH,272
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,19:45,London LGWLondon (Gatwick),LGW,219
+28/06/25,Sat,14:25,Gdansk,GDN,28/06/25,Sat,16:45,Pisa,PSA,281
+27/06/25,Fri,16:55,Gdansk,GDN,27/06/25,Fri,19:25,Rome CIARome (Ciampino),CIA,275
+30/06/25,Mon,10:30,Gdansk,GDN,30/06/25,Mon,16:40,Wroclaw,WRO,347
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,23:25,Pisa,PSA,289
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,20:55,Venice TSFVenice (Treviso),TSF,268
+29/06/25,Sun,18:30,Gdansk,GDN,29/06/25,Sun,21:40,Barcelona,BCN,299
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:45,Alicante,ALC,241
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:55,Milan BGYMilan (Bergamo),BGY,198
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,22:15,Thessaloni,SKG,246
+01/07/25,Tue,15:15,Gdansk,GDN,01/07/25,Tue,21:55,Katowice,KTW,241
+26/06/25,Thu,15:15,Gdansk,GDN,26/06/25,Thu,16:50,Oslo OSLOslo (Gardermoen),OSL,89
+26/06/25,Thu,05:50,Gdansk,GDN,26/06/25,Thu,11:30,Madrid,MAD,193
+26/06/25,Thu,22:10,Gdansk,GDN,26/06/25,Thu,23:20,Copenhagen,CPH,106
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:45,Alicante,ALC,241
+26/06/25,Thu,06:00,Gdansk,GDN,26/06/25,Thu,15:00,Riga,RIX,219
+25/06/25,Wed,18:10,Gdansk,GDN,25/06/25,Wed,22:50,Larnaca,LCA,249
+01/07/25,Tue,06:40,Gdansk,GDN,01/07/25,Tue,08:25,Eindhoven,EIN,249
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,21:20,Belfast,BFS,203
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,00:35,Cologne CGNCologne-Bonn,CGN,163
+28/06/25,Sat,19:20,Gdansk,GDN,28/06/25,Sat,22:50,Bourgas,BOJ,359
+26/06/25,Thu,06:45,Gdansk,GDN,26/06/25,Thu,11:50,London STNLondon (Stansted),STN,330
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,18:55,Malaga,AGP,343
+27/06/25,Fri,14:35,Gdansk,GDN,27/06/25,Fri,21:05,Prague,PRG,267
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,13:50,Shannon,SNN,173
+25/06/25,Wed,18:10,Gdansk,GDN,25/06/25,Wed,22:50,Larnaca,LCA,249
+25/06/25,Wed,13:55,Gdansk,GDN,25/06/25,Wed,23:35,Budapest,BUD,290
+27/06/25,Fri,14:35,Gdansk,GDN,27/06/25,Fri,21:05,Prague,PRG,267
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,14:00,Liverpool,LPL,213
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,14:55,Rome FCORome (Fiumicino),FCO,222
+30/06/25,Mon,05:50,Gdansk,GDN,30/06/25,Mon,18:15,Tirana,TIA,320
+29/06/25,Sun,16:50,Gdansk,GDN,29/06/25,Sun,19:00,Milan BGYMilan (Bergamo),BGY,209
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,17:20,Barcelona,BCN,274
+27/06/25,Fri,16:55,Gdansk,GDN,27/06/25,Fri,19:25,Rome CIARome (Ciampino),CIA,275
+01/07/25,Tue,19:35,Gdansk,GDN,01/07/25,Tue,22:00,Tirana,TIA,327
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,13:00,Zadar,ZAD,381
+28/06/25,Sat,11:15,Gdansk,GDN,28/06/25,Sat,13:10,Bergen,BGO,219
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,23:25,Pisa,PSA,289
+02/07/25,Wed,05:45,Gdansk,GDN,02/07/25,Wed,07:45,Cork,ORK,320
+25/06/25,Wed,11:25,Gdansk,GDN,25/06/25,Wed,14:40,Malta,MLA,323
+01/07/25,Tue,12:50,Gdansk,GDN,01/07/25,Tue,20:55,Goteborg GOTGoteborg (Landvetter),GOT,481
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:35,Valencia,VLC,316
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,16:05,Leeds,LBA,236
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,13:10,Podgorica,TGD,483
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,00:05,Oslo OSLOslo (Gardermoen),OSL,278
+26/06/25,Thu,12:00,Gdansk,GDN,26/06/25,Thu,00:10,Dublin,DUB,169
+26/06/25,Thu,08:50,Gdansk,GDN,26/06/25,Thu,19:30,Skopje,SKP,229
+27/06/25,Fri,12:50,Gdansk,GDN,27/06/25,Fri,15:25,Naples,NAP,291
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,23:20,Corfu,CFU,473
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,16:30,Bratislava,BTS,348
+01/07/25,Tue,14:30,Gdansk,GDN,01/07/25,Tue,23:45,Edinburgh,EDI,166
+26/06/25,Thu,05:55,Gdansk,GDN,26/06/25,Thu,07:25,Edinburgh,EDI,167
+01/07/25,Tue,14:55,Gdansk,GDN,01/07/25,Tue,22:15,Stockholm ARNStockholm (Arlanda),ARN,250
+25/06/25,Wed,17:10,Gdansk,GDN,25/06/25,Wed,21:20,Chania,CHQ,346
+27/06/25,Fri,12:45,Gdansk,GDN,27/06/25,Fri,15:20,Brindisi,BDS,304
+28/06/25,Sat,18:30,Gdansk,GDN,28/06/25,Sat,23:05,Zagreb,ZAG,334
+29/06/25,Sun,10:05,Gdansk,GDN,29/06/25,Sun,12:35,Turku,TKU,409
+28/06/25,Sat,14:25,Gdansk,GDN,28/06/25,Sat,16:45,Pisa,PSA,281
+25/06/25,Wed,11:25,Gdansk,GDN,25/06/25,Wed,14:40,Malta,MLA,323
+26/06/25,Thu,15:10,Gdansk,GDN,26/06/25,Thu,18:50,Alicante,ALC,352
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:20,Naples,NAP,313
+27/06/25,Fri,18:00,Gdansk,GDN,27/06/25,Fri,22:15,Heraklion,HER,359
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,13:50,Poznan,POZ,276
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,16:45,East Midla,EMA,239
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,15:30,Rome CIARome (Ciampino),CIA,411
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,17:05,Paris ORYParis (Orly),ORY,218
+25/06/25,Wed,08:30,Gdansk,GDN,25/06/25,Wed,14:30,Marseille,MRS,285
+01/07/25,Tue,18:30,Gdansk,GDN,01/07/25,Tue,21:40,Barcelona,BCN,282
+27/06/25,Fri,14:35,Gdansk,GDN,27/06/25,Fri,19:45,Dubrovnik,DBV,330
+27/06/25,Fri,12:50,Gdansk,GDN,27/06/25,Fri,15:25,Naples,NAP,291
+26/06/25,Thu,15:10,Gdansk,GDN,26/06/25,Thu,18:50,Alicante,ALC,352
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,23:00,Vienna,VIE,283
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,14:45,Belfast BHDBelfast (city),BHD,303
+26/06/25,Thu,13:10,Gdansk,GDN,26/06/25,Thu,19:30,Malta,MLA,355
+29/06/25,Sun,16:50,Gdansk,GDN,29/06/25,Sun,21:20,Frankfurt HHNFrankfurt (Hahn),HHN,341
+02/07/25,Wed,12:45,Gdansk,GDN,02/07/25,Wed,16:50,Malaga,AGP,447
+26/06/25,Thu,19:30,Gdansk,GDN,26/06/25,Thu,21:40,Milan MXPMilan (Malpensa),MXP,449
+26/06/25,Thu,06:45,Gdansk,GDN,26/06/25,Thu,11:35,Newcastle,NCL,280
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,15:00,Copenhagen,CPH,272
+01/07/25,Tue,12:10,Gdansk,GDN,01/07/25,Tue,14:10,Aalesund,AES,209
+25/06/25,Wed,16:50,Gdansk,GDN,25/06/25,Wed,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,309
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,15:50,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,260
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,20:20,Naples,NAP,313
+25/06/25,Wed,05:50,Gdansk,GDN,25/06/25,Wed,15:35,Palma Mall,PMI,438
+01/07/25,Tue,14:55,Gdansk,GDN,01/07/25,Tue,22:25,Trieste,TRS,341
+26/06/25,Thu,12:00,Gdansk,GDN,26/06/25,Thu,19:10,Lanzarote,ACE,364
+30/06/25,Mon,11:55,Gdansk,GDN,30/06/25,Mon,20:15,Athens,ATH,436
+01/07/25,Tue,06:40,Gdansk,GDN,01/07/25,Tue,08:25,Eindhoven,EIN,249
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,17:25,Lisbon,LIS,352
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,22:50,Stockholm ARNStockholm (Arlanda),ARN,315
+25/06/25,Wed,10:00,Gdansk,GDN,25/06/25,Wed,18:55,Malaga,AGP,343
+27/06/25,Fri,09:15,Gdansk,GDN,27/06/25,Fri,18:00,Eindhoven,EIN,391
+30/06/25,Mon,05:50,Gdansk,GDN,30/06/25,Mon,18:15,Tirana,TIA,320
+26/06/25,Thu,08:55,Gdansk,GDN,26/06/25,Thu,13:30,Paphos,PFO,319
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,15:50,Venice TSFVenice (Treviso),TSF,453
+26/06/25,Thu,05:55,Gdansk,GDN,26/06/25,Thu,10:05,Bristol,BRS,327
+26/06/25,Thu,13:10,Gdansk,GDN,26/06/25,Thu,19:30,Malta,MLA,355
+26/06/25,Thu,05:55,Gdansk,GDN,26/06/25,Thu,07:25,Edinburgh,EDI,167
+26/06/25,Thu,09:40,Gdansk,GDN,26/06/25,Thu,15:30,Rome CIARome (Ciampino),CIA,411
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,17:30,Sevilla,SVQ,325
+01/07/25,Tue,15:40,Gdansk,GDN,01/07/25,Tue,22:20,Dusseldorf NRNDusseldorf (Weeze),NRN,310
+01/07/25,Tue,12:10,Gdansk,GDN,01/07/25,Tue,14:10,Aalesund,AES,209
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,14:15,Santorini,JTR,454
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,21:25,Turin,TRN,340
+26/06/25,Thu,19:30,Gdansk,GDN,26/06/25,Thu,21:40,Milan MXPMilan (Malpensa),MXP,449
+27/06/25,Fri,08:05,Gdansk,GDN,27/06/25,Fri,15:35,Split,SPU,402
+27/06/25,Fri,09:15,Gdansk,GDN,27/06/25,Fri,00:15,Warsaw WMIWarsaw (Modlin),WMI,379
+25/06/25,Wed,07:35,Gdansk,GDN,25/06/25,Wed,21:35,Paris CDGParis (Charles de Gaulle),CDG,283
+30/06/25,Mon,08:25,Gdansk,GDN,30/06/25,Mon,13:00,Zadar,ZAD,381
+25/06/25,Wed,05:50,Gdansk,GDN,25/06/25,Wed,23:50,Ibiza,IBZ,452
+01/07/25,Tue,06:15,Gdansk,GDN,01/07/25,Tue,08:00,Dublin,DUB,287
+26/06/25,Thu,11:30,Gdansk,GDN,26/06/25,Thu,00:05,Oslo OSLOslo (Gardermoen),OSL,278
+28/06/25,Sat,07:10,Gdansk,GDN,28/06/25,Sat,09:05,Trondheim,TRD,179
+01/07/25,Tue,07:00,Gdansk,GDN,01/07/25,Tue,23:59,Klaipeda PLQKlaipeda-Palanga,PLQ,383
+25/06/25,Wed,05:45,Gdansk,GDN,25/06/25,Wed,16:35,Isle Of Ma,IOM,348
+27/06/25,Fri,10:00,Gdansk,GDN,27/06/25,Fri,15:50,Cork,ORK,465
+25/06/25,Wed,16:25,Gdansk,GDN,25/06/25,Wed,23:45,Vilnius,VNO,348
+26/06/25,Thu,13:35,Gdansk,GDN,26/06/25,Thu,18:15,Madeira FNCMadeira (Funchal),FNC,399
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,12:10,Gdansk,GDN,91
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,07:35,Brussels CRLBrussels (Charleroi),CRL,78
+26/06/25,Thu,11:25,Wroclaw,WRO,26/06/25,Thu,12:55,Rijeka,RJK,104
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,07:25,Venice TSFVenice (Treviso),TSF,114
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,15:05,Zadar,ZAD,146
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,19:10,Gdansk,GDN,149
+01/07/25,Tue,22:30,Wroclaw,WRO,01/07/25,Tue,00:15,Bologna,BLQ,106
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,13:55,Rijeka,RJK,150
+26/06/25,Thu,20:10,Wroclaw,WRO,26/06/25,Thu,22:10,Paris BVAParis (Beauvais),BVA,95
+27/06/25,Fri,13:15,Wroclaw,WRO,27/06/25,Fri,15:00,Dubrovnik,DBV,143
+26/06/25,Thu,08:50,Wroclaw,WRO,26/06/25,Thu,13:05,Paphos,PFO,137
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,12:50,Milan BGYMilan (Bergamo),BGY,121
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,14:50,Zadar,ZAD,202
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,12:50,Milan BGYMilan (Bergamo),BGY,121
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,69
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,07:35,Brussels CRLBrussels (Charleroi),CRL,78
+25/06/25,Wed,18:45,Wroclaw,WRO,25/06/25,Wed,22:20,Athens,ATH,166
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:20,Dubrovnik,DBV,236
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,19:30,Malta,MLA,226
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,20:35,Bologna,BLQ,231
+25/06/25,Wed,18:45,Wroclaw,WRO,25/06/25,Wed,22:20,Athens,ATH,166
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:10,Verona,VRN,142
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,16:10,Poznan,POZ,192
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,20:55,Valencia,VLC,185
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,13:55,Brussels CRLBrussels (Charleroi),CRL,262
+29/06/25,Sun,05:50,Wroclaw,WRO,29/06/25,Sun,08:45,Sofia,SOF,291
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,23:15,Budapest,BUD,245
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,18:20,Marseille,MRS,243
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,15:05,Zadar,ZAD,146
+01/07/25,Tue,22:10,Wroclaw,WRO,01/07/25,Tue,23:45,Edinburgh,EDI,96
+28/06/25,Sat,15:55,Wroclaw,WRO,28/06/25,Sat,17:55,Rome CIARome (Ciampino),CIA,291
+01/07/25,Tue,16:00,Wroclaw,WRO,01/07/25,Tue,20:30,Paris BVAParis (Beauvais),BVA,249
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,07:50,Pisa,PSA,240
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,12:15,Palermo,PMO,267
+01/07/25,Tue,20:00,Wroclaw,WRO,01/07/25,Tue,22:55,Sofia,SOF,111
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,160
+27/06/25,Fri,12:50,Wroclaw,WRO,27/06/25,Fri,14:45,Pescara,PSR,205
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,22:45,Corfu,CFU,303
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:55,Cluj CLJCluj-Napoca,CLJ,236
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,09:10,Newcastle,NCL,71
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,13:15,Bari,BRI,280
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,15:10,Venice TSFVenice (Treviso),TSF,334
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,13:10,Barcelona GROBarcelona (Girona),GRO,241
+27/06/25,Fri,13:55,Wroclaw,WRO,27/06/25,Fri,15:35,Split,SPU,209
+28/06/25,Sat,09:05,Wroclaw,WRO,28/06/25,Sat,13:25,Larnaca,LCA,269
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,22:20,Warsaw WMIWarsaw (Modlin),WMI,214
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,14:50,Zadar,ZAD,202
+26/06/25,Thu,12:35,Wroclaw,WRO,26/06/25,Thu,14:00,Liverpool,LPL,143
+25/06/25,Wed,18:30,Wroclaw,WRO,25/06/25,Wed,19:45,London LTNLondon (Luton),LTN,249
+26/06/25,Thu,12:35,Wroclaw,WRO,26/06/25,Thu,14:00,Liverpool,LPL,143
+28/06/25,Sat,14:55,Wroclaw,WRO,28/06/25,Sat,16:20,London LGWLondon (Gatwick),LGW,309
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,09:10,Newcastle,NCL,71
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,12:10,Gdansk,GDN,91
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,17:45,Krakow,KRK,187
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,22:20,Barcelona GROBarcelona (Girona),GRO,241
+27/06/25,Fri,22:45,Wroclaw,WRO,27/06/25,Fri,00:40,Tirana,TIA,219
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,01:00,Milan MXPMilan (Malpensa),MXP,231
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,07:25,Venice TSFVenice (Treviso),TSF,114
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,10:50,London LGWLondon (Gatwick),LGW,323
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,13:15,Bari,BRI,280
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,14:50,Manchester,MAN,184
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,22:15,Bristol,BRS,246
+27/06/25,Fri,10:45,Wroclaw,WRO,27/06/25,Fri,16:15,Zagreb,ZAG,258
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,10:00,Budapest,BUD,89
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:05,Manchester,MAN,184
+27/06/25,Fri,10:45,Wroclaw,WRO,27/06/25,Fri,22:30,Turin,TRN,195
+30/06/25,Mon,12:45,Wroclaw,WRO,30/06/25,Mon,14:40,Pisa,PSA,406
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:00,Cologne CGNCologne-Bonn,CGN,234
+25/06/25,Wed,18:30,Wroclaw,WRO,25/06/25,Wed,19:45,London LTNLondon (Luton),LTN,249
+01/07/25,Tue,10:55,Wroclaw,WRO,01/07/25,Tue,13:40,Malta,MLA,361
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,18:50,Luxembourg,LUX,196
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,19:20,Prague,PRG,186
+29/06/25,Sun,15:20,Wroclaw,WRO,29/06/25,Sun,17:40,Marseille,MRS,340
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,23:15,Sofia,SOF,192
+01/07/25,Tue,13:30,Wroclaw,WRO,01/07/25,Tue,23:45,Nuernberg,NUE,278
+26/06/25,Thu,09:20,Wroclaw,WRO,26/06/25,Thu,10:40,Bristol,BRS,274
+26/06/25,Thu,20:10,Wroclaw,WRO,26/06/25,Thu,22:10,Paris BVAParis (Beauvais),BVA,95
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,16:10,Naples,NAP,296
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,01:00,Katowice,KTW,253
+27/06/25,Fri,21:50,Wroclaw,WRO,27/06/25,Fri,23:15,Manchester,MAN,209
+25/06/25,Wed,13:00,Wroclaw,WRO,25/06/25,Wed,15:30,Barcelona GROBarcelona (Girona),GRO,316
+28/06/25,Sat,15:55,Wroclaw,WRO,28/06/25,Sat,17:55,Rome CIARome (Ciampino),CIA,291
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,19:10,Gdansk,GDN,149
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,20:15,Birmingham,BHX,233
+26/06/25,Thu,15:30,Wroclaw,WRO,26/06/25,Thu,16:45,East Midla,EMA,169
+01/07/25,Tue,12:30,Wroclaw,WRO,01/07/25,Tue,20:25,Palma Mall,PMI,248
+29/06/25,Sun,15:20,Wroclaw,WRO,29/06/25,Sun,17:40,Marseille,MRS,340
+29/06/25,Sun,18:00,Wroclaw,WRO,29/06/25,Sun,19:55,Pescara,PSR,201
+26/06/25,Thu,15:55,Wroclaw,WRO,26/06/25,Thu,00:50,Frankfurt HHNFrankfurt (Hahn),HHN,270
+25/06/25,Wed,13:00,Wroclaw,WRO,25/06/25,Wed,15:30,Barcelona GROBarcelona (Girona),GRO,316
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,01:50,Alicante,ALC,286
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,16:55,Madrid,MAD,228
+01/07/25,Tue,14:55,Wroclaw,WRO,01/07/25,Tue,22:25,Edinburgh,EDI,231
+28/06/25,Sat,19:30,Wroclaw,WRO,28/06/25,Sat,21:15,Dublin,DUB,351
+27/06/25,Fri,21:50,Wroclaw,WRO,27/06/25,Fri,23:15,Manchester,MAN,209
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,15:50,Marseille,MRS,374
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,20:55,Valencia,VLC,185
+30/06/25,Mon,11:30,Wroclaw,WRO,30/06/25,Mon,13:15,Stockholm ARNStockholm (Arlanda),ARN,118
+01/07/25,Tue,14:55,Wroclaw,WRO,01/07/25,Tue,16:20,London LGWLondon (Gatwick),LGW,102
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,17:45,Hamburg,HAM,310
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,19:30,Malta,MLA,226
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,20:20,Toulouse,TLS,255
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,19:15,Paphos,PFO,430
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,13:55,Oslo TRFOslo (Torp),TRF,69
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:30,Dusseldorf NRNDusseldorf (Weeze),NRN,235
+27/06/25,Fri,13:15,Wroclaw,WRO,27/06/25,Fri,15:00,Dubrovnik,DBV,143
+26/06/25,Thu,20:00,Wroclaw,WRO,26/06/25,Thu,23:15,Corfu,CFU,457
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,19:20,Sofia,SOF,478
+30/06/25,Mon,11:30,Wroclaw,WRO,30/06/25,Mon,17:35,Riga,RIX,347
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,12:55,Lamezia Te,SUF,362
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,22:20,Cork,ORK,163
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,18:05,London STNLondon (Stansted),STN,451
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:10,Bucharest OTPBucharest (Otopeni),OTP,316
+29/06/25,Sun,14:45,Wroclaw,WRO,29/06/25,Sun,16:45,Bari,BRI,449
+01/07/25,Tue,12:30,Wroclaw,WRO,01/07/25,Tue,20:25,Palma Mall,PMI,248
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,22:15,Bristol,BRS,246
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,15:00,Malaga,AGP,325
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,23:15,Budapest,BUD,245
+29/06/25,Sun,11:50,Wroclaw,WRO,29/06/25,Sun,19:35,Menorca,MAH,333
+26/06/25,Thu,15:30,Wroclaw,WRO,26/06/25,Thu,16:45,East Midla,EMA,169
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,21:50,Bucharest BBUBucharest (Aurel Vlaicu),BBU,222
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,12:15,Palermo,PMO,267
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,22:10,Brindisi,BDS,366
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,22:45,Corfu,CFU,303
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:05,Berlin BERBerlin (Brandenburg),BER,303
+25/06/25,Wed,19:20,Wroclaw,WRO,25/06/25,Wed,21:10,Shannon,SNN,154
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,18:00,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,425
+26/06/25,Thu,09:20,Wroclaw,WRO,26/06/25,Thu,10:40,Bristol,BRS,274
+25/06/25,Wed,13:20,Wroclaw,WRO,25/06/25,Wed,15:20,Bari,BRI,449
+28/06/25,Sat,10:20,Wroclaw,WRO,28/06/25,Sat,21:45,Milan BGYMilan (Bergamo),BGY,483
+25/06/25,Wed,10:55,Wroclaw,WRO,25/06/25,Wed,13:00,Naples,NAP,427
+28/06/25,Sat,07:50,Wroclaw,WRO,28/06/25,Sat,01:50,Alicante,ALC,286
+28/06/25,Sat,15:35,Wroclaw,WRO,28/06/25,Sat,19:20,Agadir,AGA,474
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,01:05,Shannon,SNN,173
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,22:40,Reggio Cal,REG,360
+01/07/25,Tue,08:55,Wroclaw,WRO,01/07/25,Tue,20:45,Alghero,AHO,337
+27/06/25,Fri,13:55,Wroclaw,WRO,27/06/25,Fri,15:35,Split,SPU,209
+29/06/25,Sun,19:45,Wroclaw,WRO,29/06/25,Sun,21:20,Glasgow,GLA,73
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,19:00,Pescara,PSR,461
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,07:25,Edinburgh,EDI,98
+30/06/25,Mon,10:30,Wroclaw,WRO,30/06/25,Mon,15:40,Rome CIARome (Ciampino),CIA,484
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,14:55,Santander,SDR,236
+29/06/25,Sun,19:45,Wroclaw,WRO,29/06/25,Sun,21:20,Glasgow,GLA,73
+27/06/25,Fri,06:40,Wroclaw,WRO,27/06/25,Fri,10:55,Leeds,LBA,432
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:10,Nantes,NTE,241
+26/06/25,Thu,08:50,Wroclaw,WRO,26/06/25,Thu,21:40,Thessaloni,SKG,385
+27/06/25,Fri,13:15,Wroclaw,WRO,27/06/25,Fri,22:50,Paris ORYParis (Orly),ORY,262
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,20:30,Iasi,IAS,320
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,15:00,Malaga,AGP,325
+30/06/25,Mon,11:10,Wroclaw,WRO,30/06/25,Mon,23:15,Pisa,PSA,579
+30/06/25,Mon,09:35,Wroclaw,WRO,30/06/25,Mon,10:50,Leeds,LBA,440
+27/06/25,Fri,05:45,Wroclaw,WRO,27/06/25,Fri,07:50,Brindisi,BDS,406
+25/06/25,Wed,13:20,Wroclaw,WRO,25/06/25,Wed,20:25,Palermo,PMO,523
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,17:20,Oslo TRFOslo (Torp),TRF,160
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,21:25,Goteborg GOTGoteborg (Landvetter),GOT,220
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,00:45,Athens,ATH,479
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,18:25,Naples,NAP,331
+29/06/25,Sun,11:50,Wroclaw,WRO,29/06/25,Sun,18:00,Barcelona,BCN,362
+25/06/25,Wed,11:05,Wroclaw,WRO,25/06/25,Wed,17:20,Dubrovnik,DBV,236
+28/06/25,Sat,10:20,Wroclaw,WRO,28/06/25,Sat,21:45,Milan BGYMilan (Bergamo),BGY,483
+27/06/25,Fri,22:45,Wroclaw,WRO,27/06/25,Fri,00:40,Tirana,TIA,219
+28/06/25,Sat,06:20,Wroclaw,WRO,28/06/25,Sat,20:10,Agadir,AGA,510
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,17:20,Cagliari,CAG,337
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,15:10,Venice TSFVenice (Treviso),TSF,334
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,23:50,Faro,FAO,236
+01/07/25,Tue,12:30,Wroclaw,WRO,01/07/25,Tue,16:55,Dublin,DUB,162
+26/06/25,Thu,09:50,Wroclaw,WRO,26/06/25,Thu,22:10,Brindisi,BDS,366
+02/07/25,Wed,15:45,Wroclaw,WRO,02/07/25,Wed,19:20,London LTNLondon (Luton),LTN,453
+25/06/25,Wed,14:25,Wroclaw,WRO,25/06/25,Wed,16:10,Bologna,BLQ,427
+25/06/25,Wed,05:50,Wroclaw,WRO,25/06/25,Wed,23:10,Tirana,TIA,461
+29/06/25,Sun,06:15,Wroclaw,WRO,29/06/25,Sun,08:40,Lamezia Te,SUF,481
+30/06/25,Mon,10:30,Wroclaw,WRO,30/06/25,Mon,15:40,Rome CIARome (Ciampino),CIA,484
+26/06/25,Thu,05:45,Wroclaw,WRO,26/06/25,Thu,00:40,Rome FCORome (Fiumicino),FCO,353
+26/06/25,Thu,05:50,Wroclaw,WRO,26/06/25,Thu,01:05,Shannon,SNN,173
+01/07/25,Tue,16:00,Wroclaw,WRO,01/07/25,Tue,20:30,Paris BVAParis (Beauvais),BVA,249
+26/06/25,Thu,12:05,Wroclaw,WRO,26/06/25,Thu,18:05,London STNLondon (Stansted),STN,451
+29/06/25,Sun,05:45,Wroclaw,WRO,29/06/25,Sun,07:50,Brindisi,BDS,406
+26/06/25,Thu,08:50,Wroclaw,WRO,26/06/25,Thu,13:05,Paphos,PFO,137
+26/06/25,Thu,11:10,Wroclaw,WRO,26/06/25,Thu,23:20,Copenhagen,CPH,198
+01/07/25,Tue,05:55,Wroclaw,WRO,01/07/25,Tue,22:10,London LTNLondon (Luton),LTN,493
+25/06/25,Wed,05:45,Katowice,KTW,25/06/25,Wed,07:30,Forli,FRL,79
+25/06/25,Wed,21:10,Katowice,KTW,25/06/25,Wed,22:55,Milan BGYMilan (Bergamo),BGY,79
+28/06/25,Sat,17:45,Katowice,KTW,28/06/25,Sat,19:40,Brussels CRLBrussels (Charleroi),CRL,69
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,07:50,Rome FCORome (Fiumicino),FCO,120
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,17:50,Oslo OSLOslo (Gardermoen),OSL,79
+30/06/25,Mon,19:35,Katowice,KTW,30/06/25,Mon,21:15,Liverpool,LPL,109
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,08:35,Catania,CTA,129
+30/06/25,Mon,11:40,Katowice,KTW,30/06/25,Mon,13:20,Venice TSFVenice (Treviso),TSF,205
+25/06/25,Wed,21:10,Katowice,KTW,25/06/25,Wed,22:55,Milan BGYMilan (Bergamo),BGY,79
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,09:50,Paphos,PFO,119
+30/06/25,Mon,11:35,Katowice,KTW,30/06/25,Mon,13:10,Pula,PUY,241
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,22:35,Brussels CRLBrussels (Charleroi),CRL,234
+01/07/25,Tue,21:40,Katowice,KTW,01/07/25,Tue,23:15,Manchester,MAN,100
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,08:35,Catania,CTA,129
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,08:25,Pisa,PSA,209
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,14:10,Athens,ATH,198
+01/07/25,Tue,18:10,Katowice,KTW,01/07/25,Tue,23:15,Zadar,ZAD,281
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,22:20,Tirana,TIA,272
+01/07/25,Tue,15:15,Katowice,KTW,01/07/25,Tue,16:55,Split,SPU,219
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,23:05,Zagreb,ZAG,196
+28/06/25,Sat,17:45,Katowice,KTW,28/06/25,Sat,19:40,Brussels CRLBrussels (Charleroi),CRL,69
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,17:35,Manchester,MAN,153
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,11:55,London STNLondon (Stansted),STN,207
+26/06/25,Thu,23:00,Katowice,KTW,26/06/25,Thu,00:50,Tirana,TIA,309
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,11:55,Bari,BRI,191
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,15:50,Malta,MLA,168
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,14:10,Athens,ATH,198
+30/06/25,Mon,11:35,Katowice,KTW,30/06/25,Mon,13:10,Pula,PUY,241
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,07:45,Dublin,DUB,170
+29/06/25,Sun,06:15,Katowice,KTW,29/06/25,Sun,08:00,Podgorica,TGD,249
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,11:55,Bari,BRI,191
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,13:05,Ancona,AOI,237
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,15:10,Pescara,PSR,228
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,22:55,Reggio Cal,REG,326
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,23:35,Krakow,KRK,290
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,18:20,Catania,CTA,342
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,10:45,Toulouse,TLS,237
+01/07/25,Tue,18:10,Katowice,KTW,01/07/25,Tue,23:15,Zadar,ZAD,281
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,18:50,Cluj CLJCluj-Napoca,CLJ,274
+27/06/25,Fri,15:25,Katowice,KTW,27/06/25,Fri,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,304
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,12:15,Naples,NAP,243
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,07:50,Rome FCORome (Fiumicino),FCO,120
+29/06/25,Sun,12:40,Katowice,KTW,29/06/25,Sun,15:40,Bourgas,BOJ,309
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,23:59,Milan MXPMilan (Malpensa),MXP,249
+30/06/25,Mon,19:50,Katowice,KTW,30/06/25,Mon,22:10,Alghero,AHO,355
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,21:00,Paphos,PFO,306
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,15:50,Malta,MLA,168
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,19:15,Pisa,PSA,365
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,19:55,Athens,ATH,341
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,00:05,Bari,BRI,286
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,16:00,Wroclaw,WRO,239
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,22:20,Tirana,TIA,272
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,12:15,Naples,NAP,243
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,08:25,Pisa,PSA,209
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,14:40,Memmingen,FMM,247
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,11:55,London STNLondon (Stansted),STN,207
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,00:05,Bari,BRI,286
+30/06/25,Mon,19:35,Katowice,KTW,30/06/25,Mon,21:15,Liverpool,LPL,109
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,20:25,Palermo,PMO,265
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,23:45,Vilnius,VNO,318
+01/07/25,Tue,12:30,Katowice,KTW,01/07/25,Tue,15:20,Barcelona,BCN,309
+30/06/25,Mon,15:40,Katowice,KTW,30/06/25,Mon,22:50,Poznan,POZ,281
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,23:35,Oslo OSLOslo (Gardermoen),OSL,408
+28/06/25,Sat,17:45,Katowice,KTW,28/06/25,Sat,23:35,Budapest,BUD,254
+26/06/25,Thu,23:00,Katowice,KTW,26/06/25,Thu,00:50,Tirana,TIA,309
+02/07/25,Wed,10:45,Katowice,KTW,02/07/25,Wed,20:50,Milan BGYMilan (Bergamo),BGY,441
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,22:35,Brussels CRLBrussels (Charleroi),CRL,234
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,11:55,Palma Mall,PMI,319
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,18:20,Catania,CTA,342
+28/06/25,Sat,13:05,Katowice,KTW,28/06/25,Sat,15:30,Reggio Cal,REG,436
+01/07/25,Tue,16:15,Katowice,KTW,01/07/25,Tue,19:35,Madrid,MAD,327
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,15:10,Prague,PRG,333
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,22:10,Sofia,SOF,359
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,19:55,Athens,ATH,341
+30/06/25,Mon,05:35,Katowice,KTW,30/06/25,Mon,08:45,Corfu,CFU,299
+01/07/25,Tue,10:20,Katowice,KTW,01/07/25,Tue,15:45,Dusseldorf NRNDusseldorf (Weeze),NRN,371
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,16:50,Berlin BERBerlin (Brandenburg),BER,370
+27/06/25,Fri,15:45,Katowice,KTW,27/06/25,Fri,00:45,Warsaw WMIWarsaw (Modlin),WMI,397
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,21:05,Belfast,BFS,273
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,23:45,Rome FCORome (Fiumicino),FCO,499
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,23:30,Aalesund,AES,261
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,10:40,Salerno,QSR,401
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,21:40,Thessaloni,SKG,367
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,16:10,Barcelona REUBarcelona (Reus),REU,343
+26/06/25,Thu,20:30,Katowice,KTW,26/06/25,Thu,22:10,Split,SPU,359
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,22:55,Sarajevo,SJJ,402
+29/06/25,Sun,10:20,Katowice,KTW,29/06/25,Sun,14:45,Dubrovnik,DBV,408
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,20:25,Luxembourg,LUX,379
+26/06/25,Thu,15:20,Katowice,KTW,26/06/25,Thu,17:25,Naples,NAP,359
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,17:50,Trieste,TRS,236
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:45,Alicante,ALC,371
+27/06/25,Fri,05:45,Katowice,KTW,27/06/25,Fri,08:40,Varna,VAR,521
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,19:40,Eindhoven,EIN,299
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,16:30,Zaragoza,ZAZ,357
+02/07/25,Wed,06:30,Katowice,KTW,02/07/25,Wed,11:45,Manchester,MAN,373
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,09:50,Paphos,PFO,119
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,13:45,Trapani,TPS,478
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,01:50,Bucharest OTPBucharest (Otopeni),OTP,394
+01/07/25,Tue,06:15,Katowice,KTW,01/07/25,Tue,15:50,Split,SPU,468
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,23:05,Gdansk,GDN,372
+26/06/25,Thu,15:20,Katowice,KTW,26/06/25,Thu,17:25,Naples,NAP,359
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,16:30,Malta,MLA,385
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:20,Barcelona,BCN,404
+26/06/25,Thu,18:20,Katowice,KTW,26/06/25,Thu,20:50,Trapani,TPS,137
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,15:40,Skopje,SKP,375
+28/06/25,Sat,05:45,Katowice,KTW,28/06/25,Sat,17:15,Corfu,CFU,415
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,17:15,Brno,BRQ,391
+28/06/25,Sat,17:20,Katowice,KTW,28/06/25,Sat,21:35,Larnaca,LCA,399
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,12:15,Malaga,AGP,404
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,22:35,Reggio Cal,REG,333
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,12:40,Verona,VRN,436
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:45,Alicante,ALC,371
+01/07/25,Tue,15:15,Katowice,KTW,01/07/25,Tue,23:10,London LTNLondon (Luton),LTN,431
+01/07/25,Tue,12:30,Katowice,KTW,01/07/25,Tue,22:25,Olbia,OLB,440
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,17:20,Barcelona,BCN,404
+01/07/25,Tue,11:55,Katowice,KTW,01/07/25,Tue,23:15,London STNLondon (Stansted),STN,395
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,21:10,Malta,MLA,345
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,19:15,Pisa,PSA,365
+27/06/25,Fri,05:35,Katowice,KTW,27/06/25,Fri,08:45,Corfu,CFU,449
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,20:25,Paris ORYParis (Orly),ORY,264
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,16:10,Biarritz,BIQ,447
+28/06/25,Sat,05:45,Katowice,KTW,28/06/25,Sat,17:15,Corfu,CFU,415
+30/06/25,Mon,16:10,Katowice,KTW,30/06/25,Mon,20:35,Manchester,MAN,445
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,23:00,Szczecin,SZZ,381
+29/06/25,Sun,06:00,Katowice,KTW,29/06/25,Sun,16:05,Katowice,KTW,324
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,22:20,Valencia,VLC,396
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,18:45,Faro,FAO,426
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,19:40,Eindhoven,EIN,299
+30/06/25,Mon,16:10,Katowice,KTW,30/06/25,Mon,22:30,Stockholm ARNStockholm (Arlanda),ARN,335
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,01:15,Ibiza,IBZ,324
+01/07/25,Tue,10:50,Katowice,KTW,01/07/25,Tue,12:45,Eindhoven,EIN,309
+26/06/25,Thu,06:00,Katowice,KTW,26/06/25,Thu,13:00,Nantes,NTE,451
+30/06/25,Mon,19:50,Katowice,KTW,30/06/25,Mon,22:10,Alghero,AHO,355
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,22:15,Vienna,VIE,317
+30/06/25,Mon,11:25,Katowice,KTW,30/06/25,Mon,16:15,Tenerife S,TFS,399
+25/06/25,Wed,16:15,Katowice,KTW,25/06/25,Wed,21:30,Kutaisi,KUT,449
+01/07/25,Tue,10:50,Katowice,KTW,01/07/25,Tue,12:45,Eindhoven,EIN,309
+28/06/25,Sat,10:30,Katowice,KTW,28/06/25,Sat,15:55,Cologne CGNCologne-Bonn,CGN,196
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,17:35,Nice,NCE,309
+02/07/25,Wed,06:30,Katowice,KTW,02/07/25,Wed,13:10,Paris BVAParis (Beauvais),BVA,277
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,21:55,Larnaca,LCA,496
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,22:40,Trondheim,TRD,261
+26/06/25,Thu,16:00,Katowice,KTW,26/06/25,Thu,21:45,Paris CDGParis (Charles de Gaulle),CDG,313
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,22:45,Warsaw,WAW,423
+26/06/25,Thu,16:15,Katowice,KTW,26/06/25,Thu,19:35,Madrid,MAD,399
+30/06/25,Mon,11:25,Katowice,KTW,30/06/25,Mon,16:15,Tenerife S,TFS,399
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,19:50,Copenhagen,CPH,298
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,21:55,Bologna,BLQ,526
+26/06/25,Thu,15:25,Katowice,KTW,26/06/25,Thu,22:40,Newcastle,NCL,320
+30/06/25,Mon,15:40,Katowice,KTW,30/06/25,Mon,21:30,Porto,OPO,327
+02/07/25,Wed,06:15,Katowice,KTW,02/07/25,Wed,17:45,Tenerife S,TFS,428
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,14:40,Craiova,CRA,358
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,17:05,Lamezia Te,SUF,354
+27/06/25,Fri,05:50,Katowice,KTW,27/06/25,Fri,07:45,Dublin,DUB,170
+25/06/25,Wed,09:55,Katowice,KTW,25/06/25,Wed,23:15,Bratislava,BTS,548
+30/06/25,Mon,15:40,Katowice,KTW,30/06/25,Mon,21:45,Sevilla,SVQ,385
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,21:00,Paphos,PFO,306
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,16:15,Montpellie,MPL,337
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,20:00,Tenerife S,TFS,478
+01/07/25,Tue,17:20,Katowice,KTW,01/07/25,Tue,21:35,Larnaca,LCA,273
+25/06/25,Wed,06:30,Katowice,KTW,25/06/25,Wed,21:55,London LGWLondon (Gatwick),LGW,435
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,16:15,Hamburg,HAM,291
+25/06/25,Wed,13:05,Katowice,KTW,25/06/25,Wed,22:05,Cagliari,CAG,353
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,22:35,Lanzarote,ACE,461
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,22:30,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,437
+28/06/25,Sat,05:45,Katowice,KTW,28/06/25,Sat,12:20,Lyon,LYS,517
+25/06/25,Wed,06:15,Katowice,KTW,25/06/25,Wed,14:45,Belfast BHDBelfast (city),BHD,433
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,20:00,Fuertevent,FUE,520
+26/06/25,Thu,05:45,Katowice,KTW,26/06/25,Thu,17:40,Iasi,IAS,609
+01/07/25,Tue,06:15,Katowice,KTW,01/07/25,Tue,17:50,Lampedusa,LMP,466
+01/07/25,Tue,12:30,Katowice,KTW,01/07/25,Tue,15:20,Barcelona,BCN,309
+27/06/25,Fri,10:20,Katowice,KTW,27/06/25,Fri,17:40,Geneva,GVA,441
+27/06/25,Fri,11:50,Katowice,KTW,27/06/25,Fri,16:30,Fuertevent,FUE,539
+30/06/25,Mon,06:30,Katowice,KTW,30/06/25,Mon,19:45,Glasgow PIKGlasgow (Prestwick),PIK,362
+28/06/25,Sat,10:35,Katowice,KTW,28/06/25,Sat,20:00,Fuertevent,FUE,520
+25/06/25,Wed,15:45,Katowice,KTW,25/06/25,Wed,19:55,Bergen,BGO,427
+27/06/25,Fri,11:50,Katowice,KTW,27/06/25,Fri,16:30,Fuertevent,FUE,539
+26/06/25,Thu,16:15,Katowice,KTW,26/06/25,Thu,23:55,Bristol,BRS,477
+25/06/25,Wed,10:45,Katowice,KTW,25/06/25,Wed,21:55,Larnaca,LCA,496
+26/06/25,Thu,13:20,Katowice,KTW,26/06/25,Thu,23:00,Bodo,BOO,528
+28/06/25,Sat,09:55,Poznan,POZ,28/06/25,Sat,10:55,Prague,PRG,69
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,07:25,Venice TSFVenice (Treviso),TSF,104
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,18:20,Brussels CRLBrussels (Charleroi),CRL,90
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,12:20,Zadar,ZAD,108
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,07:35,Birmingham,BHX,99
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,11:25,London STNLondon (Stansted),STN,81
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,10:45,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,139
+25/06/25,Wed,20:05,Poznan,POZ,25/06/25,Wed,22:10,Paris BVAParis (Beauvais),BVA,79
+29/06/25,Sun,13:00,Poznan,POZ,29/06/25,Sun,14:50,Milan BGYMilan (Bergamo),BGY,137
+25/06/25,Wed,15:45,Poznan,POZ,25/06/25,Wed,17:55,Bari,BRI,157
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,20:50,Brussels CRLBrussels (Charleroi),CRL,218
+25/06/25,Wed,20:05,Poznan,POZ,25/06/25,Wed,22:10,Paris BVAParis (Beauvais),BVA,79
+28/06/25,Sat,09:55,Poznan,POZ,28/06/25,Sat,10:55,Prague,PRG,69
+25/06/25,Wed,15:45,Poznan,POZ,25/06/25,Wed,20:25,Palermo,PMO,231
+28/06/25,Sat,10:50,Poznan,POZ,28/06/25,Sat,12:00,Leeds,LBA,188
+27/06/25,Fri,19:25,Poznan,POZ,27/06/25,Fri,20:40,Copenhagen,CPH,79
+25/06/25,Wed,15:45,Poznan,POZ,25/06/25,Wed,17:55,Bari,BRI,157
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,12:20,Zadar,ZAD,108
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,17:05,Wroclaw,WRO,171
+26/06/25,Thu,08:35,Poznan,POZ,26/06/25,Thu,10:40,Rome CIARome (Ciampino),CIA,249
+30/06/25,Mon,05:45,Poznan,POZ,30/06/25,Mon,22:55,London LTNLondon (Luton),LTN,194
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,14:55,Paris BVAParis (Beauvais),BVA,174
+29/06/25,Sun,13:00,Poznan,POZ,29/06/25,Sun,22:35,Salerno,QSR,201
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,16:10,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,191
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,15:00,Thessaloni,SKG,292
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,20:35,Bologna,BLQ,193
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,18:00,Birmingham,BHX,288
+25/06/25,Wed,13:20,Poznan,POZ,25/06/25,Wed,14:40,Bristol,BRS,253
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,07:35,Birmingham,BHX,99
+27/06/25,Fri,22:00,Poznan,POZ,27/06/25,Fri,23:20,Liverpool,LPL,207
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,14:55,Paris BVAParis (Beauvais),BVA,174
+28/06/25,Sat,22:05,Poznan,POZ,28/06/25,Sat,00:10,Tirana,TIA,309
+29/06/25,Sun,17:20,Poznan,POZ,29/06/25,Sun,19:35,Rome FCORome (Fiumicino),FCO,269
+25/06/25,Wed,15:45,Poznan,POZ,25/06/25,Wed,23:59,Milan MXPMilan (Malpensa),MXP,215
+26/06/25,Thu,11:05,Poznan,POZ,26/06/25,Thu,12:50,Pula,PUY,365
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,11:25,London STNLondon (Stansted),STN,81
+29/06/25,Sun,13:00,Poznan,POZ,29/06/25,Sun,14:50,Milan BGYMilan (Bergamo),BGY,137
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,21:40,Bristol,BRS,288
+26/06/25,Thu,15:40,Poznan,POZ,26/06/25,Thu,22:35,Corfu,CFU,338
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,22:20,Warsaw WMIWarsaw (Modlin),WMI,226
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,18:20,Brussels CRLBrussels (Charleroi),CRL,90
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,23:59,Rome FCORome (Fiumicino),FCO,299
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,18:15,Shannon,SNN,182
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,14:55,Memmingen,FMM,274
+30/06/25,Mon,05:45,Poznan,POZ,30/06/25,Mon,14:55,Liverpool,LPL,268
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,15:40,Nantes,NTE,167
+28/06/25,Sat,09:55,Poznan,POZ,28/06/25,Sat,21:00,Rome CIARome (Ciampino),CIA,346
+27/06/25,Fri,22:00,Poznan,POZ,27/06/25,Fri,23:20,Liverpool,LPL,207
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,23:45,Nuernberg,NUE,240
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,22:20,Barcelona GROBarcelona (Girona),GRO,253
+26/06/25,Thu,20:25,Poznan,POZ,26/06/25,Thu,23:00,Cagliari,CAG,382
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,22:20,Barcelona GROBarcelona (Girona),GRO,253
+01/07/25,Tue,05:55,Poznan,POZ,01/07/25,Tue,17:00,Carcassonn,CCF,281
+30/06/25,Mon,12:25,Poznan,POZ,30/06/25,Mon,17:10,Bari,BRI,331
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,20:05,Manchester,MAN,195
+29/06/25,Sun,13:00,Poznan,POZ,29/06/25,Sun,17:40,Cologne CGNCologne-Bonn,CGN,255
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,19:25,Frankfurt HHNFrankfurt (Hahn),HHN,232
+29/06/25,Sun,13:00,Poznan,POZ,29/06/25,Sun,00:40,Katowice,KTW,245
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,20:05,Manchester,MAN,195
+26/06/25,Thu,15:25,Poznan,POZ,26/06/25,Thu,20:35,Pisa,PSA,347
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,15:15,Edinburgh,EDI,153
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,00:35,Bucharest OTPBucharest (Otopeni),OTP,230
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,15:40,Genova,GOA,352
+26/06/25,Thu,20:25,Poznan,POZ,26/06/25,Thu,00:15,Malaga,AGP,245
+26/06/25,Thu,08:55,Poznan,POZ,26/06/25,Thu,11:50,Malta,MLA,279
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,22:30,Toulouse,TLS,235
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,22:55,Glasgow,GLA,334
+25/06/25,Wed,15:45,Poznan,POZ,25/06/25,Wed,20:25,Palermo,PMO,231
+27/06/25,Fri,22:30,Poznan,POZ,27/06/25,Fri,00:25,Dubrovnik,DBV,316
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,17:10,Barcelona,BCN,304
+26/06/25,Thu,20:25,Poznan,POZ,26/06/25,Thu,23:00,Cagliari,CAG,382
+01/07/25,Tue,05:55,Poznan,POZ,01/07/25,Tue,21:55,Palma Mall,PMI,302
+28/06/25,Sat,10:50,Poznan,POZ,28/06/25,Sat,18:50,Cluj CLJCluj-Napoca,CLJ,385
+27/06/25,Fri,09:45,Poznan,POZ,27/06/25,Fri,23:40,Zadar,ZAD,465
+27/06/25,Fri,22:30,Poznan,POZ,27/06/25,Fri,00:25,Dubrovnik,DBV,316
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,07:20,Stockholm ARNStockholm (Arlanda),ARN,154
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,13:00,Copenhagen,CPH,327
+29/06/25,Sun,06:30,Poznan,POZ,29/06/25,Sun,16:40,Venice TSFVenice (Treviso),TSF,479
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,10:45,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,139
+26/06/25,Thu,08:35,Poznan,POZ,26/06/25,Thu,10:40,Rome CIARome (Ciampino),CIA,249
+26/06/25,Thu,18:15,Poznan,POZ,26/06/25,Thu,19:55,Dublin,DUB,153
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,15:00,Thessaloni,SKG,292
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,18:00,Birmingham,BHX,288
+30/06/25,Mon,05:45,Poznan,POZ,30/06/25,Mon,07:35,Cork,ORK,119
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,12:35,Lisbon,LIS,434
+30/06/25,Mon,05:45,Poznan,POZ,30/06/25,Mon,07:35,Cork,ORK,119
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,23:10,Tirana,TIA,472
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,20:45,Brussels CRLBrussels (Charleroi),CRL,228
+26/06/25,Thu,05:45,Poznan,POZ,26/06/25,Thu,10:05,Paphos,PFO,299
+27/06/25,Fri,12:05,Poznan,POZ,27/06/25,Fri,16:55,London STNLondon (Stansted),STN,407
+26/06/25,Thu,15:40,Poznan,POZ,26/06/25,Thu,00:40,Malta,MLA,329
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,11:15,Prague,PRG,534
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,23:50,Faro,FAO,247
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,20:00,Rhodes,RHO,274
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,20:25,Luxembourg,LUX,174
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,22:20,Valencia,VLC,191
+29/06/25,Sun,08:05,Poznan,POZ,29/06/25,Sun,17:10,Kaunas,KUN,387
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,18:10,Edinburgh,EDI,221
+29/06/25,Sun,06:30,Poznan,POZ,29/06/25,Sun,20:55,Naples,NAP,346
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,17:35,Riga,RIX,420
+26/06/25,Thu,15:40,Poznan,POZ,26/06/25,Thu,22:55,Zagreb,ZAG,338
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,23:59,Sevilla,SVQ,263
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,20:40,Stockholm ARNStockholm (Arlanda),ARN,206
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,13:45,Belfast,BFS,266
+01/07/25,Tue,18:55,Poznan,POZ,01/07/25,Tue,21:30,Palermo,PMO,304
+01/07/25,Tue,05:55,Poznan,POZ,01/07/25,Tue,21:55,Palma Mall,PMI,302
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,17:35,Fuertevent,FUE,346
+01/07/25,Tue,06:30,Poznan,POZ,01/07/25,Tue,23:50,Corfu,CFU,322
+28/06/25,Sat,14:50,Poznan,POZ,28/06/25,Sat,16:25,Stockholm ARNStockholm (Arlanda),ARN,129
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,00:05,Krakow,KRK,223
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,22:20,Cork,ORK,175
+01/07/25,Tue,09:35,Poznan,POZ,01/07/25,Tue,10:45,Leeds,LBA,117
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,15:15,Edinburgh,EDI,153
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,22:20,Cork,ORK,175
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,07:25,Venice TSFVenice (Treviso),TSF,104
+30/06/25,Mon,10:30,Poznan,POZ,30/06/25,Mon,15:55,Barcelona REUBarcelona (Reus),REU,426
+27/06/25,Fri,17:20,Poznan,POZ,27/06/25,Fri,22:10,Marseille,MRS,423
+27/06/25,Fri,09:45,Poznan,POZ,27/06/25,Fri,18:30,Catania,CTA,418
+01/07/25,Tue,05:45,Poznan,POZ,01/07/25,Tue,19:50,Prague,PRG,385
+29/06/25,Sun,17:20,Poznan,POZ,29/06/25,Sun,22:50,Trapani,TPS,421
+01/07/25,Tue,05:45,Poznan,POZ,01/07/25,Tue,15:30,Cagliari,CAG,543
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,18:25,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,294
+30/06/25,Mon,10:30,Poznan,POZ,30/06/25,Mon,00:30,Malaga,AGP,363
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,16:40,Helsinki,HEL,345
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,14:55,Poznan,POZ,269
+28/06/25,Sat,06:00,Poznan,POZ,28/06/25,Sat,10:35,Knock,NOC,394
+26/06/25,Thu,15:40,Poznan,POZ,26/06/25,Thu,23:15,Alghero,AHO,412
+26/06/25,Thu,08:35,Poznan,POZ,26/06/25,Thu,16:10,Sofia,SOF,385
+25/06/25,Wed,13:20,Poznan,POZ,25/06/25,Wed,14:40,Bristol,BRS,253
+29/06/25,Sun,15:05,Poznan,POZ,29/06/25,Sun,21:20,Dubrovnik,DBV,444
+30/06/25,Mon,10:30,Poznan,POZ,30/06/25,Mon,19:45,Chania,CHQ,561
+29/06/25,Sun,13:00,Poznan,POZ,29/06/25,Sun,01:30,Timisoara,TSR,350
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,22:50,London LGWLondon (Gatwick),LGW,273
+26/06/25,Thu,08:55,Poznan,POZ,26/06/25,Thu,11:50,Malta,MLA,279
+29/06/25,Sun,15:05,Poznan,POZ,29/06/25,Sun,21:20,Dubrovnik,DBV,444
+29/06/25,Sun,13:40,Poznan,POZ,29/06/25,Sun,16:20,Barcelona GROBarcelona (Girona),GRO,455
+27/06/25,Fri,19:25,Poznan,POZ,27/06/25,Fri,20:40,Copenhagen,CPH,79
+01/07/25,Tue,06:30,Poznan,POZ,01/07/25,Tue,18:55,Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion),TLV,463
+28/06/25,Sat,05:55,Poznan,POZ,28/06/25,Sat,09:20,Corfu,CFU,592
+25/06/25,Wed,13:50,Poznan,POZ,25/06/25,Wed,23:00,Bristol,BRS,288
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,20:40,Stockholm ARNStockholm (Arlanda),ARN,206
+27/06/25,Fri,09:45,Poznan,POZ,27/06/25,Fri,23:40,Zadar,ZAD,465
+28/06/25,Sat,09:15,Poznan,POZ,28/06/25,Sat,11:50,Palermo,PMO,606
+28/06/25,Sat,05:45,Poznan,POZ,28/06/25,Sat,07:25,Oslo TRFOslo (Torp),TRF,205
+01/07/25,Tue,05:45,Poznan,POZ,01/07/25,Tue,15:30,Cagliari,CAG,543
+27/06/25,Fri,07:05,Poznan,POZ,27/06/25,Fri,22:05,Liverpool,LPL,446
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,14:50,Vienna,VIE,253
+01/07/25,Tue,06:30,Poznan,POZ,01/07/25,Tue,22:50,Ibiza,IBZ,445
+25/06/25,Wed,13:20,Poznan,POZ,25/06/25,Wed,20:25,Alicante,ALC,393
+26/06/25,Thu,05:45,Poznan,POZ,26/06/25,Thu,10:05,Paphos,PFO,299
+27/06/25,Fri,07:05,Poznan,POZ,27/06/25,Fri,19:00,Paris ORYParis (Orly),ORY,342
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,16:05,Biarritz,BIQ,228
+26/06/25,Thu,18:15,Poznan,POZ,26/06/25,Thu,22:40,Newcastle,NCL,294
+26/06/25,Thu,08:55,Poznan,POZ,26/06/25,Thu,15:25,Milan BGYMilan (Bergamo),BGY,560
+26/06/25,Thu,15:40,Poznan,POZ,26/06/25,Thu,00:40,Malta,MLA,329
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,17:35,Budapest,BUD,261
+28/06/25,Sat,09:55,Poznan,POZ,28/06/25,Sat,18:05,Gdansk,GDN,341
+29/06/25,Sun,17:20,Poznan,POZ,29/06/25,Sun,19:35,Rome FCORome (Fiumicino),FCO,269
+28/06/25,Sat,06:00,Poznan,POZ,28/06/25,Sat,14:30,Turin,TRN,504
+30/06/25,Mon,05:45,Poznan,POZ,30/06/25,Mon,22:55,London LTNLondon (Luton),LTN,194
+30/06/25,Mon,12:25,Poznan,POZ,30/06/25,Mon,17:10,Bari,BRI,331
+27/06/25,Fri,12:05,Poznan,POZ,27/06/25,Fri,16:55,London STNLondon (Stansted),STN,407
+29/06/25,Sun,08:05,Poznan,POZ,29/06/25,Sun,17:40,Dublin,DUB,351
+25/06/25,Wed,05:45,Poznan,POZ,25/06/25,Wed,23:59,Rome FCORome (Fiumicino),FCO,299
+01/07/25,Tue,10:35,Poznan,POZ,01/07/25,Tue,17:25,Kosice,KSC,354
+28/06/25,Sat,10:50,Poznan,POZ,28/06/25,Sat,16:50,Berlin BERBerlin (Brandenburg),BER,481
+26/06/25,Thu,09:30,Poznan,POZ,26/06/25,Thu,12:45,Thessaloni,SKG,535
+27/06/25,Fri,05:45,Poznan,POZ,27/06/25,Fri,18:10,Edinburgh,EDI,221
+25/06/25,Wed,13:20,Poznan,POZ,25/06/25,Wed,20:25,Alicante,ALC,393
+25/06/25,Wed,16:35,Poznan,POZ,25/06/25,Wed,00:45,Athens,ATH,490
+25/06/25,Wed,10:20,Poznan,POZ,25/06/25,Wed,22:35,Lanzarote,ACE,256
+27/06/25,Fri,09:45,Poznan,POZ,27/06/25,Fri,18:55,Trieste,TRS,262
+25/06/25,Wed,15:45,Poznan,POZ,25/06/25,Wed,23:15,Bratislava,BTS,515
+26/06/25,Thu,06:10,Poznan,POZ,26/06/25,Thu,13:05,Malaga,AGP,409
+26/06/25,Thu,05:45,Poznan,POZ,26/06/25,Thu,09:05,Bourgas,BOJ,745
+01/07/25,Tue,05:45,Poznan,POZ,01/07/25,Tue,13:35,Madeira FNCMadeira (Funchal),FNC,574
+26/06/25,Thu,09:30,Poznan,POZ,26/06/25,Thu,12:45,Thessaloni,SKG,535
+26/06/25,Thu,18:15,Poznan,POZ,26/06/25,Thu,19:55,Dublin,DUB,153
+28/06/25,Sat,16:20,Poznan,POZ,28/06/25,Sat,20:15,Chania,CHQ,705
+30/06/25,Mon,10:30,Poznan,POZ,30/06/25,Mon,17:45,Tenerife S,TFS,501
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,11:10,Milan MXPMilan (Malpensa),MXP,202
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,16:00,London STNLondon (Stansted),STN,214
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,23:05,Malta,MLA,337
+29/06/25,Sun,19:35,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,21:30,Manchester,MAN,233
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,10:00,Milan MXPMilan (Malpensa),MXP,201
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,19:30,Milan MXPMilan (Malpensa),MXP,662
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,19:25,Frankfurt HHNFrankfurt (Hahn),HHN,289
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,21:10,Manchester,MAN,375
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,16:25,Nantes,NTE,336
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,19:20,Nuernberg,NUE,387
+29/06/25,Sun,19:35,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,23:30,Belfast,BFS,358
+29/06/25,Sun,19:35,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,21:30,Manchester,MAN,233
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,289
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,13:50,Valencia,VLC,337
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,20:35,Barcelona REUBarcelona (Reus),REU,378
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,00:20,Olbia,OLB,439
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,18:05,Naples,NAP,405
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,17:25,Catania,CTA,432
+28/06/25,Sat,21:50,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,23:30,Zadar,ZAD,136
+25/06/25,Wed,21:15,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,23:59,Malta,MLA,647
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,18:45,Edinburgh,EDI,403
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,14:35,Palermo,PMO,485
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,00:35,Cologne CGNCologne-Bonn,CGN,353
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,22:20,Alicante,ALC,692
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,21:20,Bari,BRI,485
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,21:10,Manchester,MAN,375
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,20:50,Brussels CRLBrussels (Charleroi),CRL,515
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,01:00,Milan MXPMilan (Malpensa),MXP,490
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,16:30,Budapest,BUD,399
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,16:55,Lourdes LDELourdes-Tarbes,LDE,476
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,15:10,Porto,OPO,387
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:15,Palma Mall,PMI,366
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,00:20,Gdansk,GDN,356
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,14:55,Malaga,AGP,403
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:50,Trieste,TRS,504
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,22:15,Paris BVAParis (Beauvais),BVA,353
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,15:15,Prishtina,PRN,585
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,23:45,Barcelona,BCN,537
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,14:40,Paris ORYParis (Orly),ORY,309
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,18:50,London STNLondon (Stansted),STN,732
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,13:50,Menorca,MAH,624
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,20:15,Corfu,CFU,446
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,00:20,Cagliari,CAG,624
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,16:05,Limoges,LIG,556
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,16:40,Oslo TRFOslo (Torp),TRF,428
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,21:40,Athens,ATH,624
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,21:00,Katowice,KTW,527
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,15:45,Ibiza,IBZ,555
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,17:05,Wroclaw,WRO,468
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,19:30,Glasgow,GLA,408
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,14:30,Poznan,POZ,498
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,22:15,Warsaw WMIWarsaw (Modlin),WMI,525
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:20,Dubrovnik,DBV,491
+28/06/25,Sat,09:00,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,00:55,Bristol,BRS,990
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,20:00,Santiago D,SCQ,361
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,02:35,Vilnius,VNO,732
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,21:20,Amsterdam,AMS,458
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,19:00,Prague,PRG,571
+28/06/25,Sat,09:00,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,14:35,Turin,TRN,712
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,15:20,Mikonos,JMK,575
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,20:35,Bologna,BLQ,489
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:40,Vienna,VIE,266
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,16:40,Rhodes,RHO,622
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,21:40,Lamezia Te,SUF,624
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,16:00,London LTNLondon (Luton),LTN,624
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,23:05,Malta,MLA,337
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,22:20,Alicante,ALC,692
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,21:40,Brindisi,BDS,624
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,21:40,Bordeaux,BOD,617
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,18:05,Stockholm ARNStockholm (Arlanda),ARN,460
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,21:35,Paris CDGParis (Charles de Gaulle),CDG,473
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,13:05,London LGWLondon (Gatwick),LGW,665
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,20:20,Split,SPU,745
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,13:00,Alicante,ALC,812
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:35,Szczecin,SZZ,735
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,13:00,Alicante,ALC,812
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:00,Thessaloni,SKG,579
+01/07/25,Tue,08:10,Rzeszow RZERzeszow-Jasionka,RZE,01/07/25,Tue,18:25,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,591
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,18:15,Reykjavik KEFReykjavik (Keflavik),KEF,819
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,16:15,Rome FCORome (Fiumicino),FCO,1272
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,20:20,Kefalonia,EFL,624
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,19:40,Sevilla,SVQ,937
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,16:00,London LTNLondon (Luton),LTN,624
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,16:40,Oslo OSLOslo (Gardermoen),OSL,646
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,15:15,Lampedusa,LMP,624
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,17:35,Copenhagen,CPH,454
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,20:55,Murcia,RMU,597
+28/06/25,Sat,09:00,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,11:45,Malta,MLA,597
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,14:45,Dublin,DUB,835
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,19:10,Newquay,NQY,940
+28/06/25,Sat,09:00,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,22:45,Warsaw,WAW,1128
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,23:40,Nice,NCE,617
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:05,Bratislava,BTS,835
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,23:00,Lisbon,LIS,962
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,20:55,Vigo,VGO,671
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:20,Rotterdam,RTM,466
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,20:05,London SENLondon (Southend),SEN,1089
+28/06/25,Sat,09:00,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,00:55,Bristol,BRS,990
+29/06/25,Sun,08:05,Rzeszow RZERzeszow-Jasionka,RZE,29/06/25,Sun,14:45,Dublin,DUB,835
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,21:10,Enfidha,NBE,795
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,17:50,Tenerife S,TFS,624
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:00,Berlin BERBerlin (Brandenburg),BER,796
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,19:15,Lodz,LCJ,1146
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,23:15,Goteborg GOTGoteborg (Landvetter),GOT,346
+28/06/25,Sat,09:00,Rzeszow RZERzeszow-Jasionka,RZE,28/06/25,Sat,15:45,Geneva,GVA,882
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,01:05,Kaunas,KUN,1255
+30/06/25,Mon,13:55,Rzeszow RZERzeszow-Jasionka,RZE,30/06/25,Mon,01:00,Paphos,PFO,653
+30/06/25,Mon,13:55,Rzeszow RZERzeszow-Jasionka,RZE,30/06/25,Mon,01:00,Madrid,MAD,1006
+26/06/25,Thu,09:15,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,22:15,Riga,RIX,904
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,17:20,Dusseldorf NRNDusseldorf (Weeze),NRN,1125
+27/06/25,Fri,14:20,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,23:10,Bydgoszcz,BZG,713
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,20:40,Kosice,KSC,982
+25/06/25,Wed,13:25,Rzeszow RZERzeszow-Jasionka,RZE,25/06/25,Wed,21:55,Barcelona GROBarcelona (Girona),GRO,1344
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,21:25,Bournemout,BOH,1355
+26/06/25,Thu,10:55,Rzeszow RZERzeszow-Jasionka,RZE,26/06/25,Thu,17:45,Memmingen,FMM,1140
+27/06/25,Fri,09:30,Rzeszow RZERzeszow-Jasionka,RZE,27/06/25,Fri,21:30,Lyon,LYS,1093
+30/06/25,Mon,13:55,Rzeszow RZERzeszow-Jasionka,RZE,30/06/25,Mon,20:35,Perugia,PEG,925
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,08:30,Gdansk,GDN,342
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,12:20,London LTNLondon (Luton),LTN,188
+29/06/25,Sun,12:10,Lublin,LUZ,29/06/25,Sun,15:10,Bourgas,BOJ,309
+28/06/25,Sat,20:20,Lublin,LUZ,28/06/25,Sat,22:10,Split,SPU,309
+26/06/25,Thu,13:00,Lublin,LUZ,26/06/25,Thu,15:05,Milan BGYMilan (Bergamo),BGY,427
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,21:25,Gdansk,GDN,592
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,20:40,Milan BGYMilan (Bergamo),BGY,596
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:45,Split,SPU,592
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,12:20,London LTNLondon (Luton),LTN,188
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:50,Bourgas,BOJ,701
+28/06/25,Sat,20:20,Lublin,LUZ,28/06/25,Sat,00:25,Rome FCORome (Fiumicino),FCO,459
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:20,Corfu,CFU,654
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,22:30,Palma Mall,PMI,480
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,20:45,Malaga,AGP,535
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,01:10,Bratislava,BTS,494
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,14:50,Alicante,ALC,560
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,01:30,Timisoara,TSR,545
+27/06/25,Fri,09:25,Lublin,LUZ,27/06/25,Fri,12:15,Barcelona GROBarcelona (Girona),GRO,747
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,19:00,Faro,FAO,364
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,15:55,Lyon,LYS,654
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,16:40,Belfast,BFS,372
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:50,Manchester,MAN,575
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:35,Barcelona,BCN,371
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,17:45,Paris CDGParis (Charles de Gaulle),CDG,475
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,20:15,Glasgow,GLA,415
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:40,Edinburgh,EDI,557
+28/06/25,Sat,10:10,Lublin,LUZ,28/06/25,Sat,23:50,Ibiza,IBZ,623
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,16:20,Vilnius,VNO,808
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,18:55,Jersey,JER,654
+29/06/25,Sun,12:10,Lublin,LUZ,29/06/25,Sun,15:10,Bourgas,BOJ,309
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,17:05,Warsaw WMIWarsaw (Modlin),WMI,648
+28/06/25,Sat,20:20,Lublin,LUZ,28/06/25,Sat,22:10,Split,SPU,309
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,22:15,Rotterdam,RTM,614
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,01:35,Craiova,CRA,716
+01/07/25,Tue,07:20,Lublin,LUZ,01/07/25,Tue,15:50,Copenhagen,CPH,406
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:40,Krakow,KRK,441
+30/06/25,Mon,16:20,Lublin,LUZ,30/06/25,Mon,00:25,Bacau,BCM,873
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:45,Antalya,AYT,557
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,19:35,Larnaca,LCA,674
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,16:25,Prague,PRG,568
+01/07/25,Tue,10:20,Lublin,LUZ,01/07/25,Tue,19:30,Bologna,BLQ,350
+30/06/25,Mon,09:00,Lublin,LUZ,30/06/25,Mon,01:50,Amsterdam,AMS,704
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:20,Nice,NCE,654
+29/06/25,Sun,16:20,Lublin,LUZ,29/06/25,Sun,21:45,Berlin BERBerlin (Brandenburg),BER,986
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,22:50,Menorca,MAH,627
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:15,Inverness,INV,624
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:45,Split,SPU,592
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,16:45,Pisa,PSA,623
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,21:00,Lisbon,LIS,654
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,20:20,Zakinthos,ZTH,654
+25/06/25,Wed,13:10,Lublin,LUZ,25/06/25,Wed,00:10,London LGWLondon (Gatwick),LGW,913
+29/06/25,Sun,16:20,Lublin,LUZ,29/06/25,Sun,20:25,Aberdeen,ABZ,956
+26/06/25,Thu,16:20,Lublin,LUZ,26/06/25,Thu,02:30,Varna,VAR,1008
+29/06/25,Sun,16:10,Lublin,LUZ,29/06/25,Sun,22:40,Paris ORYParis (Orly),ORY,952
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,23:00,Belgrade,BEG,502
+28/06/25,Sat,10:10,Lublin,LUZ,28/06/25,Sat,19:00,Catania,CTA,758
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,18:45,Reykjavik KEFReykjavik (Keflavik),KEF,651
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,22:50,Bourgas,BOJ,701
+26/06/25,Thu,13:00,Lublin,LUZ,26/06/25,Thu,00:05,Helsinki,HEL,835
+25/06/25,Wed,13:10,Lublin,LUZ,25/06/25,Wed,22:25,Vienna,VIE,1032
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,19:10,Marrakech,RAK,798
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,18:35,Bristol,BRS,1127
+25/06/25,Wed,10:35,Lublin,LUZ,25/06/25,Wed,19:35,Murcia,RMU,890
+26/06/25,Thu,18:50,Lublin,LUZ,26/06/25,Thu,21:05,Dublin,DUB,573
+28/06/25,Sat,07:20,Lublin,LUZ,28/06/25,Sat,16:50,Oslo OSLOslo (Gardermoen),OSL,561
+28/06/25,Sat,10:10,Lublin,LUZ,28/06/25,Sat,17:30,Kaunas,KUN,948
+27/06/25,Fri,16:20,Lublin,LUZ,27/06/25,Fri,23:40,Milan MXPMilan (Malpensa),MXP,865
+29/06/25,Sun,08:25,Lublin,LUZ,29/06/25,Sun,23:20,Stockholm ARNStockholm (Arlanda),ARN,1111
+28/06/25,Sat,22:20,Bydgoszcz,BZG,28/06/25,Sat,23:45,Bristol,BRS,138
+25/06/25,Wed,22:00,Bydgoszcz,BZG,25/06/25,Wed,23:25,Birmingham,BHX,188
+26/06/25,Thu,21:10,Bydgoszcz,BZG,26/06/25,Thu,00:30,Alicante,ALC,288
+26/06/25,Thu,21:10,Bydgoszcz,BZG,26/06/25,Thu,00:30,Alicante,ALC,288
+30/06/25,Mon,22:40,Bydgoszcz,BZG,30/06/25,Mon,23:50,London STNLondon (Stansted),STN,291
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,21:20,Edinburgh,EDI,312
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,20:55,Belfast,BFS,351
+29/06/25,Sun,18:15,Bydgoszcz,BZG,29/06/25,Sun,22:55,Glasgow,GLA,501
+25/06/25,Wed,22:00,Bydgoszcz,BZG,25/06/25,Wed,23:25,Birmingham,BHX,188
+25/06/25,Wed,22:55,Bydgoszcz,BZG,25/06/25,Wed,00:45,Dublin,DUB,139
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,11:25,London LTNLondon (Luton),LTN,667
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,00:55,Prague,PRG,267
+29/06/25,Sun,18:15,Bydgoszcz,BZG,29/06/25,Sun,00:15,Palma Mall,PMI,466
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,22:40,Bristol,BRS,791
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,21:25,Malaga,AGP,431
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,18:30,Alicante,ALC,877
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,21:55,London LTNLondon (Luton),LTN,807
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,18:30,Alicante,ALC,877
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,21:20,Faro,FAO,441
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,15:25,Farranfore,KIR,760
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,17:00,Nantes,NTE,755
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,19:10,Sevilla,SVQ,577
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,22:30,Ibiza,IBZ,585
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,21:40,Newcastle,NCL,391
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,23:05,Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL),BSL,855
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,21:20,Geneva,GVA,817
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,22:30,Nice,NCE,391
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,18:55,Barcelona,BCN,1010
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,23:35,Katowice,KTW,783
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,20:05,Inverness,INV,1036
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,20:45,Split,SPU,911
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,16:30,Beziers,BZR,1001
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,22:30,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,937
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,17:25,Paris CDGParis (Charles de Gaulle),CDG,1011
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,15:25,Poznan,POZ,841
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,22:50,Menorca,MAH,1186
+29/06/25,Sun,18:05,Bydgoszcz,BZG,29/06/25,Sun,23:45,Zagreb,ZAG,1147
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,16:00,Pisa,PSA,1133
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,19:40,Krakow,KRK,1150
+01/07/25,Tue,15:30,Bydgoszcz,BZG,01/07/25,Tue,20:55,Porto,OPO,486
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,01:00,Kaunas,KUN,1039
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,20:00,Athens,ATH,1021
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,23:00,Belgrade,BEG,866
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,16:40,Lyon,LYS,1133
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,19:05,Rhodes,RHO,1133
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,19:10,Stockholm ARNStockholm (Arlanda),ARN,926
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,15:45,Lublin,LUZ,1265
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,21:00,Lisbon,LIS,1128
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,23:35,Bacau,BCM,1335
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,17:50,Amsterdam,AMS,1264
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,00:40,Wroclaw,WRO,719
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,22:15,Vilnius,VNO,1433
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,21:45,Rzeszow RZERzeszow-Jasionka,RZE,1410
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,17:30,Jersey,JER,1051
+30/06/25,Mon,10:00,Bydgoszcz,BZG,30/06/25,Mon,23:59,East Midla,EMA,1235
+27/06/25,Fri,10:10,Bydgoszcz,BZG,27/06/25,Fri,20:55,Marrakech,RAK,1133
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,20:55,Murcia,RMU,1610
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,18:45,Oslo OSLOslo (Gardermoen),OSL,1668
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,21:15,Zurich,ZRH,1128
+29/06/25,Sun,10:05,Bydgoszcz,BZG,29/06/25,Sun,17:50,Naples,NAP,1625
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,16:25,Cologne CGNCologne-Bonn,CGN,1724
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,21:40,Gdansk,GDN,1707
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,20:30,Bratislava,BTS,1797
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,15:55,Newquay,NQY,1634
+29/06/25,Sun,09:55,Bydgoszcz,BZG,29/06/25,Sun,21:25,Malta,MLA,1717
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,17:55,Liverpool,LPL,153
+26/06/25,Thu,23:00,Szczecin,SZZ,26/06/25,Thu,23:55,London STNLondon (Stansted),STN,79
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,18:35,Krakow,KRK,219
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,01:20,Katowice,KTW,297
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,22:05,Barcelona,BCN,277
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,13:40,Belfast,BFS,313
+26/06/25,Thu,23:10,Szczecin,SZZ,26/06/25,Thu,00:35,Dublin,DUB,141
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,19:25,Frankfurt HHNFrankfurt (Hahn),HHN,310
+27/06/25,Fri,10:05,Szczecin,SZZ,27/06/25,Fri,11:30,Oslo TRFOslo (Torp),TRF,158
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,01:05,Gdansk,GDN,332
+27/06/25,Fri,10:05,Szczecin,SZZ,27/06/25,Fri,18:30,Riga,RIX,324
+27/06/25,Fri,10:05,Szczecin,SZZ,27/06/25,Fri,11:30,Oslo TRFOslo (Torp),TRF,158
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,22:55,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,310
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,23:15,Palma Mall,PMI,438
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,14:50,Isle Of Ma,IOM,373
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,21:10,Faro,FAO,403
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,21:10,Berlin BERBerlin (Brandenburg),BER,403
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,20:35,Barcelona REUBarcelona (Reus),REU,400
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,21:25,Turin,TRN,429
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,18:35,Krakow,KRK,219
+28/06/25,Sat,16:25,Szczecin,SZZ,28/06/25,Sat,22:45,Malaga,AGP,467
+30/06/25,Mon,10:05,Szczecin,SZZ,30/06/25,Mon,16:35,London STNLondon (Stansted),STN,566
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:05,Paris CDGParis (Charles de Gaulle),CDG,386
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,17:40,Belfast BHDBelfast (city),BHD,590
+28/06/25,Sat,16:25,Szczecin,SZZ,28/06/25,Sat,23:55,Alicante,ALC,502
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,22:35,Lanzarote,ACE,680
+30/06/25,Mon,10:05,Szczecin,SZZ,30/06/25,Mon,17:35,Warsaw,WAW,724
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,20:25,Prague,PRG,428
+30/06/25,Mon,16:45,Szczecin,SZZ,30/06/25,Mon,01:25,Iasi,IAS,756
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,20:25,Luxembourg,LUX,598
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,22:30,Toulouse,TLS,659
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,00:05,Oslo OSLOslo (Gardermoen),OSL,367
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,20:00,Santiago D,SCQ,383
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:25,Pisa,PSA,378
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,20:50,Cork,ORK,373
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,16:10,Zadar,ZAD,478
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,18:45,Edinburgh,EDI,425
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,19:30,Glasgow,GLA,430
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,20:55,Murcia,RMU,619
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:55,Osijek,OSI,849
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,16:00,Amsterdam,AMS,620
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,13:35,Knock,NOC,1042
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:10,Madrid,MAD,805
+29/06/25,Sun,16:55,Szczecin,SZZ,29/06/25,Sun,21:20,Bologna,BLQ,613
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,22:35,Vilnius,VNO,804
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,21:10,Nice,NCE,620
+26/06/25,Thu,23:10,Szczecin,SZZ,26/06/25,Thu,00:35,Dublin,DUB,141
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,22:50,Stockholm ARNStockholm (Arlanda),ARN,404
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:05,Corfu,CFU,651
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,00:40,Athens,ATH,1054
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,23:55,Paphos,PFO,864
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,19:10,Newquay,NQY,962
+29/06/25,Sun,16:55,Szczecin,SZZ,29/06/25,Sun,23:25,London LGWLondon (Gatwick),LGW,836
+30/06/25,Mon,10:05,Szczecin,SZZ,30/06/25,Mon,00:10,Zagreb,ZAG,1089
+25/06/25,Wed,21:55,Szczecin,SZZ,25/06/25,Wed,23:05,Liverpool,LPL,286
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,813
+26/06/25,Thu,17:25,Szczecin,SZZ,26/06/25,Thu,23:45,Trondheim,TRD,529
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:00,Santander,SDR,1088
+27/06/25,Fri,14:55,Szczecin,SZZ,27/06/25,Fri,21:40,Naples,NAP,1128
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:30,Ostrava,OSR,961
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,21:05,Palermo,PMO,812
+25/06/25,Wed,15:25,Szczecin,SZZ,25/06/25,Wed,23:05,Madeira FNCMadeira (Funchal),FNC,1024
+27/06/25,Fri,09:10,Szczecin,SZZ,27/06/25,Fri,23:15,Bodrum,BJV,977
+29/06/25,Sun,21:55,Lodz,LCJ,29/06/25,Sun,23:50,Milan BGYMilan (Bergamo),BGY,149
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,17:05,London STNLondon (Stansted),STN,153
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:20,Dubrovnik,DBV,382
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:30,Toulouse,TLS,360
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,16:10,Karlsruhe FKBKarlsruhe-Baden Baden,FKB,316
+27/06/25,Fri,20:45,Lodz,LCJ,27/06/25,Fri,22:40,Brussels CRLBrussels (Charleroi),CRL,214
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:25,Luxembourg,LUX,299
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:20,Valencia,VLC,316
+30/06/25,Mon,15:20,Lodz,LCJ,30/06/25,Mon,19:45,Poznan,POZ,354
+26/06/25,Thu,20:45,Lodz,LCJ,26/06/25,Thu,00:10,Alicante,ALC,344
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:50,Trieste,TRS,396
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,18:30,Zagreb,ZAG,486
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:00,Wroclaw,WRO,503
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,18:25,Zadar,ZAD,600
+01/07/25,Tue,14:25,Lodz,LCJ,01/07/25,Tue,22:45,Edinburgh,EDI,356
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:55,Gdansk,GDN,537
+01/07/25,Tue,14:25,Lodz,LCJ,01/07/25,Tue,21:20,Cluj CLJCluj-Napoca,CLJ,602
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,16:55,Berlin BERBerlin (Brandenburg),BER,561
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,17:25,Palma Mall,PMI,656
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,13:45,Malaga,AGP,641
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:05,Rhodes,RHO,756
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,19:00,Sevilla,SVQ,413
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,13:45,Malaga,AGP,641
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,20:35,Glasgow,GLA,417
+27/06/25,Fri,15:55,Lodz,LCJ,27/06/25,Fri,19:20,Belfast,BFS,477
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,21:00,Santander,SDR,789
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,18:50,Marseille,MRS,735
+30/06/25,Mon,10:10,Lodz,LCJ,30/06/25,Mon,00:30,Malaga,AGP,825
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,22:55,East Midla,EMA,845
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:05,Kefalonia,EFL,918
+26/06/25,Thu,20:45,Lodz,LCJ,26/06/25,Thu,00:10,Alicante,ALC,344
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,21:20,Dusseldorf NRNDusseldorf (Weeze),NRN,993
+30/06/25,Mon,10:10,Lodz,LCJ,30/06/25,Mon,00:30,Malaga,AGP,825
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:20,Rotterdam,RTM,357
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,20:45,Newcastle,NCL,828
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,22:35,Lanzarote,ACE,381
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,19:55,Brussels CRLBrussels (Charleroi),CRL,872
+30/06/25,Mon,10:10,Lodz,LCJ,30/06/25,Mon,19:50,Fuertevent,FUE,928
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,20:55,Milan BGYMilan (Bergamo),BGY,1222
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:15,Bristol,BRS,948
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,21:55,Thessaloni,SKG,1082
+27/06/25,Fri,19:40,Lodz,LCJ,27/06/25,Fri,01:30,London LGWLondon (Gatwick),LGW,737
+01/07/25,Tue,12:15,Lodz,LCJ,01/07/25,Tue,21:55,Olbia,OLB,733
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,18:45,Faro,FAO,1019
+01/07/25,Tue,14:25,Lodz,LCJ,01/07/25,Tue,22:10,Madrid,MAD,1205
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:10,Leeds,LBA,885
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:40,Stockholm ARNStockholm (Arlanda),ARN,331
+28/06/25,Sat,14:20,Lodz,LCJ,28/06/25,Sat,22:35,Kaunas,KUN,1110
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,01:10,Paphos,PFO,890
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,00:05,Manchester,MAN,917
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,22:30,Naples,NAP,976
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,21:50,Paris ORYParis (Orly),ORY,816
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,22:45,Nantes,NTE,773
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,19:00,London LTNLondon (Luton),LTN,896
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,17:50,Menorca,MAH,1391
+26/06/25,Thu,10:40,Lodz,LCJ,26/06/25,Thu,12:10,Birmingham,BHX,1016
+28/06/25,Sat,14:20,Lodz,LCJ,28/06/25,Sat,21:20,Lamezia Te,SUF,1043
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,21:15,Lyon,LYS,1034
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,21:25,Rzeszow RZERzeszow-Jasionka,RZE,514
+27/06/25,Fri,15:55,Lodz,LCJ,27/06/25,Fri,23:10,Bydgoszcz,BZG,776
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,17:20,Crotone,CRV,1274
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,20:20,Krakow,KRK,973
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:10,Amsterdam,AMS,956
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,22:50,Bournemout,BOH,1118
+28/06/25,Sat,12:50,Lodz,LCJ,28/06/25,Sat,22:55,Sarajevo,SJJ,995
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:35,Brussels,BRU,1028
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,00:45,Warsaw WMIWarsaw (Modlin),WMI,1017
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,00:30,Liverpool,LPL,1032
+26/06/25,Thu,10:40,Lodz,LCJ,26/06/25,Thu,17:10,Barcelona,BCN,1220
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,23:35,Marrakech,RAK,1326
+28/06/25,Sat,14:20,Lodz,LCJ,28/06/25,Sat,21:30,Vilnius,VNO,815
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:10,Bilbao,BIO,1184
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,19:35,Copenhagen,CPH,955
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,22:15,Santiago D,SCQ,1061
+26/06/25,Thu,22:40,Lodz,LCJ,26/06/25,Thu,00:30,Dublin,DUB,337
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,22:40,Eindhoven,EIN,1237
+26/06/25,Thu,15:50,Lodz,LCJ,26/06/25,Thu,23:15,Goteborg GOTGoteborg (Landvetter),GOT,238
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,23:45,Milan MXPMilan (Malpensa),MXP,758
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,22:00,Kos,KGS,1179
+25/06/25,Wed,11:05,Lodz,LCJ,25/06/25,Wed,01:40,Helsinki,HEL,1109
+26/06/25,Thu,10:40,Lodz,LCJ,26/06/25,Thu,18:15,Cork,ORK,1161
+27/06/25,Fri,13:40,Lodz,LCJ,27/06/25,Fri,17:55,Cologne CGNCologne-Bonn,CGN,885
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:10,Podgorica,TGD,1178
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,21:00,Muenster FMOMuenster-Osnabrueck,FMO,1417
+28/06/25,Sat,09:50,Lodz,LCJ,28/06/25,Sat,18:50,Oslo OSLOslo (Gardermoen),OSL,1139
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:45,Riga,RIX,635
+27/06/25,Fri,15:55,Lodz,LCJ,27/06/25,Fri,00:40,Athens,ATH,1096
+25/06/25,Wed,11:35,Lodz,LCJ,25/06/25,Wed,20:20,Ibiza,IBZ,926
